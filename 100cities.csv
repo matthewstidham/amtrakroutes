@@ -1,0 +1,100 @@
+Name,State,Population rank (core city),Population rank (Primary Statistical Area),Distance to closest larger American city (KM),Power,Population Primary Statistical Area,Population PSAPower,Rolling population total,"Politics 1 for Democrat, -1 for Republican, 2 for swing",Governor party D+ R-,Highest-ranked university ranking (US News) (200=0),GDP per capita of State,Closest National Park (KM),Distance from a foreign country (KM),Score,"If part of a larger city's transportation, city name",Closest City Name,Closest City Rank,Region,Current AMTRAK service?,Score Rank,Population PSA Rank,Number of Routes,Number of trains,Missing railroad?,Note,Longitude,Latitude
+New York,New York,1,1,20000,20000,23362099,467241980000,23362099,1,1,4,59414,557,433,805,,,,Northeast,yes,1,1,7,,,,40.7,-74
+Los Angeles,California,2,2,4000,2000,18238998,72955992000,41601097,1,1,24,51374,215,195,705,,New York,1,Southwest,yes,2,2,5,,,,34,-118.25
+Chicago,Illinois,3,3,1200,400,9899902,11879882400,51500999,1,1,4,50058,510,577,712,,New York,1,Midwest,yes,3,3,14,,,,42,-87.75
+Washington/Baltimore,DC,24,4,370,92.5,9331587,3452687190,60832586,1,1,21,156367,100,464,1759,,New York,1,Mid-Atlantic,yes,7,9,5,,,,39,-77
+San Jose/San Francisco,California,10,5,500,100,8370967,4185483500,69203553,1,1,200,51374,200,690,529,,Los Angeles,2,Southwest,yes,6,8,2,,,,37.75,-122.5
+Boston,Massachusetts,21,6,340,56.67,7991371,2717066140,77194924,1,1,51,57332,300,300,738,,New York,1,Northeast,yes,11,11,5,,,,42.5,-71
+Philadelphia,Pennsylvania,5,7,150,21.43,7129428,1069414200,84324352,2,1,8,45170,,,#DIV/0!,,Baltimore/Washington,4,Northeast,yes,17,18,7,,,,40,-75
+Dallas (Fort Worth),Texas,9,8,1300,162.5,6700991,8711288300,91025343,-1,-1,58,47027,388,560,598,,Los Angeles,2,South,yes,4,4,7,,,,32.75,-96.75
+Miami,Florida,44,9,1000,111.11,6375434,6375434000,97400777,2,-1,44,39563,1,90,667,,Atlanta,10,South,yes,5,5,2,,,,25.75,-80.25
+Houston,Texas,4,10,370,37,6177035,2285502950,103577812,-1,-1,17,47027,,,#DIV/0!,,Dallas,7,South,yes,13,13,4,,,,29.75,-95.5
+Atlanta,Georgia,40,11,900,81.82,6092295,5483065500,109670107,-1,-1,20,41223,190,920,578,,Baltimore/Washington,4,South,yes,9,6,6,,,,33.75,-84.5
+Detroit,Michigan,18,12,370,30.83,5311449,1965236130,114981556,1,1,200,37708,,,#DIV/0!,,Chicago,3,Midwest,yes,15,14,2,,,,42.5,-83
+Seattle,Washington,22,13,1131,87,4399332,4975644492,119380888,1,1,46,45135,60,100,622,,Los Angeles,2,Northwest,yes,8,7,6,,,,47.5,-122.25
+Phoenix,Arizona,6,14,550,39.29,4329534,2381243700,123710422,-1,-1,139,40305,,,#DIV/0!,,Los Angeles,2,Southwest,yes,12,12,2,,,,33.5,-112
+Minneapolis,Minnesota,48,15,500,33.33,3759978,1879989000,127470400,1,1,68,49972,,,#DIV/0!,,Chicago,3,Midwest,yes,14,15,6,,,,45,-93.25
+Cleveland,Ohio,45,16,300,18.75,3497711,1049313300,130968111,2,-1,37,41871,,,#DIV/0!,,Detroit,12,Midwest,yes,19,19,4,,,,41.5,-81.75
+Denver,Colorado,23,17,1000,58.82,3214218,3214218000,134182329,1,1,83,50752,50,920,642,,Dallas,7,Southwest,yes,10,10,3,,,,39.75,-105
+San Diego,California,8,18,180,10,3177063,571871340,137359392,1,1,38,51374,,,#DIV/0!,,Los Angeles,2,Southwest,yes,29,29,3,,,,32.75,-117
+Portland,Oregon,29,19,220,11.58,2992924,658443280,140352316,1,1,200,43622,,,#DIV/0!,,Seattle,,Northwest,yes,25,27,5,,,,45.5,-122.75
+Orlando,Florida,78,20,320,16,2920603,934592960,143272919,2,-1,174,39563,,,#DIV/0!,,Miami,11,South,yes,20,20,9,,,,28.5,-81.25
+St. Louis,Missouri,58,21,430,20.48,2900605,1247260150,146173524,-1,-1,14,41041,,,#DIV/0!,,Chicago,3,Midwest,yes,18,17,4,,,,38.5,-90.25
+Tampa,Florida,53,22,120,5.45,2842878,341145360,149016402,2,-1,170,39563,,,#DIV/0!,,Orlando,,South,yes,41,43,1,4,,,28,-82.5
+Pittsburgh,Pennsylvania,61,23,180,7.83,2661369,479046420,151677771,2,-1,23,45170,,,#DIV/0!,,Cleveland,,Northeast,yes,31,31,2,,,,40.5,-80
+Sacramento,California,35,24,140,5.83,2462722,344781080,154140493,1,1,200,51374,,,#DIV/0!,,San Jose,,Southwest,yes,40,42,3,,,,38.5,-121.5
+Charlotte,North Carolina,17,25,370,14.8,2454619,908209030,156595112,-1,-1,199,42190,,,#DIV/0!,,Atlanta,10,South,yes,21,21,3,,,,35.25,-81
+Kansas City,Missouri,37,26,380,14.62,2376631,903119780,158971743,-1,-1,179,41041,,,#DIV/0!,,St. Louis,,Midwest,yes,22,22,5,,,,39,-94.5
+Salt Lake City,Utah,123,27,600,22.22,2350274,1410164400,161322017,-1,-1,125,39563,,,#DIV/0!,,Denver,,Southwest,yes,16,16,4,,,,40.75,-112
+Columbus,Ohio,15,28,150,5.36,2348495,352274250,163670512,2,-1,56,41871,,,#DIV/0!,,Cincinnati,,Midwest,,42,40,1,,,,40,-83
+Indianapolis,Indiana,12,29,150,5.17,2310360,346554000,165980872,-1,-1,200,41062,,,#DIV/0!,,Chicago,3,Midwest,yes,43,41,2,,,,39.75,-86.25
+Las Vegas,Nevada,31,30,360,12,2247056,808940160,168227928,2,-1,200,46818,,,#DIV/0!,,Los Angeles,,Southwest,,24,24,3,,,,36.25,-115
+San Antonio,Texas,7,31,311,10.03,2234003,694774933,170461931,-1,-1,200,47027,,,#DIV/0!,,Houston,,South,yes,27,26,3,,,,29.25,-98.5
+Cincinnati,Ohio,64,32,370,11.56,2188001,809560370,172649932,2,-1,139,41871,,,#DIV/0!,,Cleveland,,Midwest,yes,26,23,3,,,,39,-84.5
+Milwaukee,Wisconsin,28,33,130,3.94,2037542,264880460,174687474,1,1,83,,,,#DIV/0!,,Chicago,,Midwest,yes,50,49,2,,,,43,-88
+Raleigh,North Carolina,43,34,210,6.18,1998808,419749680,176686282,-1,-1,106,42190,,,#DIV/0!,,Charlotte,,South,yes,36,35,3,,,,35.75,-78.5
+Nashville,Tennessee,26,35,350,10,1845235,645832250,178531517,-1,-1,17,,,,#DIV/0!,,Atlanta,,South,,28,28,5,,,,36.15,-86.75
+Austin,Texas,13,36,120,3.33,1834303,220116360,180365820,-1,-1,46,,,,#DIV/0!,,San Antonio,,South,yes,56,53,1,,,,30.25,-97.75
+Virginia Beach,Virginia,39,37,250,6.76,1803080,450770000,182168900,2,-1,200,,,,#DIV/0!,,Baltimore/Washington,,South,yes,33,32,1,,,,36.85,-76
+Greensboro,North Carolina,69,38,120,3.16,1611243,193349160,183780143,-1,-1,189,42190,,,#DIV/0!,,Charlotte,,South,yes,57,56,2,,,,36,-79.8
+Jacksonville,Florida,11,39,200,5.13,1502515,300503000,185282658,2,-1,200,39563,,,#DIV/0!,,Orlando,,South,yes,44,44,6,,,,30.3,-81.6
+Hartford,Connecticut,202,40,150,3.75,1488570,223285500,186771228,1,1,200,65177,,,#DIV/0!,,New York,,Northeast,,52,50,4,,,,41.75,-72.7
+Louisville,Kentucky,27,41,150,3.66,1478637,221795550,188249865,-1,-1,160,36942,,,#DIV/0!,,Cincinnati,,South,,53,51,2,,,,38.25,-85.75
+New Orleans,Louisiana,51,42,520,12.38,1452502,755301040,189702367,-1,-1,51,46689,,,#DIV/0!,,Dallas,,South,yes,23,25,4,,,,30,-90
+Grand Rapids,Michigan,124,43,200,4.65,1395128,279025600,191097495,2,-1,200,37708,,,#DIV/0!,,Detroit,,Midwest,yes,46,47,1,,,,43,-85.5
+Greenville,South Carolina,,44,150,3.41,1384996,207749400,192482491,-1,-1,199,,,,#DIV/0!,,Charlotte,,South,,55,54,2,,,,34.9,-82.5
+Memphis,Tennessee,20,45,310,6.89,1369548,424559880,193852039,-1,-1,200,,,,#DIV/0!,,Nashville,,South,yes,32,33,3,,,,35,-90
+Oklahoma City,Oklahoma,30,46,310,6.74,1367325,423870750,195219364,-1,-1,200,42331,,,#DIV/0!,,Dallas,,South,yes,34,34,3,,,,35.5,-97.5
+Birmingham,Alabama,98,47,220,4.68,1309818,288159960,196529182,-1,-1,151,36311,,,#DIV/0!,,Atlanta,,South,yes,45,45,3,,,,33.5,-86.8
+Richmond,Virginia,105,48,150,3.13,1231980,184797000,197761162,2,-1,170,,,,#DIV/0!,,Virginia Beach,,South,yes,58,57,2,,,,37.5,-77.5
+Harrisburg,Pennsylvania,,49,150,3.06,1228559,184283850,198989721,2,-1,,45170,,,#DIV/0!,,Philadelphia,,Northeast,,59,58,1,,,,40.25,-77
+Buffalo,New York,72,50,300,6,1213668,364100400,200203389,1,1,106,59414,,,#DIV/0!,,Cleveland,,Northeast,yes,39,37,1,,,,43,-78.9
+Rochester,New York,100,51,100,1.96,1177566,117756600,201380955,1,1,,59414,,,#DIV/0!,,Buffalo,,Northeast,yes,78,70,1,,,,43,-77.5
+Albany,New York,,52,130,2.5,1170483,152162790,202551438,1,1,131,59414,,,#DIV/0!,,Hartford,,Northeast,,66,62,2,,,,42.5,-73.75
+Albuquerque,New Mexico,32,53,420,7.92,1162777,488366340,203714215,1,-1,179,36020,,,#DIV/0!,,Denver,,Southwest,yes,30,30,2,,,,35,-106.5
+Tulsa,Oklahoma,46,54,150,2.78,1122259,168338850,204836474,-1,-1,83,42331,,,#DIV/0!,,Oklahoma City,,South,,62,61,3,,,,36,-96
+Fresno,California,34,55,250,4.55,1100113,275028250,205936587,1,1,200,51374,,,#DIV/0!,,Sacramento,,Southwest,yes,48,48,1,,,,36.75,-119.75
+Knoxville,Tennessee,128,56,260,4.64,1091370,283756200,207027957,-1,-1,101,,,,#DIV/0!,,Nashville,,South,,47,46,2,,,,36,-84
+Dayton,Ohio,177,57,80,1.4,1079417,86353360,208107374,2,-1,,41871,,,#DIV/0!,,Cincinnati,,Midwest,,100,78,5,,,,39.75,-84
+El Paso,Texas,19,58,350,6.03,1045180,365813000,209152554,-1,-1,200,,,,#DIV/0!,,Albuquerque,,South,yes,38,36,4,,,,31.75,-106.5
+Tucson,Arizona,33,59,170,2.88,1039697,176748490,210192251,-1,-1,120,40305,,,#DIV/0!,,Phoenix,,Southwest,yes,61,60,1,,,,32.75,-110.5
+Cape Coral,Florida,,60,100,1.67,977720,97772000,211169971,2,-1,,39563,,,#DIV/0!,,Sarasota,,South,,88,74,1,,,,26.5,-82
+Chattanooga,Tennessee,137,62,160,2.58,936142,149782720,212106113,-1,-1,,,,,#DIV/0!,,Atlanta,,South,,65,63,4,,,,35,-85.25
+Omaha,Nebraska,42,63,240,3.81,922051,221292240,213028164,-1,-1,200,48627,,,#DIV/0!,,Kansas City,,Plains,yes,51,52,3,,,,41.25,-96
+Sarasota,Florida,,64,50,0.78,917203,45860150,213945367,2,-1,,39563,,,#DIV/0!,,Tampa,,South,,146,82,1,,,,27.3,-82.5
+Columbia,South Carolina,189,65,140,2.15,913797,127931580,214859164,-1,-1,,,,,#DIV/0!,,Charlotte,,South,,73,68,1,,,,34,-81
+Little Rock,Arkansas,117,66,200,3.03,893610,178722000,215752774,-1,1,200,36011,,,#DIV/0!,,Memphis,,South,yes,60,59,2,,,,34.75,-92.25
+McAllen,Texas,187,67,410,6.12,868167,355948470,216620941,-1,-1,200,,,,#DIV/0!,,San Antonio,,South,,37,39,1,,,,26.25,-98.25
+Bakersfield,California,52,68,160,2.35,856158,136985280,217477099,1,1,200,51374,,,#DIV/0!,,Los Angeles,,Southwest,yes,71,65,1,,,,35.333,-119
+Madison,Wisconsin,82,69,120,1.74,843793,101255160,218320892,2,-1,,,,,#DIV/0!,,Chicago,,Midwest,,84,72,2,,,,43,-89.5
+Baton Rouge,Louisiana,88,70,120,1.71,815298,97835760,219136190,-1,-1,,46689,,,#DIV/0!,,New Orleans,,South,yes,86,73,1,,,,30.75,-91
+Modesto,California,107,71,40,0.56,784031,31361240,219920221,1,1,,51374,,,#DIV/0!,,Stockton,,Southwest,,182,86,1,,,,37.5,-121
+Des Moines,Iowa,104,72,200,2.78,742936,148587200,220663157,2,-1,200,48073,,,#DIV/0!,,Minneapolis,,Midwest,,63,64,2,,,,41.5,-93.5
+Syracuse,New York,170,73,120,1.64,740486,88858320,221403643,1,1,,59414,,,#DIV/0!,,,,Northeast,yes,89,76,2,,,,43,-76
+South Bend,Indiana,,74,110,1.49,721296,79342560,222124939,-1,-1,,41062,,,#DIV/0!,,Chicago,3,Midwest,,93,87,3,,,,41.75,-86.25
+Boise,Idaho,101,75,500,6.67,717388,358694000,222842327,-1,-1,200,34754,,,#DIV/0!,,Portland,,Northwest,,35,38,1,,,,43.5,-116
+Charleston,West Virginia,,76,200,2.63,705264,141052800,223547591,-1,-1,,,,,#DIV/0!,,,,Mid-Atlantic,,64,88,2,,,,38.5,-81.5
+Lexington,Kentucky,65,77,110,1.43,703271,77359810,224250862,-1,-1,,36942,,,#DIV/0!,,,,South,,97,79,2,,,,38,-84.5
+Charleston,South Carolina,208,78,280,3.59,697439,195282920,224948301,-1,-1,200,,,,#DIV/0!,,,,South,,54,55,1,,,,32.75,-80
+Springfield,Massachusetts,157,79,38,0.48,697258,26495804,225645559,1,1,,57332,,,#DIV/0!,,Boston,,Northeast,yes,197,85,1,,,,42.1,-72.5
+Huntsville,Alabama,126,80,130,1.63,679743,88366590,226325302,-1,-1,,36311,,,#DIV/0!,,,,South,,90,77,1,,,,34.75,-86.5
+Spokane,Washington,102,81,360,4.44,674610,242859600,226999912,1,1,,45135,,,#DIV/0!,,Seattle,,Northwest,yes,49,89,4,,,,47.6,-117.5
+Wichita,Kansas,49,82,200,2.44,672393,134478600,227672305,-1,-1,200,44758,,,#DIV/0!,,,,Plains,,67,66,3,,,,37.75,-97.3333
+Jackson,Mississippi,135,83,200,2.41,669133,133826600,228341438,-1,-1,,33199,,,#DIV/0!,,,,South,yes,69,67,3,,,,32.25,-90.25
+Colorado Springs,Colorado,41,84,100,1.19,668353,66835300,229009791,2,1,,50752,,,#DIV/0!,,Denver,,Southwest,,111,80,1,,,,39,-104.75
+Youngstown,Pennsylvania,,85,56,0.66,664713,37223928,229674504,2,-1,,45170,,,#DIV/0!,,Pittsburgh,,Northeast,,165,83,1,,,,40.25,-79.3333
+Toledo,Ohio,67,86,80,0.93,650050,52004000,230324554,2,-1,,41871,,,#DIV/0!,,Detroit,12,Midwest,yes,132,81,3,,,,41.6666,-83.6
+Portland,Maine,,87,170,1.95,625726,106373420,230950280,1,1,,40060,,,#DIV/0!,,,,Northeast,,79,71,1,,,,43.7,-70.25
+Fort Wayne,Indiana,74,88,150,1.7,616785,92517750,231567065,-1,-1,,41062,,,#DIV/0!,,Indianapolis,,Midwest,,87,75,1,,,,41,-85
+Lakeland,Florida,,89,50,0.56,616158,30807900,232183223,2,-1,,39563,,,#DIV/0!,,Tampa,,South,,184,84,1,,,,28,-82
+Lafayette,Louisiana,210,90,88,0.98,611774,53836112,232794997,-1,-1,,46689,,,#DIV/0!,,,,South,,124,90,2,,,,30.25,-92
+Mobile,Alabama,118,91,210,2.31,604726,126992460,233399723,-1,-1,,36311,,,#DIV/0!,,,,South,yes,72,69,3,,,,30.75,-88
+Visalia,California,198,92,60,0.65,603341,36200460,234003064,1,1,,51374,,,#DIV/0!,,Fresno,52,Southwest,,166,91,1,,,,36.3,-119.25
+Reno,Nevada,90,93,180,1.94,587004,105660720,234590068,2,-1,,46818,,,#DIV/0!,,Sacramento,,Southwest,yes,80,92,1,,,,39.5,-119.75
+Augusta,Georgia,116,94,100,1.06,575898,57589800,235165966,-1,-1,,41223,,,#DIV/0!,,Atlanta,10,South,,117,93,2,,,,33.5,-82
+Scranton,Pennsylvania,,95,90,0.95,563629,50726610,235729595,2,-1,,45170,,,#DIV/0!,,New York,,Northeast,,126,94,2,,,,41.5,-75.6666
+Palm Bay,Florida,270,96,90,0.94,547307,49257630,236276902,2,-1,,39563,,,#DIV/0!,,Orlando,,South,,129,95,1,,,,28,-80.6666
+Fayetteville,North Carolina,,97,90,0.93,546175,49155750,236823077,-1,-1,,42190,,,#DIV/0!,,,,South,,134,96,3,,,,35,-79
+Lansing,Michigan,230,98,95,0.97,534964,50821580,237358041,2,-1,,37708,,,#DIV/0!,,Grand Rapids,,Midwest,,125,97,1,,,,42.75,-84.5
+Springfield,Missouri,146,99,146,1.47,529141,77254586,237887182,-1,-1,,41041,,,#DIV/0!,,Kansas City,,Midwest,,95,98,1,,,,42.2,-72.5
+Lancaster,Pennsylvania,,100,36,0.36,526823,18965628,238414005,2,-1,,45170,,,#DIV/0!,,,,Northeast,,218,99,1,,,,40,-76.25
