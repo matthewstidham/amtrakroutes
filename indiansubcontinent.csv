@@ -1,0 +1,68 @@
+Name,State,Country,Population rank (core city),Population rank (Primary Statistical Area),Distance to closest larger Chinese Metropolitan Area (KM),Power,Population MetropolitanArea,Population MetroPower,Rolling population total,% of Population,GDP per capita of Province,Distance from a foreign country (KM),Score,"If part of a larger city's transportation, city name",Closest City Name,Closest City Rank,Largest in Province?,Longitude,Latitude
+Mumbai,Maharashtra,India,,,,,18394912,,18394912,1.39%,,,,,,,,19,72.8
+Delhi,Delhi,India,,,,,16349831,,34744743,2.62%,,,,,,,,28.6,77.2
+Kolkata,West Bengal,India,,,,,14057991,,48802734,3.68%,,,,,,,,22.55,88.4
+Chennai,Tamil Nadu,India,,,,,8653521,,57456255,4.33%,,,,,,,,13.1,80.25
+Bangalore,Karnataka,India,,,,,8520435,,65976690,4.97%,,,,,,,,13,77.6
+Hyderabad,Telangana,India,,,,,7677018,,73653708,5.55%,,,,,,,,17.6,78.8
+Ahmedabad,Gujarat,India,,,,,6357693,,80011401,6.03%,,,,,,,,23,73
+Pune,Maharashtra,India,,,,,5057709,,85069110,6.41%,,,,,,,,18.5,73.8
+Surat,Gujarat,India,,,,,4591246,,89660356,6.76%,,,,,,,,21.15,72.8
+Jaipur,Rajasthan,India,,,,,3046163,,92706519,6.99%,,,,,,,,26.9,75.8
+Kanpur,Uttar Pradesh,India,,,,,2920496,,95627015,7.21%,,,,,,,,26.45,80.33
+Lucknow,Uttar Pradesh,India,,,,,2902920,,98529935,7.43%,,,,,,,,26.8,80.9
+Nagpur,Maharashtra,India,,,,,2497870,,101027805,7.62%,,,,,,,,21.15,79.09
+Ghaziabad,Uttar Pradesh,India,,,,,2375820,,103403625,7.79%,,,,,,,,28.67,77.42
+Indore,Madhya Pradesh,India,,,,,2170295,,105573920,7.96%,,,,,,,,22.7,75.86
+Coimbatore,Tamil Nadu,India,,,,,2136916,,107710836,8.12%,,,,,,,,11,77
+Kochi,Kerala,India,,,,,2119724,,109830560,8.28%,,,,,,,,9.97,76.28
+Patna,Bihar,India,,,,,2049156,,111879716,8.43%,,,,,,,,25.6,85.1
+Kozhikode,Kerala,India,,,,,2028399,,113908115,8.59%,,,,,,,,11.25,75.78
+Bhopal,Madhya Pradesh,India,,,,,1886100,,115794215,8.73%,,,,,,,,23.25,77.4
+Thrissur,Kerala,India,,,,,1861269,,117655484,8.87%,,,,,,,,10.52,76.21
+Vadodara,Gujarat,India,,,,,1822221,,119477705,9.01%,,,,,,,,22.3,73.2
+Agra,Uttar Pradesh,India,,,,,1760285,,121237990,9.14%,,,,,,,,27.18,78.02
+Visakhapatnam,Andhra Pradesh,India,,,,,1728128,,122966118,9.27%,,,,,,,,17.7,83.2
+Malappuram,Kerala,India,,,,,1699060,,124665178,9.40%,,,,,,,,11.041,76.083
+Thiruvananthapuram,Kerala,India,,,,,1679754,,126344932,9.52%,,,,,,,,8.5,76.95
+Kannur,Kerala,India,,,,,1640986,,127985918,9.65%,,,,,,,,11.8689,73.3555
+Ludhiana,Punjab,India,,,,,1618879,,129604797,9.77%,,,,,,,,30.91,75.85
+Nashik,Maharashtra,India,,,,,1561809,,131166606,9.89%,,,,,,,,20,73.78
+Vijayawada,Andhra Pradesh,India,,,,,1476931,,132643537,10.00%,,,,,,,,16.5193,80.6305
+Madurai,Tamil Nadu,India,,,,,1465625,,134109162,10.11%,,,,,,,,9.9,78.1
+Varanasi,Uttar Pradesh,India,,,,,1432280,,135541442,10.22%,,,,,,,,25.28,82.96
+Meerut,Uttar Pradesh,India,,,,,1420902,,136962344,10.32%,,,,,,,,28.99,77.7
+Faridabad,Haryana,India,,,,,1414050,,138376394,10.43%,,,,,,,,28.4211,77.3078
+Rajkot,Gujarat,India,,,,,1390640,,139767034,10.54%,,,,,,,,22.3,70.7833
+Jamshedpur,Jharkhand,India,,,,,1339438,,141106472,10.64%,,,,,,,,22.8,86.2
+Jabalpur,Madhya Pradesh,India,,,,,1268848,,142375320,10.73%,,,,,,,,23.16,79.95
+Srinagar,Jammu and Kashmir,India,,,,,1264202,,143639522,10.83%,,,,,,,,34.1,74.8
+Asansol,West Bengal,India,,,,,1243414,,144882936,10.92%,,,,,,,,23.68,86.99
+Vasai-Virar,Maharashtra,India,,,,,1222390,,146105326,11.01%,,,,,,,,19.47,72.8
+Allahabad,Uttar Pradesh,India,,,,,1212395,,147317721,11.11%,,,,,,,,25.45,81.85
+Dhanbad,Jharkhand,India,,,,,1196214,,148513935,11.20%,,,,,,,,23.8,86.45
+Aurangabad,Maharashtra,India,,,,,1193167,,149707102,11.29%,,,,,,,,19.88,75.32
+Amritsar,Punjab,India,,,,,1183549,,150890651,11.37%,,,,,,,,31.64,74.86
+Jodhpur,Rajasthan,India,,,,,1138300,,152028951,11.46%,,,,,,,,26.28,73.02
+Raipur,Chhattisgarh,India,,,,,1123558,,153152509,11.54%,,,,,,,,21.25,81.63
+Ranchi,Jharkhand,India,,,,,1120374,,154272883,11.63%,,,,,,,,23.36,85.33
+Gwalior,Madhya Pradesh,India,,,,,1117740,,155390623,11.71%,,,,,,,,26.22,78.178
+Kollam,Kerala,India,,,,,1110668,,156501291,11.80%,,,,,,,,8.88,76.6
+Durg-Bhilainagar,Chhattisgarh,India,,,,,1064222,,157565513,11.88%,,,,,,,,21.21,81.38
+Chandigarh,Chandigarh,India,,,,,1055450,,158620963,11.96%,,,,,,,,30.75,76.78
+Tiruchirappalli,Tamil Nadu,India,,,,,1022518,,159643481,12.03%,,,,,,,,10.8,78.7
+Kota,Rajasthan,India,,,,,1001694,,160645175,12.11%,,,,,,,,25,76.15
+Karachi,Sindh,Pakistan,,,,,24300000,,,,,,,,,,,24.9,67
+Lahore,Punjab,Pakistan,,,,,10052000,,,,,,,,,,,31.5,74.3
+Faisalabad,Punjab,Pakistan,,,,,4075000,,,,,,,,,,,31.5,73.1
+Islamabad,Islamabad,Pakistan,,,,,4700000,,,,,,,,,,,33.75,73.1
+Hyderabad,Sindh,Pakistan,,,,,3490000,,,,,,,,,,,25.4,68.35
+Multan,Punjab,Pakistan,,,,,3100000,,,,,,,,,,,30.1,71.5
+Gujranwala,Punjab,Pakistan,,,,,2700000,,,,,,,,,,,32.15,74.15
+Peshawar,KPK,Pakistan,,,,,1785000,,,,,,,,,,,34,71.55
+Sargodha,Punjab,Pakistan,,,,,1550000,,,,,,,,,,,32.1,72.75
+Quetta,Balochistan,Pakistan,,,,,1140000,,,,,,,,,,,30.15,67
+Kathmandu,Bagmati Zone,Nepal,,,,,1003285,,,,,,,,,,,27.7,85.3
+Dhaka,Dhaka,Bangladesh,,,,,18898000,,,,,,,,,,,23.8,90.4
+Chittagong,Chittagong,Bangladesh,,,,,4009423,,,,,,,,,,,22.333,91.8
+Khulna,Khulna,Bangladesh,,,,,1500000,,,,,,,,,,,22.8,89.55

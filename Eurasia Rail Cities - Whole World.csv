@@ -1,0 +1,1194 @@
+Name,Province,Country,Continent,Population rank (core city),Population rank (Primary Statistical Area),Distance to closest larger Chinese Metropolitan Area (KM),Power,Population MetropolitanArea,Population MetroPower,Rolling population total,Rolling % of Population Total,GDP per capita of Province,Distance from a foreign country (KM),Country population,Percent of country's population,Score,"If part of a larger city's transportation, city name",Closest City Name,Closest City Rank,Largest in Province?,Latitude,Longitude
+Kabul,,Afghanistan,Asia,,,,,"3,289,000",,"3,289,000",0.08%,,,29742000,,,,,,,34.5,69.15
+Kandahar,,Afghanistan,Asia,,,,,"491,500",,"3,289,000",0.08%,,,29742000,,,,,,,31.6,65.7
+Algiers,,Algeria,Africa,,,,,"2,594,000",,#REF!,#REF!,,,41697000,,,,,,,37,3
+Luanda,,Angola,Africa,,,,,"5,506,000",,,,,,28359000,,,,,,,-9,13
+Huambo,,Angola,Africa,,,,,"1,269,000",,,,,,28359000,,,,,,,-13,16
+Buenos Aires,,Argentina,South America,,,,,"13,693,657",,,,,,44044000,,,,,,,-34.6,-58.4
+Córdoba,,Argentina,South America,,,,,"1,519,000",,,,,,44044000,,,,,,,-31.4,-64.2
+Rosario,,Argentina,South America,,,,,"1,429,000",,,,,,44044000,,,,,,,-32.9,-60.65
+Mendoza,,Argentina,South America,,,,,"1,082,000",,,,,,44044000,,,,,,,-32.9,-68.85
+Yerevan,,Armenia,Asia,,,,,"1,060,138",,"30,873,157",0.74%,,,2979600,,,,,,,40.2,44.5
+Sydney,New South Wales,Australia,Oceania,,,,,"5,005,358",,,,,,24742500,,,,,,,-33.9,151
+Melbourne,Victoria,Australia,Oceania,,,,,"4,641,636",,,,,,24742500,,,,,,,-37.8,145
+Brisbane,Queensland,Australia,Oceania,,,,,"2,349,699",,,,,,24742500,,,,,,,-27.5,153
+Perth,Western Australia,Australia,Oceania,,,,,"2,066,564",,,,,,24742500,,,,,,,-31.9,116
+Adelaide,South Australia,Australia,Oceania,,,,,"1,326,354",,,,,,24742500,,,,,,,-34.9,139
+Gold Coast–Tweed Heads,Queensland/New South Wales,Australia,Oceania,,,,,"638,090",,,,,,24742500,,,,,,,-28,153
+Newcastle–Maitland,New South Wales,Australia,Oceania,,,,,"438,775",,,,,,24742500,,,,,,,-32.9,152
+Canberra–Queanbeyan,Australian Capital Territory/New South Wales,Australia,Oceania,,,,,"429,023",,,,,,24742500,,,,,,,-35.25,149
+Sunshine Coast,Queensland,Australia,Oceania,,,,,"307,501",,,,,,24742500,,,,,,,-26.66666667,153
+Wollongong,New South Wales,Australia,Oceania,,,,,"295,842",,,,,,24742500,,,,,,,-34.4,151
+Hobart,Tasmania,Australia,Oceania,,,,,"222,802",,,,,,24742500,,,,,,,-42.9,148
+Geelong,Victoria,Australia,Oceania,,,,,"191,440",,,,,,24742500,,,,,,,-38.15,144
+Townsville,Queensland,Australia,Oceania,,,,,"182,183",,,,,,24742500,,,,,,,-19.25,147
+Cairns,Queensland,Australia,Oceania,,,,,"149,609",,,,,,24742500,,,,,,,-16.9,146
+Darwin,Northern Territory,Australia,Oceania,,,,,"143,629",,,,,,24742500,,,,,,,-12.4,131
+Toowoomba,Queensland,Australia,Oceania,,,,,"115,310",,,,,,24742500,,,,,,,,
+Ballarat,Victoria,Australia,Oceania,,,,,"102,230",,,,,,24742500,,,,,,,,
+Bendigo,Victoria,Australia,Oceania,,,,,"94,608",,,,,,24742500,,,,,,,,
+Albury–Wodonga,New South Wales/Victoria,Australia,Oceania,,,,,"90,319",,,,,,24742500,,,,,,,,
+Launceston,Tasmania,Australia,Oceania,,,,,"86,946",,,,,,24742500,,,,,,,,
+Mackay,Queensland,Australia,Oceania,,,,,"85,402",,,,,,24742500,,,,,,,,
+Rockhampton,Queensland,Australia,Oceania,,,,,"80,497",,,,,,24742500,,,,,,,,
+Bunbury,Western Australia,Australia,Oceania,,,,,"76,361",,,,,,24742500,,,,,,,,
+Bundaberg,Queensland,Australia,Oceania,,,,,"70,677",,,,,,24742500,,,,,,,,
+Coffs Harbour,New South Wales,Australia,Oceania,,,,,"69,403",,,,,,24742500,,,,,,,,
+Wagga Wagga,New South Wales,Australia,Oceania,,,,,"56,487",,,,,,24742500,,,,,,,,
+Hervey Bay,Queensland,Australia,Oceania,,,,,"52,834",,,,,,24742500,,,,,,,,
+Mildura–Wentworth,Victoria/New South Wales,Australia,Oceania,,,,,"50,387",,,,,,24742500,,,,,,,,
+Shepparton–Mooroopna,Victoria,Australia,Oceania,,,,,"49,696",,,,,,24742500,,,,,,,,
+Gladstone–Tannum Sands,Queensland,Australia,Oceania,,,,,"49,187",,,,,,24742500,,,,,,,,
+Port Macquarie,New South Wales,Australia,Oceania,,,,,"45,698",,,,,,24742500,,,,,,,,
+Tamworth,New South Wales,Australia,Oceania,,,,,"42,783",,,,,,24742500,,,,,,,,
+Traralgon–Morwell,Victoria,Australia,Oceania,,,,,"41,164",,,,,,24742500,,,,,,,,
+Orange,New South Wales,Australia,Oceania,,,,,"40,582",,,,,,24742500,,,,,,,,
+Geraldton,Western Australia,Australia,Oceania,,,,,"39,773",,,,,,24742500,,,,,,,,
+Bowral–Mittagong,New South Wales,Australia,Oceania,,,,,"38,550",,,,,,24742500,,,,,,,,
+Dubbo,New South Wales,Australia,Oceania,,,,,"37,245",,,,,,24742500,,,,,,,,
+Busselton,Western Australia,Australia,Oceania,,,,,"37,066",,,,,,24742500,,,,,,,,
+Bathurst,New South Wales,Australia,Oceania,,,,,"36,701",,,,,,24742500,,,,,,,,
+Nowra–Bomaderry,New South Wales,Australia,Oceania,,,,,"36,448",,,,,,24742500,,,,,,,,
+Warragul–Drouin,Victoria,Australia,Oceania,,,,,"34,618",,,,,,24742500,,,,,,,,
+Warrnambool,Victoria,Australia,Oceania,,,,,"34,141",,,,,,24742500,,,,,,,,
+Albany,Western Australia,Australia,Oceania,,,,,"34,126",,,,,,24742500,,,,,,,,
+Kalgoorlie-Boulder,Western Australia,Australia,Oceania,,,,,"32,382",,,,,,24742500,,,,,,,,
+Devonport,Tasmania,Australia,Oceania,,,,,"30,604",,,,,,24742500,,,,,,,,
+Wien,,Austria,Europe,,,,,"1,763,000",,"52,014,025",1.25%,,,8817000,,,,,,,48.2,16.45
+Baku,,Azerbaijan,Asia,,,,,"2,225,800",,"53,777,025",1.29%,,,9867250,,,,,,,40.4,49.9
+Dhaka,Dhaka,Bangladesh,Asia,,,,,"18,898,000",,"56,002,825",1.34%,,,163624000,,,,,,,23.8,90.4
+Chittagong,Chittagong,Bangladesh,Asia,,,,,"4,009,423",,"74,900,825",1.80%,,,163624000,,,,,,,22.333,91.8
+Khulna,Khulna,Bangladesh,Asia,,,,,"1,500,000",,"78,910,248",1.89%,,,163624000,,,,,,,22.8,89.55
+Minsk,,Belarus,Europe,,,,,"2,002,600",,,,,,9495800,,,,,,,,
+Brussels,,Belgium,Europe,,,,,"2,089,000",,"82,412,848",1.98%,,,11385000,,,,,,,50.8,4.4
+Antwerpen,,Belgium,Europe,,,,,"990,000",,"84,501,848",2.03%,,,11385000,,,,,,,51.25,4.4
+Cotonou,,Benin,Africa,,,,,"779,314",,,,,,11002000,,,,,,,,
+Porto Novo,,Benin,Africa,,,,,"267,191",,#REF!,#REF!,,,11002000,,,,,,,7,3
+Santa Cruz de la Sierra,,Bolivia,South America,,,,,"1,986,855",,,,,,11410615,,,,,,,-17.85,-63.15
+La Paz,,Bolivia,South America,,,,,"1,849,504",,,,,,11410615,,,,,,,-16.5,-68.1
+Cochabamba,,Bolivia,South America,,,,,"1,227,044",,,,,,11410615,,,,,,,-17.4,-66.15
+Gaborone,,Botswana,Africa,,,,,"421,907",,,,,,2230905,,,,,,,-25,26
+São Paulo,,Brazil,South America,,,,,"21,242,939",,,,,,208372000,,,,,,,-23.3,-46.5
+Rio de Janeiro,,Brazil,South America,,,,,"12,330,186",,,,,,208372000,,,,,,,-23,-43.25
+Belo Horizonte,,Brazil,South America,,,,,"5,873,841",,,,,,208372000,,,,,,,-19.85,-43.9
+Distrito Federal e Entorno (Brasilia),,Brazil,South America,,,,,"4,284,676",,,,,,208372000,,,,,,,-15.7,-47.75
+Porto Alegre,,Brazil,South America,,,,,"4,276,475",,,,,,208372000,,,,,,,-30,-51.25
+Fortaleza,,Brazil,South America,,,,,"4,019,213",,,,,,208372000,,,,,,,-3.75,-38.5
+Salvador,,Brazil,South America,,,,,"3,984,583",,,,,,208372000,,,,,,,-13,-38.5
+Recife,,Brazil,South America,,,,,"3,940,456",,,,,,208372000,,,,,,,-8,-34.85
+Curitiba,,Brazil,South America,,,,,"3,537,894",,,,,,208372000,,,,,,,-25.45,-49.25
+Campinas,,Brazil,South America,,,,,"3,131,528",,,,,,208372000,,,,,,,-22.9,-47.05
+Manaus,,Brazil,South America,,,,,"2,568,817",,,,,,208372000,,,,,,,-3.1,-60
+Vale do Paraíba e Litoral Norte,,Brazil,South America,,,,,"2,475,879",,,,,,208372000,,,,,,,-22.5,-44.15
+Goiânia,,Brazil,South America,,,,,"2,458,504",,,,,,208372000,,,,,,,-16.7,-49.25
+Belém,,Brazil,South America,,,,,"2,422,481",,,,,,208372000,,,,,,,-1.5,-48.5
+Vitória,,Brazil,South America,,,,,"1,935,483",,,,,,208372000,,,,,,,-20.25,-40.25
+Sorocaba,,Brazil,South America,,,,,"1,908,425",,,,,,208372000,,,,,,,-23.5,-47.45
+Baixada Santista,,Brazil,South America,,,,,"1,813,033",,,,,,208372000,,,,,,,-23.9,-46.4
+São Luís,,Brazil,South America,,,,,"1,605,305",,,,,,208372000,,,,,,,-2.5,-44.25
+Natal,,Brazil,South America,,,,,"1,537,211",,,,,,208372000,,,,,,,-5.75,-35.2
+Piracicaba,,Brazil,South America,,,,,"1,452,691",,,,,,208372000,,,,,,,-22.75,-47.6
+Norte/Nordeste Catarinense,,Brazil,South America,,,,,"1,363,854",,,,,,208372000,,,,,,,-26.25,-49.35
+Maceió,,Brazil,South America,,,,,"1,314,254",,,,,,208372000,,,,,,,-9.65,-44.1
+João Pessoa,,Brazil,South America,,,,,"1,268,360",,,,,,208372000,,,,,,,-7.1,-34.85
+Teresina,,Brazil,South America,,,,,"1,199,941",,,,,,208372000,,,,,,,-5.1,-42.8
+Florianópolis,,Brazil,South America,,,,,"1,152,115",,,,,,208372000,,,,,,,-27.59,-48.55
+Londrina,,Brazil,South America,,,,,"1,085,479",,,,,,208372000,,,,,,,-23.3,-51.15
+Sofia,,Bulgaria,Europe,,,,,"1,316,557",,"186,207,286",4.47%,,,7101859,,,,,,,42.7,23.3
+Ouagadougou,,Burkina Faso,Africa,,,,,"2,741,000",,#REF!,#REF!,,,19632417,,,,,,,12,2
+Yangon (Rangoon),Yangon Region,Burma,Asia,,,,,"5,209,541",,"190,264,843",4.57%,,,53370000,,,,,,,16.9,96.2
+Mandalay,Mandalay Region,Burma,Asia,,,,,"1,225,546",,"195,474,384",4.69%,,,53370000,,,,,,,21.95,96.1
+Naypyidaw (Nay Pyi Taw),Naypyidaw Union Territory,Burma,Asia,,,,,"1,160,242",,"196,699,930",4.72%,,,53370000,,,,,,,19.75,96.1
+Bago,Bago Region,Burma,Asia,,,,,"491,434",,"197,860,172",4.75%,,,53370000,,,,,,,17.3333,96.5
+Taunggyi,Shan State,Burma,Asia,,,,,"381,639",,"198,351,606",4.76%,,,53370000,,,,,,,20.8,97.05
+Monywa,Sagaing Region,Burma,Asia,,,,,"372,095",,"198,733,245",4.77%,,,53370000,,,,,,,22.1,95.1
+Meiktila,Mandalay Region,Burma,Asia,,,,,"309,663",,"199,105,340",4.78%,,,53370000,,,,,,,20.9,95.9
+Mawlamyine,Mon State,Burma,Asia,,,,,"289,388",,"199,415,003",4.79%,,,53370000,,,,,,,16.5,97.6
+Pathein,Ayeyarwady Region,Burma,Asia,,,,,"287,071",,"199,704,391",4.80%,,,53370000,,,,,,,16.75,94.75
+Mergui,Tanintharyi Region,Burma,Asia,,,,,"284,489",,"199,991,462",4.80%,,,53370000,,,,,,,12.4,98.6
+Pyay,Bago Region,Burma,Asia,,,,,"251,643",,"200,275,951",4.81%,,,53370000,,,,,,,18.8,95.2
+Sittwe,Rakhine State,Burma,Asia,,,,,"147,899",,"200,527,594",4.82%,,,53370000,,,,,,,20.15,92.9
+Bujumbura,,Burundi,Africa,,,,,"800,000",,,,,,10400938,,,,,,,-3,29
+Phnom Penh,,Cambodia,Asia,,,,,"1,501,725",,"201,475,493",4.84%,,,15848495,,,,,,,11.55,104.9
+Yaoundé,,Cameroon,Africa,,,,,"3,066,000",,#REF!,#REF!,,,23248044,,,,,,,4,12
+Douala,,Cameroon,Africa,,,,,"2,943,000",,#REF!,#REF!,,,23248044,,,,,,,4,10
+Toronto,Ontario,Canada,North America,,,,,"5,928,040",#VALUE!,"5,928,040",#VALUE!,#REF!,#REF!,36742000,,,,,,,43.6,-79.4
+Montreal,Quebec,Canada,North America,,,,,"4,098,927",#VALUE!,"4,098,927",#VALUE!,#REF!,#REF!,36742000,,,,,,,45.5,-73.34
+Vancouver,British Columbia,Canada,North America,,,,,"2,463,431",#VALUE!,"2,463,431",#VALUE!,#REF!,#REF!,36742000,,,,,,,49.25,-123.1
+Calgary,Alberta,Canada,North America,,,,,"1,392,609",#VALUE!,"1,392,609",#VALUE!,#REF!,#REF!,36742000,,,,,,,51.05,-114.06
+Ottawa,Quebec,Canada,North America,,,,,"1,323,783",#VALUE!,"1,323,783",#VALUE!,#REF!,#REF!,36742000,,,,,,,45.4,-75.7
+Edmonton,Alberta,Canada,North America,,,,,"1,321,426",#VALUE!,"1,321,426",#VALUE!,#REF!,#REF!,36742000,,,,,,,53.54,-113.5
+Quebec City,Quebec,Canada,North America,,,,,"800,296",#VALUE!,"800,296",#VALUE!,#REF!,#REF!,36742000,,,,,,,46.8,-71.2
+Winnipeg,Manitoba,Canada,North America,,,,,"778,489",#VALUE!,"778,489",#VALUE!,#REF!,#REF!,36742000,,,,,,,49.9,-97.13
+Hamilton,Ontario,Canada,North America,,,,,"747,545",#VALUE!,"747,545",#VALUE!,#REF!,#REF!,36742000,,,,,,,43.25,-79.85
+Kitchener-Cambridge-Waterloo,Ontario,Canada,North America,,,,,"523,894",#VALUE!,"523,894",#VALUE!,#REF!,#REF!,36742000,,,,,,,43.45,-80.48
+London,Ontario,Canada,North America,,,,,"494,069",#VALUE!,"494,069",#VALUE!,#REF!,#REF!,36742000,,,,,,,42.9837,-81.2497
+St. Catherine's,Ontario,Canada,North America,,,,,"406,074",#VALUE!,"406,074",#VALUE!,#REF!,#REF!,36742000,,,,,,,43.2,-79.24
+Halifax,Nova Scotia,Canada,North America,,,,,"403,390",#VALUE!,"403,390",#VALUE!,#REF!,#REF!,36742000,,,,,,,44.515,-63.506
+Oshawa,Ontario,Canada,North America,,,,,"379,848",#VALUE!,"379,848",#VALUE!,#REF!,#REF!,36742000,,,,,,,43.9,-78.85
+Victoria,British Columbia,Canada,North America,,,,,"367,770",#VALUE!,"367,770",#VALUE!,#REF!,#REF!,36742000,,,,,,,48.422,-123.365
+Windsor,Ontario,Canada,North America,,,,,"329,144",#VALUE!,"329,144",#VALUE!,#REF!,#REF!,36742000,,,,,,,42.29,-83
+Saskatoon,Saskatchewan,Canada,North America,,,,,"295,095",#VALUE!,"295,095",#VALUE!,#REF!,#REF!,36742000,,,,,,,52.14,-106.68
+Bangui,,Central African Republic,Africa,,,,,"734,350",,#REF!,#REF!,,,4659080,,,,,,,4,19
+Ndjamena,,Chad,Africa,,,,,"1,260,000",,#REF!,#REF!,,,14900000,,,,,,,12,15
+Santiago,,Chile,South America,,,,,"6,683,852",,,,,,17373831,,,,,,,-33.4,-70.666666
+Guangzhou,Guangdong,China,Asia,,1,40000,"40,000.00","44,294,245","1,771,769,800,000",#REF!,#REF!,,,1387990000,,,,,,Yes,23.18333333,113.5
+Shanghai,Shanghai,China,Asia,,2,1230,615.00,"35,965,403","44,237,445,690","284,012,495",6.82%,,,1387990000,,,,Guangzhou,1,Yes,31,122
+Chongqing,Chongqing,China,Asia,,3,1000,333.33,"30,165,500","30,165,500,000","319,977,898",7.68%,,,1387990000,,,,Guangzhou,1,Yes,29.5,106.4
+Beijing,Beijing,China,Asia,,8,1100,137.50,"21,500,000","23,650,000,000","319,977,898",7.68%,,,1387990000,,,,Shanghai,2,Yes,40,116.5
+Hangzhou,Zhejiang,China,Asia,,10,200,20.00,"21,102,000","4,220,400,000","371,643,398",8.92%,,,1387990000,,,,Shanghai,2,Yes,30.25,120.25
+Wuhan,Hubei,China,Asia,,12,560,46.67,"19,780,644","11,077,160,640","392,745,398",9.43%,,,1387990000,,,,Hangzhou,5,Yes,30.5,114.3333
+Chengdu,Sichuan,China,Asia,,17,270,15.88,"18,000,000","4,860,000,000","412,526,042",9.91%,,,1387990000,,,,Chongqing,3,Yes,30.66667,104
+Tianjin,Tianjin,China,Asia,,19,130,6.84,"16,000,000","2,080,000,000","430,526,042",10.34%,,,1387990000,,,,Beijing,4,Yes,39,117
+Shenzhen,Guangdong,China,Asia,,20,100,5.00,"14,668,426","1,466,842,600","446,526,042",10.72%,,,1387990000,,,,Guangzhou,,,22.5,114
+Xi'an,Shaanxi,China,Asia,,25,560,22.40,"13,569,700","7,599,032,000","461,194,468",11.08%,,,1387990000,,,,Chongqing,,Yes,34.25,108.75
+Jinan,Shandong,China,Asia,,28,275,9.82,"13,000,000","3,575,000,000","474,764,168",11.40%,,,1387990000,,,,Tianjin,,Yes,36.5,117.1
+Nanjing,Jiangsu,China,Asia,,29,270,9.31,"12,652,000","3,416,040,000","487,764,168",11.71%,,,1387990000,,,,Shanghai,,Yes,32,119
+Shenyang,Liaoning,China,Asia,,31,600,19.35,"12,263,612","7,358,167,200","500,416,168",12.02%,,,1387990000,,,,Tianjin,,Yes,41.75,123.5
+Harbin,Heilongjiang,China,Asia,,33,530,16.06,"12,000,000","6,360,000,000","474,764,168",11.40%,,,1387990000,,,,Shenyang,,Yes,45.9,126.5
+Shantou,Guangdong,China,Asia,,35,340,9.71,"11,630,447","3,954,351,980","524,679,780",12.60%,,,1387990000,,,,Shenzhen,,,23.3333,116.75
+Ganzhou,Jiangxi,China,Asia,,41,375,9.15,"9,606,300","3,602,362,500","536,310,227",12.88%,,,1387990000,,,,Guangzhou,,Yes,25.8,114.9
+Wenzhou,Zhejiang,China,Asia,,45,270,6.00,"9,122,102","2,462,967,540","545,916,527",13.11%,,,1387990000,,,,Hangzhou,,,28,120.6666
+Qingdao,Shandong,China,Asia,,46,300,6.52,"9,046,200","2,713,860,000","555,038,629",13.33%,,,1387990000,,,,Jinan,,,36,120.5
+Quanzhou,Fujian,China,Asia,,53,330,6.23,"8,128,533","2,682,415,890","564,084,829",13.55%,,,1387990000,,,,Shantou,,Yes,24.9,118.75
+Hong Kong,Hong Kong,China,Asia,,57,48,0.84,"7,374,900","353,995,200","572,213,362",13.74%,,,1387990000,,,,Shenzhen,,Yes,22.33333,114
+Changsha,Hunan,China,Asia,,58,560,9.66,"7,311,500","4,094,440,000","579,588,262",13.92%,,,1387990000,,,,Guangzhou,,Yes,28.25,113
+Zhengzhou,Henan,China,Asia,,89,370,4.16,"4,867,388","1,800,933,560","586,899,762",14.09%,,,1387990000,,,,Jinan,,,34.75,113.6666
+Fuzhou,Fujian,China,Asia,,96,200,2.08,"4,468,076","893,615,200","591,767,150",14.21%,,,1387990000,,,,Quanzhou,,,26.1,119.2
+Nanchang,Jiangxi,China,Asia,,104,300,2.88,"4,107,962","1,232,388,600","596,235,226",14.32%,,,1387990000,,,,Changsha,,,28.666,115.9
+Dalian,Liaoning,China,Asia,,108,390,3.61,"4,087,733","1,594,215,870","600,343,188",14.42%,,,1387990000,,,,Shenyang,,,38.9,121.5
+Taiyuan,Shanxi,China,Asia,,110,437,3.97,"4,062,173","1,775,169,601","604,430,921",14.51%,,,1387990000,,,,Zhengzhou,,Yes,37.9,112.5
+Shijiazhuang,Hebei,China,Asia,,114,260,2.28,"3,995,290","1,038,775,400","608,493,094",14.61%,,,1387990000,,,,Tianjin,,Yes,38.1,114.5
+Kunming,Yunnan,China,Asia,,127,700,5.51,"3,583,429","2,508,400,300","612,488,384",14.71%,,,1387990000,,,,Yunnan,,Yes,24.9,102.8
+Wuxi,Jiangsu,China,Asia,,129,120,0.93,"3,542,319","425,078,280","616,071,813",14.79%,,,1387990000,,,,Shanghai,,,31.5,120.3333
+Xiamen,Fujian,China,Asia,,131,100,0.76,"3,531,347","353,134,700","619,614,132",14.88%,,,1387990000,,,,Quanzhou,,,24.5,118
+Changchun,Jilin,China,Asia,,132,240,1.82,"3,530,115","847,227,600","623,145,479",14.96%,,,1387990000,,,,Harbin,,Yes,43.9,125.25
+Ningbo,Zhejiang,China,Asia,,137,150,1.09,"3,491,597","523,739,550","626,675,594",15.05%,,,1387990000,,,,Hangzhou,,,29.9,121.5
+Zibo,Shandong,China,Asia,,139,100,0.72,"3,484,800","348,480,000","630,167,191",15.13%,,,1387990000,,,,Jinan,,,36.8,118
+Hefei,Anhui,China,Asia,,142,150,1.06,"3,352,076","502,811,400","633,651,991",15.22%,,,1387990000,,,,Nanjing,,Yes,31.8,117.25
+Changzhou,Jiangsu,China,Asia,,144,130,0.90,"3,290,548","427,771,240","637,004,067",15.30%,,,1387990000,,,,Nanjing,,,31.8,120
+Taizhou,Zhejiang,China,Asia,,146,130,0.89,"3,269,300","425,009,000","640,294,615",15.38%,,,1387990000,,,,Wenzhou,,,28.666667,121.45
+Tangshan,Hebei,China,Asia,,150,120,0.80,"3,187,171","382,460,520","643,563,915",15.45%,,,1387990000,,,,Tianjin,,,39.6,118.25
+Nantong,Jiangsu,China,Asia,,152,100,0.66,"3,180,924","318,092,400","646,751,086",15.53%,,,1387990000,,,,Changzhou,,,31.8,120
+Nanning,Guangxi,China,Asia,,153,500,3.27,"3,177,450","1,588,725,000","640,294,615",15.38%,,,1387990000,,,,Guangzhou,,Yes,22.8,108.3333
+Guiyang,Guizhou,China,Asia,,160,320,2.00,"3,037,159","971,890,880","643,563,915",15.45%,,,1387990000,,,,Chongqing,,Yes,26.6,106.6
+Urumqi,Xinjiang,China,Asia,,162,2550,15.74,"2,988,715","7,621,223,250","656,146,619",15.76%,,,1387990000,,,,Xi'an,,Yes,43.8,87.55
+Huai'an,Jiangsu,China,Asia,,185,,0.00,"2,633,420",0,"659,135,334",15.83%,,,1387990000,,,,,,,33.5,119
+Xuzhou,Jiangsu,China,Asia,,186,,0.00,"2,623,066",0,"661,768,754",15.89%,,,1387990000,,,,,,,34.15,117.25
+Linyi,Shandong,China,Asia,,187,,0.00,"2,600,200",0,"664,391,820",15.95%,,,1387990000,,,,,,,35.1,118.34
+Lanzhou,Gansu,China,Asia,,196,,0.00,"2,492,325",0,"664,391,820",15.95%,,,1387990000,,,,,,Yes,36.1,103.85
+Yangzhou,Jiangsu,China,Asia,,207,,0.00,"2,399,079",0,"669,484,345",16.08%,,,1387990000,,,,,,,32.33,119.45
+Anshan,Liaoning,China,Asia,,218,,0.00,"2,242,436",0,"671,883,424",16.13%,,,1387990000,,,,,,,41.1,123
+Huaibei,Anhui,China,Asia,,233,,0.00,"2,114,276",0,"674,125,860",16.19%,,,1387990000,,,,,,,34,116.75
+Haikou,Hainan,China,Asia,,242,,0.00,"2,046,189",0,"676,240,136",16.24%,,,1387990000,,,,,,Yes,20,110.15
+Yiwu,Zhejiang,China,Asia,,243,120,0.49,"2,038,400","244,608,000","678,286,325",16.29%,,,1387990000,,,,,,,29.25,120
+Baotou,Inner Mongolia,China,Asia,,245,,0.00,"2,034,996",0,"680,324,725",16.34%,,,1387990000,,,,,,Yes,40.6,109.85
+Liuzhou,Guangxi,China,Asia,,251,,0.00,"1,998,950",0,"682,359,721",16.39%,,,1387990000,,,,,,,24.3333,109.4
+Anyang,Henan,China,Asia,,253,,0.00,"1,995,760",0,"684,358,671",16.43%,,,1387990000,,,,,,Yes,36.1,114.4
+Hohhot,Inner Mongolia,China,Asia,,256,,0.00,"1,980,774",0,"686,354,431",16.48%,,,1387990000,,,,,,,40.8,111.75
+Jilin City,Jilin,China,Asia,,259,,0.00,"1,975,803",0,"688,335,205",16.53%,,,1387990000,,,,,,,43.85,126.5
+Putian,Fujian,China,Asia,,261,,0.00,"1,953,801",0,"690,311,008",16.58%,,,1387990000,,,,,,,25.4,119
+Huainan,Anhui,China,Asia,,263,,0.00,"1,938,212",0,"692,264,809",16.62%,,,1387990000,,,,,,,32.6,117
+Xiangtan,Hunan,China,Asia,,275,50,0.18,"1,875,300","93,765,000","694,203,021",16.67%,,,1387990000,,,,Changsha,,,27.85,113
+Yantai,Shandong,China,Asia,,276,,0.00,"1,870,600",0,"696,078,321",16.72%,,,1387990000,,,,,,,37.5,121.5
+Nanchong,Sichuan,China,Asia,,277,,0.00,"1,868,875",0,"697,948,921",16.76%,,,1387990000,,,,,,,30.8,106.1
+Luoyang,Henan,China,Asia,,280,,0.00,"1,856,877",0,"699,817,796",16.81%,,,1387990000,,,,,,,34.6,112.5
+Nanyang,Henan,China,Asia,,287,,0.00,"1,811,732",0,"701,674,673",16.85%,,,1387990000,,,,,,,33,112.5
+Baoding,Hebei,China,Asia,,,,,"1,789,550",,"703,486,405",16.89%,,,1387990000,,,,,,,40.3333,109.85
+Fuyang,Anhui,China,Asia,,,,,"1,768,947",,"705,275,955",16.94%,,,1387990000,,,,,,,32.9,115.8
+Tai'an,Shandong,China,Asia,,,,,"1,735,500",,"707,044,902",16.98%,,,1387990000,,,,,,,36.2,117.1
+Suzhou,Anhui,China,Asia,,,,,"1,647,642",,"708,780,402",17.02%,,,1387990000,,,,,,,31.25,120.6
+Lu'an,Anhui,China,Asia,,,,,"1,644,344",,"710,428,044",17.06%,,,1387990000,,,,,,,31.75,116.5
+Datong,Shanxi,China,Asia,,,,,"1,629,035",,"712,072,388",17.10%,,,1387990000,,,,,,,40.06,113.3
+Yancheng,Jiangsu,China,Asia,,,,,"1,615,717",,"713,701,423",17.14%,,,1387990000,,,,,,,33.33333,120.15
+Zhanjiang,Guangdong,China,Asia,,,,,"1,612,300",,"715,317,140",17.18%,,,1387990000,,,,,,,21.25,110.33333
+Tengzhou,Shandong,China,Asia,,,,,"1,603,700",,"716,929,440",17.22%,,,1387990000,,,,,,,35.1,117.15
+Huangshi,Hubei,China,Asia,,,,,"1,601,687",,"718,533,140",17.25%,,,1387990000,,,,,,,30.2,115
+Jiangyin,Jiangsu,China,Asia,,,,,"1,594,829",,"720,134,827",17.29%,,,1387990000,,,,,,,32,120.25
+Qiqihar,Heilongjiang,China,Asia,,,,,"1,559,517",,"721,729,656",17.33%,,,1387990000,,,,,,,47.33333,123.9
+Weifang,Shandong,China,Asia,,,,,"1,521,600",,"723,289,173",17.37%,,,1387990000,,,,,,,36.7,119.15
+Yinchuan,Ningxia,China,Asia,,341,,0.00,"1,513,151",0,"724,810,773",17.41%,,,1387990000,,,,,,Yes,38.5,106.16
+Changshu,Jiangsu,China,Asia,,,,,"1,510,103",,"726,323,924",17.44%,,,1387990000,,,,,,,31.6666666,120.75
+Dengzhou,Henan,China,Asia,,,,,"1,468,061",,"727,834,027",17.48%,,,1387990000,,,,,,,32.7,112.1
+Cixi,Zhejiang,China,Asia,,,,,"1,462,383",,"729,302,088",17.51%,,,1387990000,,,,,,,30.16,121.25
+Changde,Hunan,China,Asia,,,,,"1,458,536",,"730,764,471",17.55%,,,1387990000,,,,,,,29,111.7
+Pizhou,Jiangsu,China,Asia,,,,,"1,458,036",,"732,223,007",17.58%,,,1387990000,,,,,,,34.33333,118
+Baoji,Shaanxi,China,Asia,,,,,"1,437,802",,"733,681,043",17.62%,,,1387990000,,,,,,,34.3333,107.25
+Suqian,Jiangsu,China,Asia,,,,,"1,437,686",,"735,118,845",17.65%,,,1387990000,,,,,,,34,118.25
+Daqing,Heilongjiang,China,Asia,,,,,"1,415,268",,"736,556,531",17.69%,,,1387990000,,,,,,,46.6,125.1
+Bozhou,Anhui,China,Asia,,,,,"1,409,436",,"737,971,799",17.72%,,,1387990000,,,,,,,33.85,115.75
+Handan,Hebei,China,Asia,,,,,"1,403,439",,"739,381,235",17.76%,,,1387990000,,,,,,,36.6,114.5
+Panjin,Liaoning,China,Asia,,,,,"1,392,493",,"740,784,674",17.79%,,,1387990000,,,,,,,41.1,122.06
+Wenling,Zhejiang,China,Asia,,,,,"1,366,800",,"742,177,167",17.82%,,,1387990000,,,,,,,28.4,121.4
+Ma'anshan,Anhui,China,Asia,,,,,"1,366,302",,"743,543,967",17.86%,,,1387990000,,,,,,,31.66666,118.5
+Zigong,Sichuan,China,Asia,,,,,"1,362,062",,"744,910,269",17.89%,,,1387990000,,,,,,,29.333333,104.75
+Mianyang,Sichuan,China,Asia,,,,,"1,355,331",,"746,272,331",17.92%,,,1387990000,,,,,,,31.5,104.666666
+Yingkou,Liaoning,China,Asia,,,,,"1,351,519",,"747,627,662",17.95%,,,1387990000,,,,,,,40.66666,122.25
+Yichang,Hubei,China,Asia,,,,,"1,350,150",,"748,979,181",17.99%,,,1387990000,,,,,,,30.7,111.25
+Heze,Shandong,China,Asia,,,,,"1,346,700",,"750,329,331",18.02%,,,1387990000,,,,,,,35.2,115.5
+Chifeng,Inner Mongolia,China,Asia,,,,,"1,333,526",,"751,676,031",18.05%,,,1387990000,,,,,,,42.25,118.9
+Guilin,Guangxi,China,Asia,,,,,"1,326,470",,,,,,1387990000,,,,,,,25.25,110.16
+Xiangyang,Hubei,China,Asia,,,,,"1,294,732",,"612,488,384",14.71%,,,1387990000,,,,,,,32,112.1
+Haicheng,Liaoning,China,Asia,,,,,"1,293,877",,"619,614,132",14.88%,,,1387990000,,,,,,,40.9,122.6666
+Rugao,Jiangsu,China,Asia,,,,,"1,267,066",,"626,675,594",15.05%,,,1387990000,,,,,,,32.333333,120.55
+Xuchang,Henan,China,Asia,,,,,"1,265,454",,"633,651,991",15.22%,,,1387990000,,,,,,,34,113.9
+Neijiang,Sichuan,China,Asia,,,,,"1,251,095",,"640,294,615",15.38%,,,1387990000,,,,,,,29.55,105.05
+Zhangjiagang,Jiangsu,China,Asia,,,,,"1,248,414",,"646,751,086",15.53%,,,1387990000,,,,,,,31.9,120.55
+Yixing,Jiangsu,China,Asia,,,,,"1,235,476",,"653,109,460",15.68%,,,1387990000,,,,,,,31.3333333,119.8
+Fuqing,Fujian,China,Asia,,,,,"1,234,838",,,,,,1387990000,,,,,,,25.4,119.4
+Zhaoqing,Guangdong,China,Asia,,,,,"1,232,701",,,,,,1387990000,,,,,,,23,112.5
+Xinyang,Henan,China,Asia,,,,,"1,229,959",,"664,391,820",15.95%,,,1387990000,,,,,,,32.1,114.1
+Liaocheng,Shandong,China,Asia,,,,,"1,229,800",,"669,484,345",16.08%,,,1387990000,,,,,,,36.45,116
+Maoming,Guangdong,China,Asia,,,,,"1,217,715",,,,,,1387990000,,,,,,,21.66666,110.9
+Jiaxing,Zhejiang,China,Asia,,,,,"1,201,900",,"676,240,136",16.24%,,,1387990000,,,,,,,30.75,120.75
+Zhenjiang,Jiangsu,China,Asia,,,,,"1,200,400",,"680,324,725",16.34%,,,1387990000,,,,,,,32.16,119.45
+Xining,Qinghai,China,Asia,,,,#DIV/0!,"1,198,304",0,"771,739,454",18.53%,,,1387990000,,,,,,Yes,36.6,101.76
+Tianshui,Gansu,China,Asia,,,,,"1,197,174",,,,,,1387990000,,,,,,,34.6,105.4
+Huazhou,Guangdong,China,Asia,,,,,"1,178,873",,,,,,1387990000,,,,,,,21.6666666,110.6
+Qujing,Yunnan,China,Asia,,,,,"1,171,805",,"692,264,809",16.62%,,,1387990000,,,,,,,25.5,103.8
+Dingzhou,,China,Asia,,,,,"1,165,182",,,,,,1387990000,,,,,,,38.5,115
+Wuhu,Anhui,China,Asia,,,,,"1,162,664",,,,,,1387990000,,,,,,,31.33333333,118.4
+Zhuji,Zhejiang,China,Asia,,,,,"1,157,900",,"699,817,796",16.81%,,,1387990000,,,,,,,29.75,120.25
+Xingtai,,China,Asia,,,,,"1,155,199",,,,,,1387990000,,,,,,,37.06,114.5
+Jingzhou,Hubei,China,Asia,,,,,"1,154,086",,"705,275,955",16.94%,,,1387990000,,,,,,,30.3333333,112.25
+Shouguang,Shandong,China,Asia,,,,,"1,139,400",,"708,780,402",17.02%,,,1387990000,,,,,,,36.8,118.75
+Yuzhou,Henan,China,Asia,,,,,"1,131,819",,"712,072,388",17.10%,,,1387990000,,,,,,,28.4,111.8
+Bazhong,Sichuan,China,Asia,,,,,"1,126,790",,#REF!,#REF!,,,1387990000,,,,,,,31.9,106.75
+Zoucheng,Shandong,China,Asia,,,,,"1,116,700",,"718,533,140",17.25%,,,1387990000,,,,,,,35.4,117
+Jining,Shandong,China,Asia,,,,,"1,115,300",,"721,729,656",17.33%,,,1387990000,,,,,,,35.5,116.6
+Jinzhou,Liaoning,China,Asia,,,,,"1,091,799",,"724,810,773",17.41%,,,1387990000,,,,,,,41.1,121.1
+Guigang,Guangxi,China,Asia,,,,,"1,086,327",,,,,,1387990000,,,,,,,23.1,109.6
+Zhucheng,Shandong,China,Asia,,,,,"1,086,200",,"729,302,088",17.51%,,,1387990000,,,,,,,36,119.4
+Jinhua,Zhejiang,China,Asia,,,,,"1,077,300",,"732,223,007",17.58%,,,1387990000,,,,,,,29.06,119.6
+Hengyang,Hunan,China,Asia,,,,,"1,075,516",,"735,118,845",17.65%,,,1387990000,,,,,,,26.9,112.6
+Taixing,Jiangsu,China,Asia,,,,,"1,073,921",,"737,971,799",17.72%,,,1387990000,,,,,,,32.17,120.05
+Zhangqiu,Shandong,China,Asia,,,,,"1,064,200",,"740,784,674",17.79%,,,1387990000,,,,,,,36.666666,117.5
+Zhuzhou,Hunan,China,Asia,,,,,"1,055,373",,"743,543,967",17.86%,,,1387990000,,,,,,,27.86,113.15
+Lianyungang,Jiangsu,China,Asia,,,,,"1,049,831",,"746,272,331",17.92%,,,1387990000,,,,,,,34.6,119.2
+Ezhou,Hubei,China,Asia,,,,,"1,035,500",,"748,979,181",17.99%,,,1387990000,,,,,,,30.4,114.9
+Pingdingshan,Henan,China,Asia,,,,,"1,033,975",,"751,676,031",18.05%,,,1387990000,,,,,,,33.75,113.2
+Qinhuangdao,Hebei,China,Asia,,,,,"1,029,670",,,,,,1387990000,,,,,,,39.95,119.6
+Linhai,Zhejiang,China,Asia,,,,,"1,028,800",,"755,630,759",18.15%,,,1387990000,,,,,,,28.9,121.15
+Benxi,Liaoning,China,Asia,,,,,"1,011,377",,"758,191,702",18.21%,,,1387990000,,,,,,,41.5,123.666666
+Wuwei,Gansu,China,Asia,,,,,"1,010,295",,,,,,1387990000,,,,,,,37.9,102.6
+Hezhou,Guangxi,China,Asia,,,,,"1,005,500",,,,,,1387990000,,,,,,,24.4,111.6
+Zaoyang,Hubei,China,Asia,,,,,"1,004,741",,"763,192,141",18.33%,,,1387990000,,,,,,,32.1,112.9
+Xiangcheng,Henan,China,Asia,,,,,"1,003,626",,"765,659,680",18.39%,,,1387990000,,,,,,,33.5,114.9
+Dongying,Shandong,China,Asia,,,,,"999,000",,"768,119,439",18.45%,,,1387990000,,,,,,,37.45,118.6666667
+Yueyang,Hunan,China,Asia,,,,,"991,465",,"770,539,054",18.50%,,,1387990000,,,,,,,29.33333333,113.1
+Laiwu,Shandong,China,Asia,,,,,"989,500",,"772,937,758",18.56%,,,1387990000,,,,,,,36.2,117.6666667
+Qidong,Jiangsu,China,Asia,,,,,"972,525",,"775,313,805",18.62%,,,1387990000,,,,,,,31.8,121.65
+Danyang,Jiangsu,China,Asia,,,,,"960,418",,"777,650,792",18.67%,,,1387990000,,,,,,,32,119.6
+Feicheng,Shandong,China,Asia,,,,,"946,600",,"779,971,356",18.73%,,,1387990000,,,,,,,36.16,116.75
+Linfen,Shanxi,China,Asia,,,,,"944,050",,"782,280,641",18.79%,,,1387990000,,,,,,,36.1,111.5
+Xinyu,Jiangsu,China,Asia,,,,,"920,610",,"784,551,860",18.84%,,,1387990000,,,,,,,27.85,114.9
+Weihai,Shandong,China,Asia,,,,,"908,200",,"786,795,350",18.89%,,,1387990000,,,,,,,37.5,122.1
+Xinxiang,Henan,China,Asia,,,,,"902,731",,"789,002,449",18.95%,,,1387990000,,,,,,,35.3,113.9
+Zaozhuang,Shandong,China,Asia,,,,,"899,700",,"791,174,976",19.00%,,,1387990000,,,,,,,31.1,120.85
+Kaifeng,Henan,China,Asia,,,,,"896,057",,"793,327,792",19.05%,,,1387990000,,,,,,,34.75,114.3
+Jiaozuo,Henan,China,Asia,,,,,"865,356",,"795,465,913",19.10%,,,1387990000,,,,,,,35.25,113.2
+Rizhao,Shandong,China,Asia,,,,,"865,032",,"797,571,117",19.15%,,,1387990000,,,,,,,35.4158,119.5271
+Zhoushan,Zhejiang,China,Asia,,,,,"843,000",,"799,640,592",19.20%,,,1387990000,,,,,,,30.15,112.4
+Yibin,Sichuan,China,Asia,,,,,"836,383",,"801,699,062",19.25%,,,1387990000,,,,,,,28.75,104.6
+Kashgar,,China,Asia,,,,,"819,095",,"803,720,734",19.30%,,,1387990000,,,,,,,39.45,76
+Dandong,Liaoning,China,Asia,,,,,"798,364",,"805,730,975",19.35%,,,1387990000,,,,,,,40.1,124.4
+Panzhihua,Sichuan,China,Asia,,,,,"787,177",,"807,733,601",19.40%,,,1387990000,,,,,,,26.6,101.7
+Huludao,Liaoning,China,Asia,,,,,"777,682",,"809,714,566",19.44%,,,1387990000,,,,,,,,
+Shaoyang,Hunan,China,Asia,,,,,"753,194",,"811,647,509",19.49%,,,1387990000,,,,,,,27.25,111.3
+Binzhou,Shandong,China,Asia,,,,,"709,700",,"813,538,159",19.54%,,,1387990000,,,,,,,,
+Fuxin,Liaoning,China,Asia,,,,,"686,848",,"815,366,969",19.58%,,,1387990000,,,,,,,,
+Dezhou,Shandong,China,Asia,,,,,"679,600",,"817,169,400",19.62%,,,1387990000,,,,,,,,
+Tieling,Liaoning,China,Asia,,,,,"666,755",,"818,930,813",19.67%,,,1387990000,,,,,,,,
+Puyang,Henan,China,Asia,,,,,"655,631",,"820,638,845",19.71%,,,1387990000,,,,,,,,
+Macau/Macao,Macao,China,Asia,,682,,0.00,"650,900",0,"828,809,274",19.90%,,,1387990000,,,,,,Yes,22.16,113.5
+Jingjiang,Jiangsu,China,Asia,,,,,"617,277",,"823,092,687",19.77%,,,1387990000,,,,,,,,
+Jiujiang,Jiangxi,China,Asia,,,,,"592,381",,"824,657,546",19.80%,,,1387990000,,,,,,,,
+Lhasa,Tibet,China,Asia,,,,#DIV/0!,"559,423",0,"830,669,832",19.95%,,,1387990000,,,,,,Yes,29.65,91.15
+Aksu,Xinjiang,China,Asia,,,,,"535,657",,#REF!,#REF!,,,1387990000,,,,,,,,
+Zhoukou,Henan,China,Asia,,,,,"505,139",,"828,809,274",19.90%,,,1387990000,,,,,,,33.6,114.6666667
+Lishui,Zhejiang,China,Asia,,,,,"451,400",,"830,077,451",19.93%,,,1387990000,,,,,,,,
+Karamay,Xinjiang,China,Asia,,,,,"261,445",,"831,764,912",19.97%,,,1387990000,,,,,,,,
+Altay,Xinjiang,China,Asia,,,,,"190,064",,"832,721,451",20.00%,,,1387990000,,,,,,,,
+Lijiang,Yunnan,China,Asia,,,,,"155,540",,"833,172,960",20.01%,,,1387990000,,,,,,,,
+Bogotá,,Colombia,South America,,,,,"9,286,225",,,,,,49352000,,,,,,,4.75,-74.1
+Medellín,,Colombia,South America,,,,,"3,777,009",,,,,,49352000,,,,,,,6.25,-75.5
+Cali,,Colombia,South America,,,,,"2,911,278",,,,,,49352000,,,,,,,3.45,-76.5
+Barranquilla,,Colombia,South America,,,,,"2,025,071",,,,,,49352000,,,,,,,11,-74.8
+Cartagena,,Colombia,South America,,,,,"1,161,320",,,,,,49352000,,,,,,,10.4,-75.45
+Bucaramanga,,Colombia,South America,,,,,"1,122,945",,,,,,49352000,,,,,,,7.1,-73.1
+San Jose,San Jose,Costa Rica,North America,,,,,"2,158,898",,"2,158,898",,,,4947490,,,,,,,9.9,-84.1
+Zagreb,,Croatia,Europe,,,,,"1,237,887",,"857,009,133",20.58%,,,4154213,,,,,,,45.8,15.9
+Prague,,Czech Republic,Europe,,,,,"1,310,000",,"857,009,133",20.58%,,,10588063,,,,,,,50.1,14.45
+Lubumbashi,,Democratic Republic of the Congo,Africa,,,,,"2,015,000",,,,,,81339900,,,,,,,-12,27
+Mbuji-Mayi,,Democratic Republic of the Congo,Africa,,,,,"2,007,000",,#REF!,#REF!,,,81339900,,,,,,,6,24
+Kananga,,Democratic Republic of the Congo,Africa,,,,,"1,169,000",,,,,,81339900,,,,,,,-6,22
+Kisangani,,Democratic Republic of the Congo,Africa,,,,,"1,040,000",,#REF!,#REF!,,,81339900,,,,,,,1,26
+Kinshasa-Brazzaville,,"Democratic Republic of the Congo
+ Republic of the Congo",Africa,,,,,"13,475,000",,#REF!,#REF!,,,81339900,,,,,,,4,15
+Copenhagen,,Denmark,Europe,,,,,"1,231,000",,"878,025,133",21.08%,,,5778570,,,,,,,55.75,12.45
+Guayaquil,,Ecuador,South America,,,,,"2,952,159",,,,,,16638600,,,,,,,-2.15,-79.9
+Quito,,Ecuador,South America,,,,,"2,653,330",,,,,,16638600,,,,,,,-0.1,-78.5
+Cairo,,Egypt,Africa,,,,,"18,772,000",,#REF!,#REF!,,,96163300,,,,,,,30,31
+Alexandria,,Egypt,Africa,,,,,"4,778,000",,#REF!,#REF!,,,96163300,,,,,,,31,30
+San Salvador,San Salvador,El Salvador,North America,,,,,"1,767,102",,"1,767,102",,,,6581940,,,,,,,13.7,-89.2
+Santa Ana,Santa Ana,El Salvador,North America,,,,,"290,000",,"290,000",,,,6581940,,,,,,,14,-89.5
+Addis Ababa,,Ethiopia,Africa,,,,,"3,238,000",,#REF!,#REF!,,,94352000,,,,,,,9,39
+Helsinki,,Finland,Europe,,,,,"1,203,000",,"913,706,724",21.94%,,,5509984,,,,,,,60.25,25.1
+Paris,,France,Europe,,,,,"11,800,000",,"914,909,724",21.97%,,,67182000,,,,,,,48.9,2.25
+Lyon,,France,Europe,,,,,"1,583,000",,"926,709,724",22.25%,,,67182000,,,,,,,45.75,4.9
+Marseilles,,France,Europe,,,,,"1,397,000",,"928,292,724",22.29%,,,67182000,,,,,,,43.3,5.4
+Lille,,France,Europe,,,,,"1,016,000",,"929,689,724",22.33%,,,67182000,,,,,,,50.6,3.05
+Nice,,France,Europe,,,,,"962,000",,"930,705,724",22.35%,,,67182000,,,,,,,43.75,7.25
+Toulouse,,France,Europe,,,,,"880,000",,"931,667,724",22.37%,,,67182000,,,,,,,43.6,1.4
+Bordeaux,,France,Europe,,,,,"845,000",,"932,547,724",22.39%,,,67182000,,,,,,,44.85,-0.5
+Libreville,,Gabon,Africa,,,,,"703,904",,#REF!,#REF!,,,2025137,,,,,,,0,9
+Tbilisi,,Georgia,Asia,,,,,"1,485,293",,"934,096,628",22.43%,,,3718200,,,,,,,41.7,44.8
+Ruhr,NordRhein Westfalen,Germany,Europe,,,,,"11,300,000",,"935,581,921",22.47%,,,82800000,,,,,,,51.5,7.4
+Berlin,Berlin,Germany,Europe,,,,,"6,563,194",,"946,881,921",22.74%,,,82800000,,,,,,,52.5,13.3333
+Frankfurt,Hesse,Germany,Europe,,,,,"6,000,000",,"953,445,115",22.90%,,,82800000,,,,,,,50.1,8.7
+Stuttgart,Baden-Württemburg,Germany,Europe,,,,,"5,290,000",,"959,445,115",23.04%,,,82800000,,,,,,,48.7,9.2
+München,Bayern,Germany,Europe,,,,,"5,200,000",,"964,735,115",23.17%,,,82800000,,,,,,,48,11.5
+Hamburg,Hamburg,Germany,Europe,,,,,"4,270,000",,"969,935,115",23.29%,,,82800000,,,,,,,53.5,10.05
+Hannover,Niedersachsen,Germany,Europe,,,,,"3,910,000",,,,,,82800000,,,,,,,,
+Nürnberg,Bayern,Germany,Europe,,,,,"3,510,000",,,,,,82800000,,,,,,,,
+Bremen,Bremen,Germany,Europe,,,,,"2,370,000",,,,,,82800000,,,,,,,,
+Köln-Bonn,NordRhein Westfalen,Germany,Europe,,,,,"2,104,000",,"983,995,115",23.63%,,,82800000,,,,,,,50.9,6.95
+Dresden,Sachsen,Germany,Europe,,,,,"1,143,197",,,,,,82800000,,,,,,,51,14
+Leipzig,Sachsen,Germany,Europe,,,,,"1,000,000",,,,,,82800000,,,,,,,51.33333,12
+Kumasi,,Ghana,Africa,,,,,"2,599,000",,#REF!,#REF!,,,28956587,,,,,,,7,-2
+Accra,,Ghana,Africa,,,,,"2,277,000",,#REF!,#REF!,,,28956587,,,,,,,6,0
+Athens,,Greece,Europe,,,,,"3,484,000",,"993,118,312",23.85%,,,10783748,,,,,,,37.9,23.6
+Thessaloniki,,Greece,Europe,,,,,"840,000",,"996,602,312",23.93%,,,10783748,,,,,,,40.666,22.92
+Guatemala city,Guatemala,Guatemala,North America,,,,,"4,500,000",,"4,500,000",,,,16176133,,,,,,,14.6,-90.54
+Quetzaltenango,Quetzaltenango,Guatemala,North America,,,,,"661,375",,"661,375",,,,16176133,,,,,,,14.85,-91.5
+Conakry,,Guinea,Africa,,,,,"1,936,000",,#REF!,#REF!,,,11702692,,,,,,,10,-14
+Bissau,,Guinea-Bissau,Africa,,,,,"395,954",,#REF!,#REF!,,,1553822,,,,,,,12,-16
+San Pedro Sula,Cortes,Honduras,North America,,,,,"1,445,598",,"1,445,598",,,,8866351,,,,,,,15.5,-88
+Tegucigalpa,Francisco Morazan,Honduras,North America,,,,,"1,126,534",,"1,126,534",,,,8866351,,,,,,,14.1,-87.2
+La Estacion,Yoro,Honduras,North America,,,,,"310,000",,"310,000",,,,8866351,,,,,,,15.4,-87.8
+La Ceiba,Atlantida,Honduras,North America,,,,,"204,140",,"204,140",,,,8866351,,,,,,,15.75,-86.9
+Budapest,,Hungary,Europe,,,,,"3,303,000",,"1,008,021,913",24.21%,,,9799000,,,,,,,47.45,19
+Mumbai,Maharashtra,India,Asia,,,,,"18,394,912",,"1,011,324,913",24.29%,,,1325020000,,,,,,,19,72.8
+Delhi,Delhi,India,Asia,,,,,"16,349,831",,"1,029,719,825",24.73%,,,1325020000,,,,,,,28.6,77.2
+Kolkata,West Bengal,India,Asia,,,,,"14,057,991",,"1,046,069,656",25.12%,,,1325020000,,,,,,,22.55,88.4
+Chennai,Tamil Nadu,India,Asia,,,,,"8,653,521",,"1,060,127,647",25.46%,,,1325020000,,,,,,,13.1,80.25
+Bangalore,Karnataka,India,Asia,,,,,"8,520,435",,"1,068,781,168",25.67%,,,1325020000,,,,,,,13,77.6
+Hyderabad,Telangana,India,Asia,,,,,"7,677,018",,"1,077,301,603",25.87%,,,1325020000,,,,,,,17.6,78.8
+Ahmedabad,Gujarat,India,Asia,,,,,"6,357,693",,"1,084,978,621",26.05%,,,1325020000,,,,,,,23,73
+Pune,Maharashtra,India,Asia,,,,,"5,057,709",,"1,091,336,314",26.21%,,,1325020000,,,,,,,18.5,73.8
+Surat,Gujarat,India,Asia,,,,,"4,591,246",,"1,096,394,023",26.33%,,,1325020000,,,,,,,21.15,72.8
+Jaipur,Rajasthan,India,Asia,,,,,"3,046,163",,"1,100,985,269",26.44%,,,1325020000,,,,,,,26.9,75.8
+Kanpur,Uttar Pradesh,India,Asia,,,,,"2,920,496",,"1,104,031,432",26.51%,,,1325020000,,,,,,,26.45,80.33
+Lucknow,Uttar Pradesh,India,Asia,,,,,"2,902,920",,"1,106,951,928",26.58%,,,1325020000,,,,,,,26.8,80.9
+Nagpur,Maharashtra,India,Asia,,,,,"2,497,870",,"1,109,854,848",26.65%,,,1325020000,,,,,,,21.15,79.09
+Ghaziabad,Uttar Pradesh,India,Asia,,,,,"2,375,820",,"1,112,352,718",26.71%,,,1325020000,,,,,,,28.67,77.42
+Indore,Madhya Pradesh,India,Asia,,,,,"2,170,295",,"1,114,728,538",26.77%,,,1325020000,,,,,,,22.7,75.86
+Coimbatore,Tamil Nadu,India,Asia,,,,,"2,136,916",,"1,116,898,833",26.82%,,,1325020000,,,,,,,11,77
+Kochi,Kerala,India,Asia,,,,,"2,119,724",,"1,119,035,749",26.87%,,,1325020000,,,,,,,9.97,76.28
+Patna,Bihar,India,Asia,,,,,"2,049,156",,"1,121,155,473",26.92%,,,1325020000,,,,,,,25.6,85.1
+Kozhikode,Kerala,India,Asia,,,,,"2,028,399",,"1,123,204,629",26.97%,,,1325020000,,,,,,,11.25,75.78
+Bhopal,Madhya Pradesh,India,Asia,,,,,"1,886,100",,"1,125,233,028",27.02%,,,1325020000,,,,,,,23.25,77.4
+Thrissur,Kerala,India,Asia,,,,,"1,861,269",,"1,127,119,128",27.07%,,,1325020000,,,,,,,10.52,76.21
+Vadodara,Gujarat,India,Asia,,,,,"1,822,221",,"1,128,980,397",27.11%,,,1325020000,,,,,,,22.3,73.2
+Agra,Uttar Pradesh,India,Asia,,,,,"1,760,285",,"1,130,802,618",27.15%,,,1325020000,,,,,,,27.18,78.02
+Visakhapatnam,Andhra Pradesh,India,Asia,,,,,"1,728,128",,"1,132,562,903",27.20%,,,1325020000,,,,,,,17.7,83.2
+Malappuram,Kerala,India,Asia,,,,,"1,699,060",,"1,134,291,031",27.24%,,,1325020000,,,,,,,11.041,76.083
+Thiruvananthapuram,Kerala,India,Asia,,,,,"1,679,754",,"1,135,990,091",27.28%,,,1325020000,,,,,,,8.5,76.95
+Kannur,Kerala,India,Asia,,,,,"1,640,986",,"1,137,669,845",27.32%,,,1325020000,,,,,,,11.8689,73.3555
+Ludhiana,Punjab,India,Asia,,,,,"1,618,879",,"1,139,310,831",27.36%,,,1325020000,,,,,,,30.91,75.85
+Nashik,Maharashtra,India,Asia,,,,,"1,561,809",,"1,140,929,710",27.40%,,,1325020000,,,,,,,20,73.78
+Vijayawada,Andhra Pradesh,India,Asia,,,,,"1,476,931",,"1,142,491,519",27.44%,,,1325020000,,,,,,,16.5193,80.6305
+Madurai,Tamil Nadu,India,Asia,,,,,"1,465,625",,"1,143,968,450",27.47%,,,1325020000,,,,,,,9.9,78.1
+Varanasi,Uttar Pradesh,India,Asia,,,,,"1,432,280",,"1,145,434,075",27.51%,,,1325020000,,,,,,,25.28,82.96
+Meerut,Uttar Pradesh,India,Asia,,,,,"1,420,902",,"1,146,866,355",27.54%,,,1325020000,,,,,,,28.99,77.7
+Faridabad,Haryana,India,Asia,,,,,"1,414,050",,"1,148,287,257",27.57%,,,1325020000,,,,,,,28.4211,77.3078
+Rajkot,Gujarat,India,Asia,,,,,"1,390,640",,"1,149,701,307",27.61%,,,1325020000,,,,,,,22.3,70.7833
+Jamshedpur,Jharkhand,India,Asia,,,,,"1,339,438",,"1,151,091,947",27.64%,,,1325020000,,,,,,,22.8,86.2
+Jabalpur,Madhya Pradesh,India,Asia,,,,,"1,268,848",,"1,152,431,385",27.67%,,,1325020000,,,,,,,23.16,79.95
+Srinagar,Jammu and Kashmir,India,Asia,,,,,"1,264,202",,"1,153,700,233",27.70%,,,1325020000,,,,,,,34.1,74.8
+Asansol,West Bengal,India,Asia,,,,,"1,243,414",,"1,154,964,435",27.74%,,,1325020000,,,,,,,23.68,86.99
+Vasai-Virar,Maharashtra,India,Asia,,,,,"1,222,390",,"1,156,207,849",27.77%,,,1325020000,,,,,,,19.47,72.8
+Allahabad,Uttar Pradesh,India,Asia,,,,,"1,212,395",,"1,157,430,239",27.79%,,,1325020000,,,,,,,25.45,81.85
+Dhanbad,Jharkhand,India,Asia,,,,,"1,196,214",,"1,158,642,634",27.82%,,,1325020000,,,,,,,23.8,86.45
+Aurangabad,Maharashtra,India,Asia,,,,,"1,193,167",,"1,159,838,848",27.85%,,,1325020000,,,,,,,19.88,75.32
+Amritsar,Punjab,India,Asia,,,,,"1,183,549",,"1,161,032,015",27.88%,,,1325020000,,,,,,,31.64,74.86
+Jodhpur,Rajasthan,India,Asia,,,,,"1,138,300",,"1,162,215,564",27.91%,,,1325020000,,,,,,,26.28,73.02
+Raipur,Chhattisgarh,India,Asia,,,,,"1,123,558",,"1,163,353,864",27.94%,,,1325020000,,,,,,,21.25,81.63
+Ranchi,Jharkhand,India,Asia,,,,,"1,120,374",,"1,164,477,422",27.96%,,,1325020000,,,,,,,23.36,85.33
+Gwalior,Madhya Pradesh,India,Asia,,,,,"1,117,740",,"1,165,597,796",27.99%,,,1325020000,,,,,,,26.22,78.178
+Kollam,Kerala,India,Asia,,,,,"1,110,668",,"1,166,715,536",28.02%,,,1325020000,,,,,,,8.88,76.6
+Durg-Bhilainagar,Chhattisgarh,India,Asia,,,,,"1,064,222",,"1,167,826,204",28.04%,,,1325020000,,,,,,,21.21,81.38
+Chandigarh,Chandigarh,India,Asia,,,,,"1,055,450",,"1,168,890,426",28.07%,,,1325020000,,,,,,,30.75,76.78
+Tiruchirappalli,Tamil Nadu,India,Asia,,,,,"1,022,518",,"1,169,945,876",28.09%,,,1325020000,,,,,,,10.8,78.7
+Kota,Rajasthan,India,Asia,,,,,"1,001,694",,"1,170,968,394",28.12%,,,1325020000,,,,,,,25,76.15
+Jakarta,,Indonesia,Asia,,,,,"30,000,000",,,,,,261890000,,,,,,,-6.2,107
+Bandung,,Indonesia,Asia,,,,,"8,500,000",,,,,,261890000,,,,,,,-6.9,108
+Surabaya,,Indonesia,Asia,,,,,"6,484,000",,,,,,261890000,,,,,,,-7.25,113
+Medan,,Indonesia,Asia,,,,,"4,103,000",,,,,,261890000,,,,,,,3.6,99
+Semarang,,Indonesia,Asia,,,,,"3,183,516",,,,,,261890000,,,,,,,-7,110
+Malang,,Indonesia,Asia,,,,,"2,795,209",,,,,,261890000,,,,,,,-8,113
+Makassar,,Indonesia,Asia,,,,,"1,976,000",,,,,,261890000,,,,,,,-5.1,119
+Banjarmasin,,Indonesia,Asia,,,,,"1,904,427",,,,,,261890000,,,,,,,-3.33333333,115
+Palembang,,Indonesia,Asia,,,,,"1,342,258",,,,,,261890000,,,,,,,-3,105
+Tasikmalaya,,Indonesia,Asia,,,,,"1,339,891",,,,,,261890000,,,,,,,-7.3,108
+Bandar Lampung,,Indonesia,Asia,,,,,"1,251,000",,,,,,261890000,,,,,,,-5.45,105
+Batam,,Indonesia,Asia,,,,,"1,153,860",,,,,,261890000,,,,,,,1.1,104
+Pekanbaru,,Indonesia,Asia,,,,,"1,030,732",,,,,,261890000,,,,,,,0.5,102
+Bogor,,Indonesia,Asia,,,,,"1,022,002",,,,,,261890000,,,,,,,-6.5,107
+Padang,,Indonesia,Asia,,,,,"1,020,880",,,,,,261890000,,,,,,,-0.95,100
+Denpasar,,Indonesia,Asia,,,,,"834,881",,,,,,261890000,,,,,,,-8.666666667,115
+Balikpapan,,Indonesia,Asia,,,,,"736,806",,,,,,261890000,,,,,,,-1.25,117
+Samarinda,,Indonesia,Asia,,,,,"727,500",,,,,,261890000,,,,,,,-0.4,117
+Serang,,Indonesia,Asia,,,,,"643,101",,,,,,261890000,,,,,,,-6.1,106
+Jambi,,Indonesia,Asia,,,,,"586,930",,,,,,261890000,,,,,,,-1.6,104
+Pontianak,,Indonesia,Asia,,,,,"573,000",,,,,,261890000,,,,,,,0,109
+Cimahi,,Indonesia,Asia,,,,,"566,200",,,,,,261890000,,,,,,,-6.9,108
+Surakarta,,Indonesia,Asia,,,,,"499,337",,,,,,261890000,,,,,,,,
+Cilegon,,Indonesia,Asia,,,,,"416,464",,,,,,261890000,,,,,,,,
+Manado,,Indonesia,Asia,,,,,"405,715",,,,,,261890000,,,,,,,,
+Mataram,,Indonesia,Asia,,,,,"402,843",,,,,,261890000,,,,,,,,
+Yogyakarta,,Indonesia,Asia,,,,,"388,627",,,,,,261890000,,,,,,,,
+Kupang,,Indonesia,Asia,,,,,"336,239",,,,,,261890000,,,,,,,,
+Ambon,,Indonesia,Asia,,,,,"331,254",,,,,,261890000,,,,,,,,
+Sukabumi,,Indonesia,Asia,,,,,"298,681",,,,,,261890000,,,,,,,,
+Cirebon,,Indonesia,Asia,,,,,"298,224",,,,,,261890000,,,,,,,,
+Palu,,Indonesia,Asia,,,,,"291,872",,,,,,261890000,,,,,,,,
+Dumai,,Indonesia,Asia,,,,,"291,393",,,,,,261890000,,,,,,,,
+Pekalongan,,Indonesia,Asia,,,,,"281,434",,,,,,261890000,,,,,,,,
+Kediri,,Indonesia,Asia,,,,,"268,507",,,,,,261890000,,,,,,,,
+Bengkulu,,Indonesia,Asia,,,,,"257,763",,,,,,261890000,,,,,,,,
+Tegal,,Indonesia,Asia,,,,,"239,599",,,,,,261890000,,,,,,,,
+Binjai,,Indonesia,Asia,,,,,"238,209",,,,,,261890000,,,,,,,,
+Kendari,,Indonesia,Asia,,,,,"236,269",,,,,,261890000,,,,,,,,
+Pematang Siantar,,Indonesia,Asia,,,,,"229,525",,,,,,261890000,,,,,,,,
+Palangkaraya,,Indonesia,Asia,,,,,"220,962",,,,,,261890000,,,,,,,,
+Probolinggo,,Indonesia,Asia,,,,,"217,062",,,,,,261890000,,,,,,,,
+Jayapura,,Indonesia,Asia,,,,,"200,524",,,,,,261890000,,,,,,,,
+Banjarbaru,,Indonesia,Asia,,,,,"199,627",,,,,,261890000,,,,,,,,
+Tarakan,,Indonesia,Asia,,,,,"193,370",,,,,,261890000,,,,,,,,
+Batu,,Indonesia,Asia,,,,,"190,184",,,,,,261890000,,,,,,,,
+Singkawang,,Indonesia,Asia,,,,,"186,462",,,,,,261890000,,,,,,,,
+Pasuruan,,Indonesia,Asia,,,,,"186,262",,,,,,261890000,,,,,,,,
+Ternate,,Indonesia,Asia,,,,,"185,705",,,,,,261890000,,,,,,,,
+Kota Sorong,,Indonesia,Asia,,,,,"184,239",,,,,,261890000,,,,,,,,
+Padang Sidempuan,,Indonesia,Asia,,,,,"178,148",,,,,,261890000,,,,,,,,
+Banjar,,Indonesia,Asia,,,,,"175,910",,,,,,261890000,,,,,,,,
+Lubuklinggau,,Indonesia,Asia,,,,,"174,472",,,,,,261890000,,,,,,,,
+Banda Aceh,,Indonesia,Asia,,,,,"174,433",,,,,,261890000,,,,,,,,
+Bitung,,Indonesia,Asia,,,,,"173,837",,,,,,261890000,,,,,,,,
+Madiun,,Indonesia,Asia,,,,,"170,964",,,,,,261890000,,,,,,,,
+Salatiga,,Indonesia,Asia,,,,,"170,332",,,,,,261890000,,,,,,,,
+Tanjung Pinang,,Indonesia,Asia,,,,,"167,958",,,,,,261890000,,,,,,,,
+Cianjur,,Indonesia,Asia,,,,,"165,420",,,,,,261890000,,,,,,,,
+Gorontalo,,Indonesia,Asia,,,,,"153,036",,,,,,261890000,,,,,,,,
+Lhokseumawe,,Indonesia,Asia,,,,,"152,895",,,,,,261890000,,,,,,,,
+Tanjung Balai,,Indonesia,Asia,,,,,"152,272",,,,,,261890000,,,,,,,,
+Pangkal Pinang,,Indonesia,Asia,,,,,"145,945",,,,,,261890000,,,,,,,,
+Bontang,,Indonesia,Asia,,,,,"143,683",,,,,,261890000,,,,,,,,
+Bima,,Indonesia,Asia,,,,,"142,579",,,,,,261890000,,,,,,,,
+Manokwari,,Indonesia,Asia,,,,,"136,302",,,,,,261890000,,,,,,,,
+Tebing Tinggi,,Indonesia,Asia,,,,,"134,548",,,,,,261890000,,,,,,,,
+Langsa,,Indonesia,Asia,,,,,"133,600",,,,,,261890000,,,,,,,,
+Blitar,,Indonesia,Asia,,,,,"132,018",,,,,,261890000,,,,,,,,
+Palopo,,Indonesia,Asia,,,,,"129,273",,,,,,261890000,,,,,,,,
+Prabumulih,,Indonesia,Asia,,,,,"129,201",,,,,,261890000,,,,,,,,
+Metro,,Indonesia,Asia,,,,,"127,569",,,,,,261890000,,,,,,,,
+Gunungsitoli,,Indonesia,Asia,,,,,"125,566",,,,,,261890000,,,,,,,,
+Payakumbuh,,Indonesia,Asia,,,,,"122,896",,,,,,261890000,,,,,,,,
+Mojokerto,,Indonesia,Asia,,,,,"120,196",,,,,,261890000,,,,,,,,
+Bau-Bau,,Indonesia,Asia,,,,,"118,998",,,,,,261890000,,,,,,,,
+Magelang,,Indonesia,Asia,,,,,"118,227",,,,,,261890000,,,,,,,,
+Bukittinggi,,Indonesia,Asia,,,,,"117,097",,,,,,261890000,,,,,,,,
+Pagar Alam,,Indonesia,Asia,,,,,"114,609",,,,,,261890000,,,,,,,,
+Pare-Pare,,Indonesia,Asia,,,,,"112,625",,,,,,261890000,,,,,,,,
+Kotamobagu,,Indonesia,Asia,,,,,"107,459",,,,,,261890000,,,,,,,,
+Sibolga,,Indonesia,Asia,,,,,"90,489",,,,,,261890000,,,,,,,,
+Tidore,,Indonesia,Asia,,,,,"90,055",,,,,,261890000,,,,,,,,
+Pariaman,,Indonesia,Asia,,,,,"83,151",,,,,,261890000,,,,,,,,
+Sungai Penuh,,Indonesia,Asia,,,,,"82,619",,,,,,261890000,,,,,,,,
+Tomohon,,Indonesia,Asia,,,,,"80,649",,,,,,261890000,,,,,,,,
+Atambua,,Indonesia,Asia,,,,,"74,903",,,,,,261890000,,,,,,,,
+Tenggarong,,Indonesia,Asia,,,,,"72,458",,,,,,261890000,,,,,,,,
+Merauke,,Indonesia,Asia,,,,,"71,838",,,,,,261890000,,,,,,,,
+Solok,,Indonesia,Asia,,,,,"62,483",,,,,,261890000,,,,,,,,
+Sawah Lunto,,Indonesia,Asia,,,,,"59,821",,,,,,261890000,,,,,,,,
+Tual,,Indonesia,Asia,,,,,"58,082",,,,,,261890000,,,,,,,,
+Padang Panjang,,Indonesia,Asia,,,,,"49,451",,,,,,261890000,,,,,,,,
+Sabang,,Indonesia,Asia,,,,,"28,454",,,,,,261890000,,,,,,,,
+Tehran,Tehran,Iran,Asia,,,,,"8,154,051",,"1,256,748,154",30.18%,,,81028500,,,,,,,35.7,51.4
+Mashhad,Razavi Khorasan,Iran,Asia,,,,,"2,749,374",,"1,264,902,205",30.38%,,,81028500,,,,,,,36.3,59.6
+Isfahan,Isfahan,Iran,Asia,,,,,"1,756,126",,"1,267,651,579",30.44%,,,81028500,,,,,,,32.6,51.65
+Karaj,Alborz,Iran,Asia,,,,,"1,614,626",,"1,269,407,705",30.48%,,,81028500,,,,,,,35.9,51
+Tabriz,East Azerbaijan,Iran,Asia,,,,,"1,484,988",,"1,271,022,331",30.52%,,,81028500,,,,,,,38.06,46.3
+Shiraz,Fars,Iran,Asia,,,,,"1,460,665",,"1,272,507,319",30.56%,,,81028500,,,,,,,29.6,52.55
+Ahvaz,Khuzestan,Iran,Asia,,,,,"1,112,021",,"1,273,967,984",30.59%,,,81028500,,,,,,,31.2,48.66666
+Qom,Qom,Iran,Asia,,,,,"1,074,036",,"1,275,080,005",30.62%,,,81028500,,,,,,,34.6,50.9
+Kermanshah,Kermanshah,Iran,Asia,,,,,"851,405",,"1,276,154,041",30.65%,,,81028500,,,,,,,34.3,47.05
+Orumieh,West Azerbaijan,Iran,Asia,,,,,"667,499",,"1,277,005,446",30.67%,,,81028500,,,,,,,37.5,45.06
+Rasht,Gilan,Iran,Asia,,,,,"639,951",,"1,277,672,945",30.68%,,,81028500,,,,,,,37.25,49.55
+Zahedan,Sistan and Baluchestan,Iran,Asia,,,,,"560,725",,"1,278,312,896",30.70%,,,81028500,,,,,,,29.5,60.85
+Kerman,Kerman,Iran,Asia,,,,,"534,441",,"1,278,873,621",30.71%,,,81028500,,,,,,,30.3,57.1
+Arak,Markazi,Iran,Asia,,,,,"526,182",,"1,279,408,062",30.72%,,,81028500,,,,,,,34.1,49.7
+Hamedan,Hamadan,Iran,Asia,,,,,"525,794",,"1,279,934,244",30.74%,,,81028500,,,,,,,34.8,48.5
+Yazd,Yazd,Iran,Asia,,,,,"432,194",,"1,280,460,038",30.75%,,,81028500,,,,,,,31.9,54.4
+Basra,Basra,Iraq,Asia,,,,,1225793,,"1,280,892,232",30.76%,,,38274618,,,,,,,30.5,47.8
+Baghdad,Baghdad,Iraq,Asia,,,,,"1,211,934",,"1,282,118,025",30.79%,,,38274618,,,,,,,33.33333,44.4
+Mosul,,Iraq,Asia,,,,,"1,000,000",,"1,283,329,959",30.82%,,,38274618,,,,,,,36.34,43.13
+Kirkuk,Kirkuk,Iraq,Asia,,,,,"938,336",,"1,284,329,959",30.84%,,,38274618,,,,,,,35.45,44.2
+Najaf,Najaf,Iraq,Asia,,,,,"746,180",,"1,285,268,295",30.86%,,,38274618,,,,,,,32,44.33
+Sulaymaniyah,Sulaymaniyah,Iraq,Asia,,,,,"651,173",,"1,286,014,475",30.88%,,,38274618,,,,,,,35.55,45.45
+Al Hillah,Babil,Iraq,Asia,,,,,"559,834",,"1,286,665,648",30.90%,,,38274618,,,,,,,32.5,44.5
+Amarah,,Iraq,Asia,,,,,"541,034",,"1,287,225,482",30.91%,,,38274618,,,,,,,31.85,47.15
+Nasiriyah,,Iraq,Asia,,,,,"537,544",,"1,287,766,516",30.92%,,,38274618,,,,,,,31.05,46.25
+Karbala,,Iraq,Asia,,,,,"514,356",,"1,288,304,060",30.94%,,,38274618,,,,,,,32.6,44.06
+Kut,,Iraq,Asia,,,,,"436,673",,"1,288,818,416",30.95%,,,38274618,,,,,,,32.5,45.8
+Al Diwaniyah,,Iraq,Asia,,,,,"421,571",,"1,289,255,089",30.96%,,,38274618,,,,,,,32,44.9
+Ramadi,,Iraq,Asia,,,,,"419,053",,"1,289,676,660",30.97%,,,38274618,,,,,,,33.4,43.3
+Fallujah,,Iraq,Asia,,,,,"321,106",,"1,290,095,713",30.98%,,,38274618,,,,,,,33.33,43.8
+Tikrit,,Iraq,Asia,,,,,182464,,"1,290,416,819",30.99%,,,38274618,,,,,,,34.6,43.7
+Dublin,,Ireland,Europe,,,,,"1,158,000",,"1,290,599,283",30.99%,,,4792500,,,,,,,53.3333,6.33333
+Tel Aviv,,Israel,Asia,,,,,"3,785,000",,"1,291,757,283",31.02%,,,8784100,,,,,,,32.06,34.8
+Jerusalem,,Israel,Asia,,,,,"1,124,300",,"1,295,542,283",31.11%,,,8784100,,,,,,,31.8,35.2
+Haifa,,Israel,Asia,,,,,1050000,,"1,296,666,583",31.14%,,,8784100,,,,,,,32.8,35
+Milano,,Italy,Europe,,,,,"5,257,000",,"1,297,716,583",31.16%,,,60504233,,,,,,,45.4,9.2
+Roma,,Italy,Europe,,,,,"3,906,000",,"1,302,973,583",31.29%,,,60504233,,,,,,,41.9,12.5
+Napoli,,Italy,Europe,,,,,"3,706,000",,"1,306,879,583",31.38%,,,60504233,,,,,,,40.85,14.25
+Torino,,Italy,Europe,,,,,"1,521,000",,"1,310,585,583",31.47%,,,60504233,,,,,,,45.1,7.6
+Genova,,Italy,Europe,,,,,"855,000",,"1,312,106,583",31.51%,,,60504233,,,,,,,44.4,8.95
+Florence,,Italy,Europe,,,,,"821,000",,"1,312,961,583",31.53%,,,60504233,,,,,,,43.8,11.25
+Palermo,,Italy,Europe,,,,,"731,000",,"1,313,782,583",31.55%,,,60504233,,,,,,,38.1,13.25
+Abidjan,,Ivory Coast,Africa,,,,,"4,860,000",,#REF!,#REF!,,,24294750,,,,,,,5,-4
+Amman,,Jordan,Asia,,,,,"4,007,526",,"1,319,373,583",31.68%,,,10029000,,,,,,,31.95,35.95
+Almaty,,Kazakhstan,Asia,,,,,"1,703,481",,"1,323,381,109",31.78%,,,18117600,,,,,,,43.26,76.9
+Nairobi,,Kenya,Africa,,,,,"3,915,000",,#REF!,#REF!,,,49699862,,,,,,,1,37
+Mombasa,,Kenya,Africa,,,,,"1,104,000",,,,,,49699862,,,,,,,-4,40
+Kuwait city,,Kuwait,Asia,,,,,"2,400,000",,"1,330,103,590",31.94%,,,4132415,,,,,,,29.4,47.95
+Bishkek,,Kyrgyzstan,Asia,,,,,"937,400",,"1,332,503,590",32.00%,,,6140200,,,,,,,42.85,74.6
+Vientiane,,Laos,Asia,,,,,"760,000",,"1,333,440,990",32.02%,,,6492400,,,,,,,17.95,102.6
+Riga,,Latvia,Europe,,,,,"750,000",,"1,334,200,990",32.04%,,,1932200,,,,,,,57,24.1
+Beirut,,Lebanon,Asia,,,,,"2,200,000",,"1,334,950,990",32.06%,,,6082000,,,,,,,33.9,35.5
+Tripoli,,Lebanon,Asia,,,,,"227,857",,"1,337,150,990",32.11%,,,,,,,,,,34.4,35.9
+Monrovia,,Liberia,Africa,,,,,"1,264,000",,#REF!,#REF!,,,,,,,,,,6,-11
+Tripoli,,Libya,Africa,,,,,"1,126,000",,#REF!,#REF!,,,,,,,,,,33,13
+Lilongwe,,Malawi,Africa,,,,,"1,077,116",,,,,,,,,,,,,-14,34
+Kuala Lumpur,,Malaysia,Asia,,,,,"7,200,000",,"1,340,845,963",32.20%,,,32322000,,,,,,,3.1,101.7
+Georgetown,,Malaysia,Asia,,,,,"2,412,616",,"1,350,458,579",32.43%,,,,,,,,,,5.4,100.3
+Johor Bahru,,Malaysia,Asia,,,,,"1,800,000",,"1,352,258,579",32.47%,,,,,,,,,,1.5,103.75
+Malacca City,Malacca,Malaysia,Asia,,,,,"484,885",,"1,352,743,464",32.48%,,,,,,,,,,2.2,102.25
+Kuantan,Pahang,Malaysia,Asia,,,,,"427,515",,"1,353,170,979",32.49%,,,,,,,,,,3.8,103.33333
+Bamako,,Mali,Africa,,,,,"2,515,000",,#REF!,#REF!,,,,,,,,,,13,-8
+Mexico City,Distrito Federal,Mexico,North America,,,,,"20,137,152",#VALUE!,"20,137,152",#VALUE!,#REF!,#REF!,123675000,,,,,,,19.45,-99.15
+Guadalajara,Jalisco,Mexico,North America,,,,,"4,434,252",#VALUE!,"4,434,252",#VALUE!,#REF!,#REF!,123675000,,,,,,,20.67,-103.333
+Monterrey,Nuevo Leon,Mexico,North America,,,,,"4,106,054",#VALUE!,"4,106,054",#VALUE!,#REF!,#REF!,123675000,,,,,,,25.6667,-100.3
+Puebla,Puebla,Mexico,North America,,,,,"2,728,790",#VALUE!,"2,728,790",#VALUE!,#REF!,#REF!,123675000,,,,,,,19,-97.9
+Toluca,Mexico,Mexico,North America,,,,,"1,936,126",#VALUE!,"1,936,126",#VALUE!,#REF!,#REF!,123675000,,,,,,,19.3,-99.65
+Tijuana,Baja California,Mexico,North America,,,,,"1,751,302",#VALUE!,"1,751,302",#VALUE!,#REF!,#REF!,123675000,,,,,,,32.5,-117
+Léon,Guanajuato,Mexico,North America,,,,,"1,609,717",#VALUE!,"1,609,717",#VALUE!,#REF!,#REF!,123675000,,,,,,,21.1,-101.667
+Ciudad Juarez,Chihuahua,Mexico,North America,,,,,"1,495,094",#VALUE!,"1,495,094",#VALUE!,#REF!,#REF!,123675000,,,,,,,31.75,-106.5
+Torreon,Coahuila,Mexico,North America,,,,,"1,275,993",#VALUE!,"1,275,993",#VALUE!,#REF!,#REF!,123675000,,,,,,,25.5,-103.45
+Santiago de Querétaro,Querétaro,Mexico,North America,,,,,"1,097,028",#VALUE!,"1,097,028",#VALUE!,#REF!,#REF!,123675000,,,,,,,20.6,-100.4
+Acapulco de Juárez,Guerrero,Mexico,North America,,,,,"1,021,000",#VALUE!,"1,021,000",#VALUE!,#REF!,#REF!,123675000,,,,,,,16.85,-99.88
+Mérida,Yucatán,Mexico,North America,,,,,"973,046",#VALUE!,"973,046",#VALUE!,#REF!,#REF!,123675000,,,,,,,20.95,-89.6
+Mexicali,Baja California,Mexico,North America,,,,,"936,145",#VALUE!,"936,145",#VALUE!,#REF!,#REF!,123675000,,,,,,,32.65,-115.45
+Aguascalientes,Aguascalientes,Mexico,North America,,,,,"932,298",#VALUE!,"932,298",#VALUE!,#REF!,#REF!,123675000,,,,,,,21.876,-102.296
+Cuernavaca,Morelos,Mexico,North America,,,,,"875,598",#VALUE!,"875,598",#VALUE!,#REF!,#REF!,123675000,,,,,,,18.9,-99.24
+Culiacán,Sinaloa,Mexico,North America,,,,,"858,638",#VALUE!,"858,638",#VALUE!,#REF!,#REF!,123675000,,,,,,,24.8,-107.2
+Tampico,Veracruz,Mexico,North America,,,,,"858,620",#VALUE!,"858,620",#VALUE!,#REF!,#REF!,123675000,,,,,,,22.25,-97.85
+Chihuahua,Chihuahua,Mexico,North America,,,,,"851,971",#VALUE!,"851,971",#VALUE!,#REF!,#REF!,123675000,,,,,,,28.65,-106.1
+Saltillo,Coahuila,Mexico,North America,,,,,"823,098",#VALUE!,"823,098",#VALUE!,#REF!,#REF!,123675000,,,,,,,25.45,-101
+Morelia,Michoacán,Mexico,North America,,,,,"806,822",#VALUE!,"806,822",#VALUE!,#REF!,#REF!,123675000,,,,,,,19.77,-101.18
+Veracruz,Veracruz,Mexico,North America,,,,,"801,122",#VALUE!,"801,122",#VALUE!,#REF!,#REF!,123675000,,,,,,,19.2,-96.15
+Hermosillo,Sonora,Mexico,North America,,,,,"784,342",#VALUE!,"784,342",#VALUE!,#REF!,#REF!,123675000,,,,,,,29.1,-110.95
+Villahermosa,Tabasco,Mexico,North America,,,,,"755,416",#VALUE!,"755,416",#VALUE!,#REF!,#REF!,123675000,,,,,,,18,-92.95
+Reynosa,Tamaulipas,Mexico,North America,,,,,"725,793",#VALUE!,"725,793",#VALUE!,#REF!,#REF!,123675000,,,,,,,26.1,-98.26
+Cancun,Quintana Roo,Mexico,North America,,,,,"676,238",#VALUE!,"676,238",#VALUE!,#REF!,#REF!,123675000,,,,,,,21.15,-86.85
+Xalapa,Veracruz,Mexico,North America,,,,,"666,268",#VALUE!,"666,268",#VALUE!,#REF!,#REF!,123675000,,,,,,,19.5,-96.9
+Tuxtla,Chiapas,Mexico,North America,,,,,"640,881",#VALUE!,"640,881",#VALUE!,#REF!,#REF!,123675000,,,,,,,16.75,-93.1
+Oaxaca,Oaxaca,Mexico,North America,,,,,"593,522",#VALUE!,"593,522",#VALUE!,#REF!,#REF!,123675000,,,,,,,17.1,-96.75
+Victoria de Durango,Durango,Mexico,North America,,,,,"582,267",#VALUE!,"582,267",#VALUE!,#REF!,#REF!,123675000,,,,,,,24,-104.6666
+Poza Rica,Veracruz,Mexico,North America,,,,,"513,308",#VALUE!,"513,308",#VALUE!,#REF!,#REF!,123675000,,,,,,,20.5,-97.45
+Pachuca,Hidalgo,Mexico,North America,,,,,"512,180",#VALUE!,"512,180",#VALUE!,#REF!,#REF!,123675000,,,,,,,20.1,-98.75
+Tlaxcala,Tlaxcala,Mexico,North America,,,,,"499,504",#VALUE!,"499,504",#VALUE!,#REF!,#REF!,123675000,,,,,,,19.4,-98.16
+Matamoros,Tamaulipas,Mexico,North America,,,,,"493,308",#VALUE!,"493,308",#VALUE!,#REF!,#REF!,123675000,,,,,,,25.8,-97.5
+Cuautla,Morelos,Mexico,North America,,,,,"434,153",#VALUE!,"434,153",#VALUE!,#REF!,#REF!,123675000,,,,,,,18.8,-98.95
+Tepic,Nayarit,Mexico,North America,,,,,"429,161",#VALUE!,"429,161",#VALUE!,#REF!,#REF!,123675000,,,,,,,21.5,-104.9
+Orizaba,Veracruz,Mexico,North America,,,,,"410,372",#VALUE!,"410,372",#VALUE!,#REF!,#REF!,123675000,,,,,,,18.85,-97.1
+Nuevo Laredo,Tamaulipas,Mexico,North America,,,,,"384,018",#VALUE!,"384,018",#VALUE!,#REF!,#REF!,123675000,,,,,,,27.5,-99.5
+Minatitlán,Veracruz,Mexico,North America,,,,,"356,020",#VALUE!,"356,020",#VALUE!,#REF!,#REF!,123675000,,,,,,,18,-94.55
+Coatzacoalcos,Veracruz,Mexico,North America,,,,,"347,223",#VALUE!,"347,223",#VALUE!,#REF!,#REF!,123675000,,,,,,,18.15,-94.5
+Colima,Colima,Mexico,North America,,,,,"333,977",#VALUE!,"333,977",#VALUE!,#REF!,#REF!,123675000,,,,,,,19.15,-103.88
+Monclova,Coahuila,Mexico,North America,,,,,"317,314",#VALUE!,"317,314",#VALUE!,#REF!,#REF!,123675000,,,,,,,26.9,-101.45
+Córdoba,Veracruz,Mexico,North America,,,,,"315,996",#VALUE!,"315,996",#VALUE!,#REF!,#REF!,123675000,,,,,,,18.9,-96.95
+Zacatecas,Zacatecas,Mexico,North America,,,,,"298,143",#VALUE!,"298,143",#VALUE!,#REF!,#REF!,123675000,,,,,,,23.3,-102.7
+Tehuacán,Puebla,Mexico,North America,,,,,"296,894",#VALUE!,"296,894",#VALUE!,#REF!,#REF!,123675000,,,,,,,18.5,-97.45
+Campeche,Campeche,Mexico,North America,,,,,"259,000",#VALUE!,"259,000",#VALUE!,#REF!,#REF!,123675000,,,,,,,18.8,-90.4
+Zamora,Michoacán,Mexico,North America,,,,,"249,805",#VALUE!,"249,805",#VALUE!,#REF!,#REF!,123675000,,,,,,,20,-102.3
+Tulancingo,Hidalgo,Mexico,North America,,,,,"239,575",#VALUE!,"239,575",#VALUE!,#REF!,#REF!,123675000,,,,,,,20.1,-98.35
+Tula,Hildago,Mexico,North America,,,,,"205,848",#VALUE!,"205,848",#VALUE!,#REF!,#REF!,123675000,,,,,,,20.05,-99.35
+Guaymas,Sonora,Mexico,North America,,,,,"203,442",#VALUE!,"203,442",#VALUE!,#REF!,#REF!,123675000,,,,,,,27.9,-110.9
+San Francisco del Rincón,Guanajuato,Mexico,North America,,,,,"182,330",#VALUE!,"182,330",#VALUE!,#REF!,#REF!,123675000,,,,,,,21,-101.85
+Piedras Negras,Coahuila,Mexico,North America,,,,,"180,701",#VALUE!,"180,701",#VALUE!,#REF!,#REF!,123675000,,,,,,,28.7,-100.5
+Tehuantepec,Oaxaca,Mexico,North America,,,,,"161,343",#VALUE!,"161,343",#VALUE!,#REF!,#REF!,123675000,,,,,,,16.333,-95.25
+Ocotlán,Jalisco,Mexico,North America,,,,,"141,365",#VALUE!,"141,365",#VALUE!,#REF!,#REF!,123675000,,,,,,,,
+San Luis Potosí,San Luis Potosí,Mexico,North America,,,,,"135,423",#VALUE!,"135,423",#VALUE!,#REF!,#REF!,123675000,,,,,,,,
+Rioverde,San Luis Potosí,Mexico,North America,,,,,"126,997",#VALUE!,"126,997",#VALUE!,#REF!,#REF!,123675000,,,,,,,,
+Acayucan,Veracruz,Mexico,North America,,,,,"112,999",#VALUE!,"112,999",#VALUE!,#REF!,#REF!,123675000,,,,,,,,
+Ulaanbaatar,,Mongolia,Asia,,,,,"1,372,000",,"1,419,560,971",34.09%,,,,,,,,,,47.9,106.9
+Casablanca,,Morocco,Africa,,,,,"3,515,000",,#REF!,#REF!,,,,,,,,,,34,-8
+Rabat,,Morocco,Africa,,,,,"1,967,000",,#REF!,#REF!,,,,,,,,,,34,-7
+Fès,,Morocco,Africa,,,,,"1,172,000",,#REF!,#REF!,,,,,,,,,,34,-5
+Marrakech,,Morocco,Africa,,,,,"1,134,000",,#REF!,#REF!,,,,,,,,,,32,-8
+Maputo,,Mozambique,Africa,,,,,"1,187,000",,,,,,,,,,,,,-26,33
+Kathmandu,Bagmati Zone,Nepal,Asia,,,,,"1,003,285",,"1,429,907,971",34.34%,,,,,,,,,,27.7,85.3
+Rotterdam-The Hague,,Netherlands,Europe,,,,,"2,660,000",,"1,430,911,256",34.36%,,,,,,,,,,52.1,4.4
+Amsterdam,,Netherlands,Europe,,,,,"1,624,000",,"1,433,571,256",34.43%,,,,,,,,,,52.3333,4.9
+Managua,Managua,Nicaragua,North America,,,,,"1,337,709",,"1,337,709",,,,,,,,,,,12.15,-86.25
+Leon,Leon,Nicaragua,North America,,,,,"389,600",,"389,600",,,,,,,,,,,12.45,-86.9
+Masaya,Masaya,Nicaragua,North America,,,,,"139,701",,"139,701",,,,,,,,,,,,
+Niamey,,Niger,Africa,,,,,"1,090,000",,#REF!,#REF!,,,,,,,,,,14,2
+Lagos,,Nigeria,Africa,,,,,"13,123,000",,#REF!,#REF!,,,193392500,,,,,,,6,3
+Kano,,Nigeria,Africa,,,,,"3,587,000",,#REF!,#REF!,,,193392500,,,,,,,12,9
+Ibadan,,Nigeria,Africa,,,,,"3,160,000",,#REF!,#REF!,,,193392500,,,,,,,7,4
+Abuja,,Nigeria,Africa,,,,,"2,440,000",,#REF!,#REF!,,,193392500,,,,,,,9,8
+Port Harcourt,,Nigeria,Africa,,,,,"2,343,000",,#REF!,#REF!,,,193392500,,,,,,,5,7
+Benin City,,Nigeria,Africa,,,,,"1,496,000",,#REF!,#REF!,,,193392500,,,,,,,6,6
+Onitsha,,Nigeria,Africa,,,,,"1,109,000",,#REF!,#REF!,,,193392500,,,,,,,6,7
+Kaduna,,Nigeria,Africa,,,,,"1,048,000",,#REF!,#REF!,,,193392500,,,,,,,11,7
+Pyongyang,,North Korea,Asia,,,,,"3,255,288",,"1,466,458,266",35.22%,,,,,,,,,,39,125.75
+Hamhung,,North Korea,Asia,,,,,"768,551",,"1,469,713,554",35.29%,,,,,,,,,,39.9,127.5
+Oslo,,Norway,Europe,,,,,"1,717,900",,,,,,,,,,,,,,
+Muscat,,Oman,Asia,,,,,"1,560,000",,"1,472,200,005",35.35%,,,,,,,,,,23.6,58.6
+Karachi,Sindh,Pakistan,Asia,,,,,"24,300,000",,"1,473,760,005",35.39%,,,209860000,,,,,,,24.9,67
+Lahore,Punjab,Pakistan,Asia,,,,,"10,052,000",,"1,498,060,005",35.97%,,,209860000,,,,,,,31.5,74.3
+Islamabad,Islamabad,Pakistan,Asia,,,,,"4,700,000",,"1,508,112,005",36.22%,,,209860000,,,,,,,33.75,73.1
+Faisalabad,Punjab,Pakistan,Asia,,,,,"4,075,000",,"1,512,812,005",36.33%,,,209860000,,,,,,,31.5,73.1
+Hyderabad,Sindh,Pakistan,Asia,,,,,"3,490,000",,#REF!,#REF!,,,209860000,,,,,,,25.4,68.35
+Multan,Punjab,Pakistan,Asia,,,,,"3,100,000",,"1,520,377,005",36.51%,,,209860000,,,,,,,30.1,71.5
+Gujranwala,Punjab,Pakistan,Asia,,,,,"2,700,000",,"1,523,477,005",36.58%,,,209860000,,,,,,,32.15,74.15
+Peshawar,KPK,Pakistan,Asia,,,,,"1,785,000",,"1,526,177,005",36.65%,,,209860000,,,,,,,34,71.55
+Sargodha,Punjab,Pakistan,Asia,,,,,"1,550,000",,"1,527,962,005",36.69%,,,209860000,,,,,,,32.1,72.75
+Quetta,Balochistan,Pakistan,Asia,,,,,"1,140,000",,"1,529,512,005",36.73%,,,209860000,,,,,,,30.15,67
+Panama City,Panamá,Panama,North America,,,,,"1,713,070",,"1,713,070",,,,,,,,,,,9,-79.15
+Asunción,,Paraguay,South America,,,,,"2,482,760",,,,,,,,,,,,,-25.25,-57.6
+Lima,,Peru,South America,,,,,"9,904,727",,,,,,31826018,,,,,,,-12.05,-77
+Katowice,,Poland,Europe,,,,,"2,190,000",,"1,544,752,562",37.10%,,,,,,,,,,50.3,19
+Warsaw,,Poland,Europe,,,,,"1,720,000",,"1,546,942,562",37.15%,,,,,,,,,,52.2,21.1
+Lodz,,Poland,Europe,,,,,"939,000",,"1,548,662,562",37.19%,,,,,,,,,,51.75,19.4
+Gdansk,,Poland,Europe,,,,,"775,000",,"1,549,601,562",37.21%,,,,,,,,,,54.4,18.6
+Krakow,,Poland,Europe,,,,,"760,000",,"1,550,376,562",37.23%,,,,,,,,,,50.1,19.9
+Lisbon,,Portugal,Europe,,,,,"2,666,000",,"1,551,136,562",37.25%,,,,,,,,,,38.8,-9.1
+Porto,,Portugal,Europe,,,,,"1,474,000",,"1,553,802,562",37.31%,,,,,,,,,,41.16,-8.6
+Doha,,Qatar,Asia,,,,,"1,351,000",,"1,555,276,562",37.35%,,,,,,,,,,25.3,51.55
+Bucharest,,Romania,Europe,,,,,"1,860,000",,"1,556,627,562",37.38%,,,,,,,,,,44.5,26.1
+Moscow,Moscow,Russia,Europe,,,,,"11,503,501",,"1,558,487,562",37.43%,,,146854000,,,,,,,55.75,37.6
+Saint Petersburg,Saint Petersburg,Russia,Europe,,,,,"4,879,566",,"1,569,991,063",37.70%,,,146854000,,,,,,,59.95,30.3
+Novosibirsk,Novosibirsk Oblast,Russia,Asia,,,,,"1,473,754",,"1,574,870,629",37.82%,,,146854000,,,,,,,55.05,82.9
+Yekaterinburg,Sverdlovsk,Russia,Europe,,,,,"1,349,772",,"1,576,344,383",37.85%,,,146854000,,,,,,,56.85,60.6
+Nizhny Novgorod,Nizhny Novgorod,Russia,Europe,,,,,"1,250,619",,"1,577,694,155",37.89%,,,146854000,,,,,,,56.33,44
+Samara,,Russia,Europe,,,,,"1,164,685",,"1,578,944,774",37.92%,,,146854000,,,,,,,53.2,50.1
+Omsk,Omsk Oblast,Russia,Asia,,,,,"1,154,116",,"1,580,109,459",37.94%,,,146854000,,,,,,,55,73.4
+Kazan,,Russia,Europe,,,,,"1,143,535",,"1,581,263,575",37.97%,,,146854000,,,,,,,55.8,49.1
+Chelyabinsk,,Russia,Asia,,,,,"1,130,132",,"1,582,407,110",38.00%,,,146854000,,,,,,,55.15,61.4
+Rostov-on-Don,,Russia,Europe,,,,,"1,089,261",,"1,583,537,242",38.03%,,,146854000,,,,,,,47.25,39.7
+Ufa,,Russia,Europe,,,,,"1,062,319",,"1,584,626,503",38.05%,,,146854000,,,,,,,54.75,56
+Volgograd,,Russia,Europe,,,,,"1,021,215",,"1,585,688,822",38.08%,,,146854000,,,,,,,48.7,44.5
+Perm,,Russia,Europe,,,,,"991,162",,"1,586,710,037",38.10%,,,146854000,,,,,,,58,56.3
+Krasnoyarsk,,Russia,Asia,,,,,"973,826",,"1,587,701,199",38.13%,,,146854000,,,,,,,56,93.1
+Voronezh,,Russia,Europe,,,,,"889,680",,"1,588,675,025",38.15%,,,146854000,,,,,,,51.66666,39.2
+Saratov,,Russia,Europe,,,,,"837,900",,"1,589,564,705",38.17%,,,146854000,,,,,,,51.5,46
+Krasnodar,,Russia,Europe,,,,,"744,995",,"1,590,402,605",38.19%,,,146854000,,,,,,,45,38.95
+Tolyatti,,Russia,Europe,,,,,"719,632",,"1,591,147,600",38.21%,,,146854000,,,,,,,53.5,49.5
+Barnaul,Altai Krai,Russia,Asia,,,,,"612,401",,"1,591,867,232",38.23%,,,146854000,,,,,,,53.5,83.75
+Vladivostok,Primorsky Krai,Russia,Asia,,,,,"592,034",,"1,592,479,633",38.24%,,,146854000,,,,,,,43.1,131.9
+Irkutsk,Irkutsk Oblast,Russia,Asia,,,,,"587,891",,"1,593,071,667",38.26%,,,146854000,,,,,,,52.25,104.25
+Khabarovsk,Khabarovsk Krai,Russia,Asia,,,,,"577,441",,"1,593,659,558",38.27%,,,146854000,,,,,,,48.45,135.1
+Kemerovo,Kemerovo Oblast,Russia,Asia,,,,,"549,159",,"1,594,236,999",38.28%,,,146854000,,,,,,,55.3,86.06
+Tomsk,Tomsk Oblast,Russia,Asia,,,,,"524,669",,"1,594,786,158",38.30%,,,146854000,,,,,,,56.5,85
+Chita,Zabaykalsky Krai,Russia,Asia,,,,,"324,444",,"1,595,310,827",38.31%,,,146854000,,,,,,,52.05,113.45
+Yakutsk,Sakha,Russia,Asia,,,,,"269,601",,"1,595,635,271",38.32%,,,146854000,,,,,,,62,129.7
+Komsomolsk-on-Amur,,Russia,Asia,,,,,"263,906",,"1,595,904,872",38.32%,,,146854000,,,,,,,50.5,136.95
+Blagoveshchensk,Amur Oblast,Russia,Asia,,,,,"214,309",,"1,596,168,778",38.33%,,,146854000,,,,,,,50.25,127.5
+Petropavlovsk-Kamchtasky,Kamchatka,Russia,Asia,,,,,"181,728",,"1,596,383,087",38.34%,,,146854000,,,,,,,53,158.6
+Ussuriysk,,Russia,Asia,,,,,"158,004",,"1,596,564,815",38.34%,,,146854000,,,,,,,43.8,132
+Nakhodka,,Russia,Asia,,,,,"148,826",,"1,596,722,819",38.34%,,,146854000,,,,,,,42.85,132.9
+Artyom,,Russia,Asia,,,,,"102,603",,"1,596,871,645",38.35%,,,146854000,,,,,,,43.3333,132.15
+Magadan,Magadan,Russia,Asia,,,,,"95,982",,"1,596,974,248",38.35%,,,146854000,,,,,,,59.5,150.8
+Birobidzhan,,Russia,Asia,,,,,"75,413",,"1,597,070,230",38.35%,,,146854000,,,,,,,48.8,132.9
+Kigali,,Rwanda,Africa,,,,,"1,257,000",,,,,,,,,,,,,-2,30
+Riyadh,,Saudi Arabia,Asia,,,,,"6,506,700",,"1,598,402,643",38.38%,,,32612641,,,,,,,24.6,46.7
+Jeddah,,Saudi Arabia,Asia,,,,,"3,976,400",,"1,604,909,343",38.54%,,,32612641,,,,,,,21.5,39.15
+Al-Ahsa,,Saudi Arabia,Asia,,,,,"2,100,000",,"1,608,885,743",38.64%,,,32612641,,,,,,,25.4,49.6
+Mecca,,Saudi Arabia,Asia,,,,,"1,919,900",,"1,610,985,743",38.69%,,,32612641,,,,,,,21.4,39.8
+Medina,,Saudi Arabia,Asia,,,,,"1,271,800",,"1,612,905,643",38.73%,,,32612641,,,,,,,24.25,39.6
+Ta'if,,Saudi Arabia,Asia,,,,,"1,109,800",,"1,614,177,443",38.76%,,,32612641,,,,,,,21.45,40.3333
+Dammam,,Saudi Arabia,Asia,,,,,"975,800",,"1,615,287,243",38.79%,,,32612641,,,,,,,26.4,50.1
+Buraidah,,Saudi Arabia,Asia,,,,,"658,600",,"1,616,263,043",38.81%,,,32612641,,,,,,,26.33333,43.95
+Khobar,,Saudi Arabia,Asia,,,,,"626,000",,"1,616,921,643",38.83%,,,32612641,,,,,,,26.3,50.2
+Tabuk,,Saudi Arabia,Asia,,,,,"609,000",,"1,617,547,643",38.84%,,,32612641,,,,,,,28.4,36.55
+Dakar,,Senegal,Africa,,,,,"3,520,000",,#REF!,#REF!,,,,,,,,,,15,-17
+Belgrade,,Serbia,Europe,,,,,"1,680,000",,,,,,,,,,,,,,
+Freetown,,Sierra Leone,Africa,,,,,"1,007,000",,"1,577,694,155",37.89%,,,,,,,,,,9,-13
+Singapore,,Singapore,Asia,,,,,"5,607,300",,"1,624,363,643",39.01%,,,,,,,,,,1.3,103.8
+Mogadishu,,Somalia,Africa,,,,,"2,138,000",,"1,595,635,271",38.32%,,,,,,,,,,2,45
+Greater Johannesburg,,South Africa,Africa,,,,,"9,399,000",,,,,,56717000,,,,,,,-26,28
+Cape Town,,South Africa,Africa,,,,,"3,660,000",,,,,,56717000,,,,,,,-34,18
+Durban,,South Africa,Africa,,,,,"2,901,000",,,,,,56717000,,,,,,,-30,31
+Pretoria,,South Africa,Africa,,,,,"2,059,000",,,,,,56717000,,,,,,,-26,28
+Port Elizabeth,,South Africa,Africa,,,,,"1,179,000",,,,,,56717000,,,,,,,-34,26
+Vereeniging,,South Africa,Africa,,,,,"1,155,000",,,,,,56717000,,,,,,,-27,28
+East London,,South Africa,Africa,,,,,"755,200",,,,,,56717000,,,,,,,-33,28
+Seoul,,South Korea,Asia,,,,,"25,514,000",,"1,653,217,143",39.70%,,,51446000,,,,,,,37.6,126.9
+Busan,none,South Korea,Asia,,,,,"3,548,640",,"1,678,731,143",40.31%,,,51446000,,,,,,,35.15,129.0666
+Incheon,none,South Korea,Asia,,,,,"2,808,286",,"1,682,279,783",40.40%,,,51446000,,,,,,,37.5,126.6
+Daegu,none,South Korea,Asia,,,,,"2,508,563",,"1,685,088,069",40.47%,,,51446000,,,,,,,35.9,128.6
+Daejeon,none,South Korea,Asia,,,,,"1,518,651",,"1,687,596,632",40.53%,,,51446000,,,,,,,36.5,127.5
+Gwangju,none,South Korea,Asia,,,,,"1,466,516",,"1,689,115,283",40.56%,,,51446000,,,,,,,35.16,126.9
+Ulsan,none,South Korea,Asia,,,,,"1,136,948",,"1,690,581,799",40.60%,,,51446000,,,,,,,35.55,129.33
+Changwon,South Gyeongsang,South Korea,Asia,,,,,"1,091,733",,"1,691,718,747",40.62%,,,51446000,,,,,,,35.25,128.65
+Cheongju,North Chungcheong,South Korea,Asia,,,,,"662,852",,"1,692,810,480",40.65%,,,51446000,,,,,,,36.6,127.5
+Jeonju,North Jeolla,South Korea,Asia,,,,,"647,504",,"1,693,473,332",40.67%,,,51446000,,,,,,,35.8,127.15
+Cheonan,South Chungcheong,South Korea,Asia,,,,,"574,148",,"1,694,120,836",40.68%,,,51446000,,,,,,,36.816667,127.1666667
+Pohang,North Gyeongsang,South Korea,Asia,,,,,"517,322",,"1,694,694,984",40.70%,,,51446000,,,,,,,36,129.33333
+Gimhae,South Gyeongsang,South Korea,Asia,,,,,"507,726",,"1,695,212,306",40.71%,,,51446000,,,,,,,35.25,128.9
+Gumi,North Gyeongsang,South Korea,Asia,,,,,"413,893",,"1,695,720,032",40.72%,,,51446000,,,,,,,36.119469,128.344381
+Jinju,South Gyeongsang,South Korea,Asia,,,,,"336,310",,"1,696,133,925",40.73%,,,51446000,,,,,,,35.2,128.1
+Wonju,Gangwon,South Korea,Asia,,,,,"321,146",,"1,696,470,235",40.74%,,,51446000,,,,,,,37.3,127.9
+Iksan,North Jeolla,South Korea,Asia,,,,,"308,458",,"1,696,791,381",40.75%,,,51446000,,,,,,,35.9,129.95
+Yeosu,South Jeolla,South Korea,Asia,,,,,"292,627",,"1,697,099,839",40.75%,,,51446000,,,,,,,34.75,127.75
+Gunsan,North Jeolla,South Korea,Asia,,,,,"276,538",,"1,697,392,466",40.76%,,,51446000,,,,,,,36,126.75
+Asan,South Chungcheong,South Korea,Asia,,,,,"275,350",,"1,697,669,004",40.77%,,,51446000,,,,,,,36.8,127
+Chuncheon,Gangwon,South Korea,Asia,,,,,"273,130",,"1,697,944,354",40.77%,,,51446000,,,,,,,,
+Suncheon,South Jeolla,South Korea,Asia,,,,,"272,274",,"1,698,217,484",40.78%,,,51446000,,,,,,,,
+Yangsan,South Gyeongsang,South Korea,Asia,,,,,"267,108",,"1,698,489,758",40.79%,,,51446000,,,,,,,,
+Gyeongju,North Gyeongsang,South Korea,Asia,,,,,"265,028",,"1,698,756,866",40.79%,,,51446000,,,,,,,,
+Mokpo,South Jeolla,South Korea,Asia,,,,,"244,256",,"1,699,021,894",40.80%,,,51446000,,,,,,,,
+Gyeongsan,North Gyeongsang,South Korea,Asia,,,,,"243,746",,"1,699,266,150",40.81%,,,51446000,,,,,,,,
+Geoje,South Gyeongsang,South Korea,Asia,,,,,"232,891",,"1,699,509,896",40.81%,,,51446000,,,,,,,,
+Gangneung,Gangwon,South Korea,Asia,,,,,"217,494",,"1,699,742,787",40.82%,,,51446000,,,,,,,,
+Chungju,North Chungcheong,South Korea,Asia,,,,,"208,266",,"1,699,960,281",40.82%,,,51446000,,,,,,,36.95,127.95
+Andong,North Gyeongsang,South Korea,Asia,,,,,"168,009",,"1,700,168,547",40.83%,,,51446000,,,,,,,,
+Seosan,South Chungcheong,South Korea,Asia,,,,,"161,610",,"1,700,336,556",40.83%,,,51446000,,,,,,,,
+Dangjin,South Chungcheong,South Korea,Asia,,,,,"151,013",,"1,700,498,166",40.84%,,,51446000,,,,,,,,
+Gwangyang,South Jeolla,South Korea,Asia,,,,,"150,565",,"1,700,649,179",40.84%,,,51446000,,,,,,,,
+Tongyeong,South Gyeongsang,South Korea,Asia,,,,,"140,140",,"1,700,799,744",40.84%,,,51446000,,,,,,,,
+Jecheon,North Chungcheong,South Korea,Asia,,,,,"137,317",,"1,700,939,884",40.85%,,,51446000,,,,,,,37.1,128.25
+Gimcheon,North Gyeongsang,South Korea,Asia,,,,,"135,421",,"1,701,077,201",40.85%,,,51446000,,,,,,,,
+Nonsan,South Chungcheong,South Korea,Asia,,,,,"127,056",,"1,701,212,622",40.85%,,,51446000,,,,,,,,
+Gongju,South Chungcheong,South Korea,Asia,,,,,"124,359",,"1,701,339,678",40.86%,,,51446000,,,,,,,,
+Sejong,none,South Korea,Asia,,,,,"122,263",,"1,701,464,037",40.86%,,,51446000,,,,,,,,
+Jeongeup,North Jeolla,South Korea,Asia,,,,,"120,114",,"1,701,586,300",40.86%,,,51446000,,,,,,,,
+Sacheon,South Gyeongsang,South Korea,Asia,,,,,"114,654",,"1,701,706,414",40.86%,,,51446000,,,,,,,,
+Yeongju,North Gyeongsang,South Korea,Asia,,,,,"114,446",,"1,701,821,068",40.87%,,,51446000,,,,,,,,
+Miryang,South Gyeongsang,South Korea,Asia,,,,,"109,087",,"1,701,935,514",40.87%,,,51446000,,,,,,,,
+Boryeong,South Chungcheong,South Korea,Asia,,,,,"106,106",,"1,702,044,601",40.87%,,,51446000,,,,,,,,
+Sangju,North Gyeongsang,South Korea,Asia,,,,,"104,652",,"1,702,150,707",40.88%,,,51446000,,,,,,,,
+Yeongcheon,North Gyeongsang,South Korea,Asia,,,,,"103,174",,"1,702,255,359",40.88%,,,51446000,,,,,,,,
+Donghae,Gangwon,South Korea,Asia,,,,,"94,617",,"1,702,358,533",40.88%,,,51446000,,,,,,,,
+Gimje,North Jeolla,South Korea,Asia,,,,,"92,911",,"1,702,453,150",40.88%,,,51446000,,,,,,,,
+Sokcho,Gangwon,South Korea,Asia,,,,,"88,723",,"1,702,546,061",40.88%,,,51446000,,,,,,,,
+Naju,South Jeolla,South Korea,Asia,,,,,"88,094",,"1,702,634,784",40.89%,,,51446000,,,,,,,,
+Namwon,North Jeolla,South Korea,Asia,,,,,"87,367",,"1,702,722,878",40.89%,,,51446000,,,,,,,,
+Mungyeong,North Gyeongsang,South Korea,Asia,,,,,"76,045",,"1,702,810,245",40.89%,,,51446000,,,,,,,,
+Samcheok,Gangwon,South Korea,Asia,,,,,"71,825",,"1,702,886,290",40.89%,,,51446000,,,,,,,,
+Taebaek,Gangwon,South Korea,Asia,,,,,"49,837",,"1,702,958,115",40.89%,,,51446000,,,,,,,,
+Gyeryong,South Chungcheong,South Korea,Asia,,,,,"42,427",,"1,703,007,952",40.90%,,,51446000,,,,,,,,
+Juba,,South Sudan,Africa,,,,,"492,970",,"1,699,021,894",40.80%,,,,,,,,,,5,32
+Madrid,,Spain,Europe,,,,,"6,600,000",,"1,703,543,349",40.91%,,,46528966,,,,,,,40.33333,-3.85
+Barcelona,,Spain,Europe,,,,,"5,355,000",,"1,710,143,349",41.07%,,,,,,,,,,41.25,2.1
+Valencia,,Spain,Europe,,,,,"1,561,000",,"1,715,498,349",41.20%,,,,,,,,,,39.5,-0.3333
+Sevilla,,Spain,Europe,,,,,"1,533,230",,"1,717,059,349",41.23%,,,,,,,,,,37.4,6.1
+Malaga,,Spain,Europe,,,,,"953,251",,"1,718,592,579",41.27%,,,,,,,,,,36.7,-4.4
+Bilbao,,Spain,Europe,,,,,"750,000",,"1,719,545,830",41.29%,,,,,,,,,,43.25,-3
+Khartoum-Omdurman,,Sudan,Africa,,,,,"5,129,000",,#REF!,#REF!,,,,,,,,,,16,33
+Stockholm,,Sweden,Europe,,,,,"1,630,000",,"1,725,424,830",41.43%,,,,,,,,,,59.2,18
+Aleppo,,Syria,Asia,,,,,"2,132,100",,"1,727,054,830",41.47%,,,,,,,,,,36.2,37.15
+Damascus,,Syria,Asia,,,,,"1,414,913",,"1,729,186,930",41.52%,,,,,,,,,,33.5,36.3
+Homs,,Syria,Asia,,,,,"652,609",,"1,730,601,843",41.56%,,,,,,,,,,34.75,36.7
+Latakia,,Syria,Asia,,,,,"383,786",,"1,731,254,452",41.57%,,,,,,,,,,35.5,35.8
+Hama,,Syria,Asia,,,,,"312,994",,"1,731,638,238",41.58%,,,,,,,,,,35.15,36.75
+Dushanbe,,Tajikistan,Asia,,,,,"1,051,200",,"1,731,951,232",41.59%,,,,,,,,,,38.5,68.75
+Dar es Salaam,,Tanzania,Africa,,,,,"5,116,000",,,,,,,,,,,,,-7,39
+Mwanza,,Tanzania,Africa,,,,,"706,543",,"1,702,358,533",40.88%,,,,,,,,,,3,33
+Bangkok,,Thailand,Asia,,,,,"14,565,547",,"1,738,824,975",41.76%,,,66061000,,,,,,,13.75,100.5
+Lome,,Togo,Africa,,,,,"1,570,283",,"1,701,586,300",40.86%,,,,,,,,,,6,1
+Tunis,,Tunisia,Africa,,,,,"1,993,000",,"1,756,953,805",42.19%,,,,,,,,,,37,10
+İstanbul,,Turkey,Asia/Europe,,,,,"14,377,018",,"1,756,953,805",42.19%,,,79814000,,,,,,,41,28.95
+Ankara,,Turkey,Asia,,,,,"5,152,072",,"1,771,330,823",42.54%,,,79814000,,,,,,,39.9,32.85
+İzmir,,Turkey,Asia,,,,,"4,113,072",,"1,776,482,895",42.66%,,,79814000,,,,,,,38.7,27.25
+Bursa,,Turkey,Asia,,,,,"2,787,539",,"1,780,595,967",42.76%,,,79814000,,,,,,,40.2,29.05
+Antalya,,Turkey,Asia,,,,,"2,222,562",,"1,783,383,506",42.83%,,,79814000,,,,,,,35.9,30.7
+Adana,,Turkey,Asia,,,,,"2,165,595",,"1,785,606,068",42.88%,,,79814000,,,,,,,37,35.3
+Konya,,Turkey,Asia,,,,,"2,108,808",,"1,787,771,663",42.93%,,,79814000,,,,,,,37.85,32.5
+Gaziantep,,Turkey,Asia,,,,,"1,889,466",,"1,789,880,471",42.98%,,,79814000,,,,,,,37.0666,37.4
+Şanlıurfa,,Turkey,Asia,,,,,"1,845,667",,"1,791,769,937",43.03%,,,79814000,,,,,,,37.15,38.8
+Kocaeli[Note 2],,Turkey,Asia,,,,,"1,722,795",,"1,793,615,604",43.07%,,,79814000,,,,,,,40.75,29.9
+Mersin[Note 1],,Turkey,Asia,,,,,"1,722,255",,"1,795,338,399",43.11%,,,79814000,,,,,,,36.8,34.6
+Diyarbakır,,Turkey,Asia,,,,,"1,635,048",,"1,797,060,654",43.15%,,,79814000,,,,,,,37.91,40.24
+Hatay,,Turkey,Asia,,,,,"1,519,836",,"1,798,695,702",43.19%,,,79814000,,,,,,,36.4,36.15
+Manisa,Manisa,Turkey,Asia,,,,,"1,367,905",,"1,800,215,538",43.23%,,,79814000,,,,,,,38.6,27.4
+Kayseri,,Turkey,Asia,,,,,"1,322,376",,"1,801,583,443",43.26%,,,79814000,,,,,,,38.75,35.5
+Samsun,,Turkey,Asia,,,,,"1,269,989",,"1,802,905,819",43.29%,,,79814000,,,,,,,41.25,36.33333
+Balıkesir,,Turkey,Asia,,,,,"1,189,057",,"1,804,175,808",43.33%,,,79814000,,,,,,,39.6,27.9
+Van,,Turkey,Asia,,,,,"1,089,542",,"1,805,364,865",43.35%,,,79814000,,,,,,,38.5,43.4
+Kahramanmaraş,,Turkey,Asia,,,,,"1,089,038",,"1,806,454,407",43.38%,,,79814000,,,,,,,37.5,36.9
+Aydın,,Turkey,Asia,,,,,"1,041,579",,"1,807,543,445",43.41%,,,79814000,,,,,,,37.85,27.85
+Denizli,,Turkey,Asia,,,,,"978,700",,"1,808,585,024",43.43%,,,79814000,,,,,,,37.75,29.1
+Ashgabat,,Turkmenistan,Asia,,,,,"1,031,992",,"1,809,563,724",43.45%,,,,,,,,,,37.95,58.4
+Kampala,,Uganda,Africa,,,,,"1,936,000",,,,,,,,,,,,,0,33
+Kiev,,Ukraine,Europe,,,,,"3,375,000",,,,,,,,,,,,,,
+Dubai,,United Arab Emirates,Asia,,,,,"2,665,978",,"1,815,906,716",43.61%,,,,,,,,,,25.25,55.3
+Abu Dhabi,,United Arab Emirates,Asia,,,,,"1,500,000",,"1,818,572,694",43.67%,,,,,,,,,,24.5,54.4
+Sharjah,,United Arab Emirates,Asia,,,,,"719,100",,"1,820,072,694",43.71%,,,,,,,,,,25.35,55.4
+Al Ain,,United Arab Emirates,Asia,,,,,"650,000",,"1,820,791,794",43.72%,,,,,,,,,,24.2,55.75
+London,,United Kingdom,Europe,,,,,"12,200,000",,"1,821,441,794",43.74%,,,65648000,,,,,,,51.5,0
+Manchester,,United Kingdom,Europe,,,,,"2,639,000",,"1,833,641,794",44.03%,,,65648000,,,,,,,53.5,-2.25
+Birmingham,,United Kingdom,Europe,,,,,"2,512,000",,"1,836,280,794",44.10%,,,65648000,,,,,,,52.5,-1.9
+Leeds,,United Kingdom,Europe,,,,,"1,893,000",,"1,838,792,794",44.16%,,,65648000,,,,,,,53.8,-1.6
+Glasgow,,United Kingdom,Europe,,,,,"1,182,000",,"1,840,685,794",44.20%,,,65648000,,,,,,,55.85,-4.3333
+Liverpool,,United Kingdom,Europe,,,,,"864,000",,"1,841,867,794",44.23%,,,65648000,,,,,,,53.4,-3
+South Hampshire,,United Kingdom,Europe,,,,,"856,000",,"1,842,731,794",44.25%,,,65648000,,,,,,,50.8,-1.2
+Newcastle upon Tyne,,United Kingdom,Europe,,,,,"780,000",,"1,843,587,794",44.27%,,,65648000,,,,,,,55,-1.5
+Nottingham,,United Kingdom,Europe,,,,,"730,000",,"1,844,367,794",44.29%,,,65648000,,,,,,,52.95,-1.25
+New York,New York,United States,North America,,,,,"23,362,099",#VALUE!,"23,362,099",#VALUE!,#REF!,#REF!,326253000,,1,1,4,"59,414",557,40.7,-74
+Los Angeles,California,United States,North America,,,,,"18,238,998",#VALUE!,"18,238,998",#VALUE!,#REF!,#REF!,326253000,,1,1,24,"51,374",215,34,-118.25
+Chicago,Illinois,United States,North America,,,,,"9,899,902",#VALUE!,"9,899,902",#VALUE!,#REF!,#REF!,326253000,,1,1,4,"50,058",510,42,-87.75
+Washington/Baltimore,DC,United States,North America,,,,,"9,331,587",#VALUE!,"9,331,587",#VALUE!,#REF!,#REF!,326253000,,1,1,21,"156,367",100,39,-77
+San Jose/San Francisco,California,United States,North America,,,,,"8,370,967",#VALUE!,"8,370,967",#VALUE!,#REF!,#REF!,326253000,,1,1,200,"51,374",200,37.75,-122.5
+Boston,Massachusetts,United States,North America,,,,,"7,991,371",#VALUE!,"7,991,371",#VALUE!,#REF!,#REF!,326253000,,1,1,51,"57,332",300,42.5,-71
+Philadelphia,Pennsylvania,United States,North America,,,,,"7,129,428",#VALUE!,"7,129,428",#VALUE!,#REF!,#REF!,326253000,,2,1,8,"45,170",,40,-75
+Dallas (Fort Worth),Texas,United States,North America,,,,,"6,700,991",#VALUE!,"6,700,991",#VALUE!,#REF!,#REF!,326253000,,-1,-1,58,"47,027",388,32.75,-96.75
+Miami,Florida,United States,North America,,,,,"6,375,434",#VALUE!,"6,375,434",#VALUE!,#REF!,#REF!,326253000,,2,-1,44,"39,563",1,25.75,-80.25
+Houston,Texas,United States,North America,,,,,"6,177,035",#VALUE!,"6,177,035",#VALUE!,#REF!,#REF!,326253000,,-1,-1,17,"47,027",,29.75,-95.5
+Atlanta,Georgia,United States,North America,,,,,"6,092,295",#VALUE!,"6,092,295",#VALUE!,#REF!,#REF!,326253000,,-1,-1,20,"41,223",190,33.75,-84.5
+Detroit,Michigan,United States,North America,,,,,"5,311,449",#VALUE!,"5,311,449",#VALUE!,#REF!,#REF!,326253000,,1,1,200,"37,708",,42.5,-83
+Seattle,Washington,United States,North America,,,,,"4,399,332",#VALUE!,"4,399,332",#VALUE!,#REF!,#REF!,326253000,,1,1,46,"45,135",60,47.5,-122.25
+Phoenix,Arizona,United States,North America,,,,,"4,329,534",#VALUE!,"4,329,534",#VALUE!,#REF!,#REF!,326253000,,-1,-1,139,"40,305",,33.5,-112
+Minneapolis,Minnesota,United States,North America,,,,,"3,759,978",#VALUE!,"3,759,978",#VALUE!,#REF!,#REF!,326253000,,1,1,68,"49,972",,45,-93.25
+Cleveland,Ohio,United States,North America,,,,,"3,497,711",#VALUE!,"3,497,711",#VALUE!,#REF!,#REF!,326253000,,2,-1,37,"41,871",,41.5,-81.75
+Denver,Colorado,United States,North America,,,,,"3,214,218",#VALUE!,"3,214,218",#VALUE!,#REF!,#REF!,326253000,,1,1,83,"50,752",50,39.75,-105
+San Diego,California,United States,North America,,,,,"3,177,063",#VALUE!,"3,177,063",#VALUE!,#REF!,#REF!,326253000,,1,1,38,"51,374",,32.75,-117
+Portland,Oregon,United States,North America,,,,,"2,992,924",#VALUE!,"2,992,924",#VALUE!,#REF!,#REF!,326253000,,1,1,200,"43,622",,45.5,-122.75
+Orlando,Florida,United States,North America,,,,,"2,920,603",#VALUE!,"2,920,603",#VALUE!,#REF!,#REF!,326253000,,2,-1,174,"39,563",,28.5,-81.25
+St. Louis,Missouri,United States,North America,,,,,"2,900,605",#VALUE!,"2,900,605",#VALUE!,#REF!,#REF!,326253000,,-1,-1,14,"41,041",,38.5,-90.25
+Tampa,Florida,United States,North America,,,,,"2,842,878",#VALUE!,"2,842,878",#VALUE!,#REF!,#REF!,326253000,,2,-1,170,"39,563",,28,-82.5
+Pittsburgh,Pennsylvania,United States,North America,,,,,"2,661,369",#VALUE!,"2,661,369",#VALUE!,#REF!,#REF!,326253000,,2,-1,23,"45,170",,40.5,-80
+Sacramento,California,United States,North America,,,,,"2,462,722",#VALUE!,"2,462,722",#VALUE!,#REF!,#REF!,326253000,,1,1,200,"51,374",,38.5,-121.5
+Charlotte,North Carolina,United States,North America,,,,,"2,454,619",#VALUE!,"2,454,619",#VALUE!,#REF!,#REF!,326253000,,-1,-1,199,"42,190",,35.25,-81
+Kansas City,Missouri,United States,North America,,,,,"2,376,631",#VALUE!,"2,376,631",#VALUE!,#REF!,#REF!,326253000,,-1,-1,179,"41,041",,39,-94.5
+Salt Lake City,Utah,United States,North America,,,,,"2,350,274",#VALUE!,"2,350,274",#VALUE!,#REF!,#REF!,326253000,,-1,-1,125,"39,563",,40.75,-112
+Columbus,Ohio,United States,North America,,,,,"2,348,495",#VALUE!,"2,348,495",#VALUE!,#REF!,#REF!,326253000,,2,-1,56,"41,871",,40,-83
+Indianapolis,Indiana,United States,North America,,,,,"2,310,360",#VALUE!,"2,310,360",#VALUE!,#REF!,#REF!,326253000,,-1,-1,200,"41,062",,39.75,-86.25
+Las Vegas,Nevada,United States,North America,,,,,"2,247,056",#VALUE!,"2,247,056",#VALUE!,#REF!,#REF!,326253000,,2,-1,200,"46,818",,36.25,-115
+San Antonio,Texas,United States,North America,,,,,"2,234,003",#VALUE!,"2,234,003",#VALUE!,#REF!,#REF!,326253000,,-1,-1,200,"47,027",,29.25,-98.5
+Cincinnati,Ohio,United States,North America,,,,,"2,188,001",#VALUE!,"2,188,001",#VALUE!,#REF!,#REF!,326253000,,2,-1,139,"41,871",,39,-84.5
+Milwaukee,Wisconsin,United States,North America,,,,,"2,037,542",#VALUE!,"2,037,542",#VALUE!,#REF!,#REF!,326253000,,1,1,83,,,43,-88
+Raleigh,North Carolina,United States,North America,,,,,"1,998,808",#VALUE!,"1,998,808",#VALUE!,#REF!,#REF!,326253000,,-1,-1,106,"42,190",,35.75,-78.5
+Nashville,Tennessee,United States,North America,,,,,"1,845,235",#VALUE!,"1,845,235",#VALUE!,#REF!,#REF!,326253000,,-1,-1,17,,,36.15,-86.75
+Austin,Texas,United States,North America,,,,,"1,834,303",#VALUE!,"1,834,303",#VALUE!,#REF!,#REF!,326253000,,-1,-1,46,,,30.25,-97.75
+Virginia Beach,Virginia,United States,North America,,,,,"1,803,080",#VALUE!,"1,803,080",#VALUE!,#REF!,#REF!,326253000,,2,-1,200,,,36.85,-76
+Greensboro,North Carolina,United States,North America,,,,,"1,611,243",#VALUE!,"1,611,243",#VALUE!,#REF!,#REF!,326253000,,-1,-1,189,"42,190",,36,-79.8
+Jacksonville,Florida,United States,North America,,,,,"1,502,515",#VALUE!,"1,502,515",#VALUE!,#REF!,#REF!,326253000,,2,-1,200,"39,563",,30.3,-81.6
+Hartford,Connecticut,United States,North America,,,,,"1,488,570",#VALUE!,"1,488,570",#VALUE!,#REF!,#REF!,326253000,,1,1,200,"65,177",,41.75,-72.7
+Louisville,Kentucky,United States,North America,,,,,"1,478,637",#VALUE!,"1,478,637",#VALUE!,#REF!,#REF!,326253000,,-1,-1,160,"36,942",,38.25,-85.75
+New Orleans,Louisiana,United States,North America,,,,,"1,452,502",#VALUE!,"1,452,502",#VALUE!,#REF!,#REF!,326253000,,-1,-1,51,"46,689",,30,-90
+Grand Rapids,Michigan,United States,North America,,,,,"1,395,128",#VALUE!,"1,395,128",#VALUE!,#REF!,#REF!,326253000,,2,-1,200,"37,708",,43,-85.5
+Greenville,South Carolina,United States,North America,,,,,"1,384,996",#VALUE!,"1,384,996",#VALUE!,#REF!,#REF!,326253000,,-1,-1,199,,,34.9,-82.5
+Memphis,Tennessee,United States,North America,,,,,"1,369,548",#VALUE!,"1,369,548",#VALUE!,#REF!,#REF!,326253000,,-1,-1,200,,,35,-90
+Oklahoma City,Oklahoma,United States,North America,,,,,"1,367,325",#VALUE!,"1,367,325",#VALUE!,#REF!,#REF!,326253000,,-1,-1,200,"42,331",,35.5,-97.5
+Birmingham,Alabama,United States,North America,,,,,"1,309,818",#VALUE!,"1,309,818",#VALUE!,#REF!,#REF!,326253000,,-1,-1,151,"36,311",,33.5,-86.8
+Richmond,Virginia,United States,North America,,,,,"1,231,980",#VALUE!,"1,231,980",#VALUE!,#REF!,#REF!,326253000,,2,-1,170,,,37.5,-77.5
+Harrisburg,Pennsylvania,United States,North America,,,,,"1,228,559",#VALUE!,"1,228,559",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"45,170",,40.25,-77
+Buffalo,New York,United States,North America,,,,,"1,213,668",#VALUE!,"1,213,668",#VALUE!,#REF!,#REF!,326253000,,1,1,106,"59,414",,43,-78.9
+Rochester,New York,United States,North America,,,,,"1,177,566",#VALUE!,"1,177,566",#VALUE!,#REF!,#REF!,326253000,,1,1,,"59,414",,43,-77.5
+Albany,New York,United States,North America,,,,,"1,170,483",#VALUE!,"1,170,483",#VALUE!,#REF!,#REF!,326253000,,1,1,131,"59,414",,42.5,-73.75
+Albuquerque,New Mexico,United States,North America,,,,,"1,162,777",#VALUE!,"1,162,777",#VALUE!,#REF!,#REF!,326253000,,1,-1,179,"36,020",,35,-106.5
+Tulsa,Oklahoma,United States,North America,,,,,"1,122,259",#VALUE!,"1,122,259",#VALUE!,#REF!,#REF!,326253000,,-1,-1,83,"42,331",,36,-96
+Fresno,California,United States,North America,,,,,"1,100,113",#VALUE!,"1,100,113",#VALUE!,#REF!,#REF!,326253000,,1,1,200,"51,374",,36.75,-119.75
+Knoxville,Tennessee,United States,North America,,,,,"1,091,370",#VALUE!,"1,091,370",#VALUE!,#REF!,#REF!,326253000,,-1,-1,101,,,36,-84
+Dayton,Ohio,United States,North America,,,,,"1,079,417",#VALUE!,"1,079,417",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"41,871",,39.75,-84
+El Paso,Texas,United States,North America,,,,,"1,045,180",#VALUE!,"1,045,180",#VALUE!,#REF!,#REF!,326253000,,-1,-1,200,,,31.75,-106.5
+Tucson,Arizona,United States,North America,,,,,"1,039,697",#VALUE!,"1,039,697",#VALUE!,#REF!,#REF!,326253000,,-1,-1,120,"40,305",,32.75,-110.5
+Cape Coral,Florida,United States,North America,,,,,"977,720",#VALUE!,"977,720",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"39,563",,26.5,-82
+Chattanooga,Tennessee,United States,North America,,,,,"936,142",#VALUE!,"936,142",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,35,-85.25
+Omaha,Nebraska,United States,North America,,,,,"922,051",#VALUE!,"922,051",#VALUE!,#REF!,#REF!,326253000,,-1,-1,200,"48,627",,41.25,-96
+Sarasota,Florida,United States,North America,,,,,"917,203",#VALUE!,"917,203",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"39,563",,27.3,-82.5
+Columbia,South Carolina,United States,North America,,,,,"913,797",#VALUE!,"913,797",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,34,-81
+Little Rock,Arkansas,United States,North America,,,,,"893,610",#VALUE!,"893,610",#VALUE!,#REF!,#REF!,326253000,,-1,1,200,"36,011",,34.75,-92.25
+McAllen,Texas,United States,North America,,,,,"868,167",#VALUE!,"868,167",#VALUE!,#REF!,#REF!,326253000,,-1,-1,200,,,26.25,-98.25
+Bakersfield,California,United States,North America,,,,,"856,158",#VALUE!,"856,158",#VALUE!,#REF!,#REF!,326253000,,1,1,200,"51,374",,35.333,-119
+Madison,Wisconsin,United States,North America,,,,,"843,793",#VALUE!,"843,793",#VALUE!,#REF!,#REF!,326253000,,2,-1,,,,43,-89.5
+Baton Rouge,Louisiana,United States,North America,,,,,"815,298",#VALUE!,"815,298",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"46,689",,30.75,-91
+Modesto,California,United States,North America,,,,,"784,031",#VALUE!,"784,031",#VALUE!,#REF!,#REF!,326253000,,1,1,,"51,374",,37.5,-121
+Des Moines,Iowa,United States,North America,,,,,"742,936",#VALUE!,"742,936",#VALUE!,#REF!,#REF!,326253000,,2,-1,200,"48,073",,41.5,-93.5
+Syracuse,New York,United States,North America,,,,,"740,486",#VALUE!,"740,486",#VALUE!,#REF!,#REF!,326253000,,1,1,,"59,414",,43,-76
+South Bend,Indiana,United States,North America,,,,,"721,296",#VALUE!,"721,296",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"41,062",,41.75,-86.25
+Boise,Idaho,United States,North America,,,,,"717,388",#VALUE!,"717,388",#VALUE!,#REF!,#REF!,326253000,,-1,-1,200,"34,754",,43.5,-116
+Charleston,West Virginia,United States,North America,,,,,"705,264",#VALUE!,"705,264",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,38.5,-81.5
+Lexington,Kentucky,United States,North America,,,,,"703,271",#VALUE!,"703,271",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"36,942",,38,-84.5
+Charleston,South Carolina,United States,North America,,,,,"697,439",#VALUE!,"697,439",#VALUE!,#REF!,#REF!,326253000,,-1,-1,200,,,32.75,-80
+Springfield,Massachusetts,United States,North America,,,,,"697,258",#VALUE!,"697,258",#VALUE!,#REF!,#REF!,326253000,,1,1,,"57,332",,42.1,-72.5
+Huntsville,Alabama,United States,North America,,,,,"679,743",#VALUE!,"679,743",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"36,311",,34.75,-86.5
+Spokane,Washington,United States,North America,,,,,"674,610",#VALUE!,"674,610",#VALUE!,#REF!,#REF!,326253000,,1,1,,"45,135",,47.6,-117.5
+Wichita,Kansas,United States,North America,,,,,"672,393",#VALUE!,"672,393",#VALUE!,#REF!,#REF!,326253000,,-1,-1,200,"44,758",,37.75,-97.3333
+Jackson,Mississippi,United States,North America,,,,,"669,133",#VALUE!,"669,133",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"33,199",,32.25,-90.25
+Colorado Springs,Colorado,United States,North America,,,,,"668,353",#VALUE!,"668,353",#VALUE!,#REF!,#REF!,326253000,,2,1,,"50,752",,39,-104.75
+Youngstown,Pennsylvania,United States,North America,,,,,"664,713",#VALUE!,"664,713",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"45,170",,40.25,-79.3333
+Toledo,Ohio,United States,North America,,,,,"650,050",#VALUE!,"650,050",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"41,871",,41.6666,-83.6
+Portland,Maine,United States,North America,,,,,"625,726",#VALUE!,"625,726",#VALUE!,#REF!,#REF!,326253000,,1,1,,"40,060",,43.7,-70.25
+Fort Wayne,Indiana,United States,North America,,,,,"616,785",#VALUE!,"616,785",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"41,062",,41,-85
+Lakeland,Florida,United States,North America,,,,,"616,158",#VALUE!,"616,158",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"39,563",,28,-82
+Lafayette,Louisiana,United States,North America,,,,,"611,774",#VALUE!,"611,774",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"46,689",,30.25,-92
+Mobile,Alabama,United States,North America,,,,,"604,726",#VALUE!,"604,726",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"36,311",,30.75,-88
+Visalia,California,United States,North America,,,,,"603,341",#VALUE!,"603,341",#VALUE!,#REF!,#REF!,326253000,,1,1,,"51,374",,36.3,-119.25
+Reno,Nevada,United States,North America,,,,,"587,004",#VALUE!,"587,004",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"46,818",,39.5,-119.75
+Augusta,Georgia,United States,North America,,,,,"575,898",#VALUE!,"575,898",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"41,223",,33.5,-82
+Scranton,Pennsylvania,United States,North America,,,,,"563,629",#VALUE!,"563,629",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"45,170",,41.5,-75.6666
+Palm Bay,Florida,United States,North America,,,,,"547,307",#VALUE!,"547,307",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"39,563",,28,-80.6666
+Fayetteville,North Carolina,United States,North America,,,,,"546,175",#VALUE!,"546,175",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"42,190",,35,-79
+Lansing,Michigan,United States,North America,,,,,"534,964",#VALUE!,"534,964",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"37,708",,42.75,-84.5
+Springfield,Missouri,United States,North America,,,,,"529,141",#VALUE!,"529,141",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"41,041",,42.2,-72.5
+Lancaster,Pennsylvania,United States,North America,,,,,"526,823",#VALUE!,"526,823",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"45,170",,40,-76.25
+Kalamazoo,Michigan,United States,North America,,,,,"525,929",#VALUE!,"525,929",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"37,708",,42.25,-85.6
+Savannah,Georgia,United States,North America,,,,,"516,154",#VALUE!,"516,154",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"41,223",,32,-81
+Corpus Christi,Texas,United States,North America,,,,,"511,319",#VALUE!,"511,319",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,27.75,-97.5
+Johnson City,Tennessee,United States,North America,,,,,"509,690",#VALUE!,"509,690",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,36.33333,-82.33
+Columbus,Georgia,United States,North America,,,,,"491,852",#VALUE!,"491,852",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"41,223",,32.5,-85
+Fayetteville,Arkansas,United States,North America,,,,,"482,200",#VALUE!,"482,200",#VALUE!,#REF!,#REF!,326253000,,-1,1,,"36,011",,36,-94
+Davenport,Iowa,United States,North America,,,,,"474,226",#VALUE!,"474,226",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"48,073",,41.5,-90.5
+Asheville,North Carolina,United States,North America,,,,,"465,255",#VALUE!,"465,255",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"42,190",,35.5,-82.5
+Pensacola,Florida,United States,North America,,,,,"461,227",#VALUE!,"461,227",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"39,563",,30.5,-87.25
+Myrtle Beach,South Carolina,United States,North America,,,,,"454,731",#VALUE!,"454,731",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,33.75,-79
+Shreveport,Louisiana,United States,North America,,,,,"447,193",#VALUE!,"447,193",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"46,689",,32.5,-93.75
+Rockford,Illinois,United States,North America,,,,,"445,816",#VALUE!,"445,816",#VALUE!,#REF!,#REF!,326253000,,1,1,,"50,058",,42.25,-89
+Brownsville,Texas,United States,North America,,,,,"437,615",#VALUE!,"437,615",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,26,-97.5
+Santa Barbara,California,United States,North America,,,,,"431,249",#VALUE!,"431,249",#VALUE!,#REF!,#REF!,326253000,,1,1,,"51,374",,34.5,-119.75
+Salinas,California,United States,North America,,,,,"426,762",#VALUE!,"426,762",#VALUE!,#REF!,#REF!,326253000,,1,1,,"51,374",,36.6666,-121.6666
+Killeen,Texas,United States,North America,,,,,"420,375",#VALUE!,"420,375",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,31,-97.75
+Cedar Rapids,Iowa,United States,North America,,,,,"419,992",#VALUE!,"419,992",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"48,073",,42,-91.6666
+Macon,Georgia,United States,North America,,,,,"418,201",#VALUE!,"418,201",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"41,223",,32.8,-83.66666
+Peoria,Illinois,United States,North America,,,,,"417,098",#VALUE!,"417,098",#VALUE!,#REF!,#REF!,326253000,,1,1,,"50,058",,40.75,-89.5
+Hickory,North Carolina,United States,North America,,,,,"408,625",#VALUE!,"408,625",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"42,190",,35.75,-81.33333
+Beaumont,Texas,United States,North America,,,,,"404,180",#VALUE!,"404,180",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,30,-94
+Tallahassee,Florida,United States,North America,,,,,"402,880",#VALUE!,"402,880",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"39,563",,30.5,-84.25
+Appleton,Wisconsin,United States,North America,,,,,"397,244",#VALUE!,"397,244",#VALUE!,#REF!,#REF!,326253000,,2,-1,,,,44.25,-88.5
+Saginaw,Michigan,United States,North America,,,,,"389,110",#VALUE!,"389,110",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"37,708",,43.5,-84
+Salisbury,Maryland,United States,North America,,,,,"381,868",#VALUE!,"381,868",#VALUE!,#REF!,#REF!,326253000,,1,1,,,,38.666,-75.5
+Gulfport,Mississippi,United States,North America,,,,,"379,582",#VALUE!,"379,582",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"33,199",,30.5,-89
+Montgomery,Alabama,United States,North America,,,,,"377,149",#VALUE!,"377,149",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"36,311",,32.3333,-86.25
+Erie,Pennsylvania,United States,North America,,,,,"368,244",#VALUE!,"368,244",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"45,170",,42,-80
+Green Bay,Wisconsin,United States,North America,,,,,"357,045",#VALUE!,"357,045",#VALUE!,#REF!,#REF!,326253000,,2,-1,,,,44.5,-88
+Eugene,Oregon,United States,North America,,,,,"354,542",#VALUE!,"354,542",#VALUE!,#REF!,#REF!,326253000,,1,1,,"43,622",,44,-123
+Gainesville,Florida,United States,North America,,,,,"336,198",#VALUE!,"336,198",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"39,563",,29.6666,-89.3333
+Ocala,Florida,United States,North America,,,,,"335,125",#VALUE!,"335,125",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"39,563",,29.18,-82.1
+Lincoln,Nebraska,United States,North America,,,,,"332,148",#VALUE!,"332,148",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"48,627",,40.8,-96.6666
+Lubbock,Texas,United States,North America,,,,,"320,741",#VALUE!,"320,741",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,33.5,-101.85
+Springfield,Illinois,United States,North America,,,,,"317,206",#VALUE!,"317,206",#VALUE!,#REF!,#REF!,326253000,,1,1,,"50,058",,39.66666,-89.6
+Evansville,Indiana,United States,North America,,,,,"313,433",#VALUE!,"313,433",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"41,062",,38,-87.5
+Fort Collins,Colorado,United States,North America,,,,,"310,487",#VALUE!,"310,487",#VALUE!,#REF!,#REF!,326253000,,2,1,,"50,752",,40.5,-105
+Roanoke,Virginia,United States,North America,,,,,"310,118",#VALUE!,"310,118",#VALUE!,#REF!,#REF!,326253000,,2,-1,,,,37.25,-79.9
+Rocky Mount,North Carolina,United States,North America,,,,,"308,963",#VALUE!,"308,963",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"42,190",,36,-77.75
+Wausau,Wisconsin,United States,North America,,,,,"307,984",#VALUE!,"307,984",#VALUE!,#REF!,#REF!,326253000,,2,-1,,,,45,-89.5
+Utica,New York,United States,North America,,,,,"298,064",#VALUE!,"298,064",#VALUE!,#REF!,#REF!,326253000,,1,1,,"59,414",,43,-75.25
+Midland-Odessa,Texas,United States,North America,,,,,"295,987",#VALUE!,"295,987",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,32,-102
+Medford,Oregon,United States,North America,,,,,"289,342",#VALUE!,"289,342",#VALUE!,#REF!,#REF!,326253000,,1,1,,"43,622",,42.33,-122.9
+Longview,Texas,United States,North America,,,,,"284,129",#VALUE!,"284,129",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,32.5,-94.75
+Fort Smith,Arkansas,United States,North America,,,,,"280,521",#VALUE!,"280,521",#VALUE!,#REF!,#REF!,326253000,,-1,1,,"36,011",,35.67,-94.35
+Amarillo,Texas,United States,North America,,,,,"279,500",#VALUE!,"279,500",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,35.18,-101.83
+Duluth,Minnesota,United States,North America,,,,,"279,452",#VALUE!,"279,452",#VALUE!,#REF!,#REF!,326253000,,1,1,,"49,972",,46.1,-92.1
+San Luis Obispo,California,United States,North America,,,,,"274,804",#VALUE!,"274,804",#VALUE!,#REF!,#REF!,326253000,,1,1,,"51,374",,35.2,-120.666
+Clarksville,Tennessee,United States,North America,,,,,"274,804",#VALUE!,"274,804",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,36.9,-87.5
+Kennewick,Washington,United States,North America,,,,,"268,243",#VALUE!,"268,243",#VALUE!,#REF!,#REF!,326253000,,1,1,,"45,135",,46.2,-119.18
+Tyler,Texas,United States,North America,,,,,"266,027",#VALUE!,"266,027",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,32.3333,-95.3
+Bloomsburg,Pennsylvania,United States,North America,,,,,"264,295",#VALUE!,"264,295",#VALUE!,#REF!,#REF!,326253000,,,,,,,41,-76.455
+Wilmington,North Carolina,United States,North America,,,,,"263,429",#VALUE!,"263,429",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"42,190",,34.2,-77.9
+Laredo,Texas,United States,North America,,,,,"259,172",#VALUE!,"259,172",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,27.9,-99.5
+Waco,Texas,United States,North America,,,,,"256,317",#VALUE!,"256,317",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,31.5,-97.18
+Lynchburg,Virginia,United States,North America,,,,,"255,342",#VALUE!,"255,342",#VALUE!,#REF!,#REF!,326253000,,2,-1,,,,37.4,-79.18
+Monroe,Louisiana,United States,North America,,,,,"252,294",#VALUE!,"252,294",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"46,689",,32.5,-92.1
+Dothan,Alabama,United States,North America,,,,,"249,316",#VALUE!,"249,316",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"36,311",,31.2,-85.4
+Rochester,Minnesota,United States,North America,,,,,"248,979",#VALUE!,"248,979",#VALUE!,#REF!,#REF!,326253000,,1,1,,"49,972",,44,-92.5
+Binghamton,New York,United States,North America,,,,,"248,538",#VALUE!,"248,538",#VALUE!,#REF!,#REF!,326253000,,1,1,,"59,414",,42.1,-75.9
+Crestview,Florida,United States,North America,,,,,"247,665",#VALUE!,"247,665",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"39,563",,30.75,-86.5
+Harrisonburg,Virginia,United States,North America,,,,,"247,058",#VALUE!,"247,058",#VALUE!,#REF!,#REF!,326253000,,,,,,,38.4,-78.9
+Yakima,Washington,United States,North America,,,,,"246,977",#VALUE!,"246,977",#VALUE!,#REF!,#REF!,326253000,,1,1,,"45,135",,46.55,-120.5
+Redding,California,United States,North America,,,,,"241,992",#VALUE!,"241,992",#VALUE!,#REF!,#REF!,326253000,,1,1,,"51,374",,40.55,-122.36
+Lafayette,Indiana,United States,North America,,,,,"239,434",#VALUE!,"239,434",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"41,062",,40.45,-86.9
+Fargo,North Dakota,United States,North America,,,,,"239,114",#VALUE!,"239,114",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,46.9,-96.85
+Sioux Falls,South Dakota,United States,North America,,,,,"237,251",#VALUE!,"237,251",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,43.5,-96.75
+State College,Pennsylvania,United States,North America,,,,,"236,355",#VALUE!,"236,355",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"45,170",,40.8,-77.84
+Topeka,Kansas,United States,North America,,,,,"234,566",#VALUE!,"234,566",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"44,758",,39,-95.667
+College Station,Texas,United States,North America,,,,,"234,501",#VALUE!,"234,501",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,30.5,-96.3
+Champaign-Urbana,Illinois,United States,North America,,,,,"233,788",#VALUE!,"233,788",#VALUE!,#REF!,#REF!,326253000,,1,1,,"50,058",,40,-88.25
+Tuscaloosa,Alabama,United States,North America,,,,,"233,389",#VALUE!,"233,389",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"36,311",,33.20654,-87.534
+Idaho Falls,Idaho,United States,North America,,,,,"231,995",#VALUE!,"231,995",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"34,754",,43.5,-112
+Bloomington,Illinois,United States,North America,,,,,"227,362",#VALUE!,"227,362",#VALUE!,#REF!,#REF!,326253000,,1,1,,"50,058",,40.5,-89
+Charlottesville,Virginia,United States,North America,,,,,"222,860",#VALUE!,"222,860",#VALUE!,#REF!,#REF!,326253000,,2,-1,,,,38.0299,-78.479
+Chico,California,United States,North America,,,,,"221,539",#VALUE!,"221,539",#VALUE!,#REF!,#REF!,326253000,,1,1,,"51,374",,39.75,-121.82
+Lima,Ohio,United States,North America,,,,,"220,591",#VALUE!,"220,591",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"41,871",,40.75,-84.1
+Greenville,North Carolina,United States,North America,,,,,"220,061",#VALUE!,"220,061",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"42,190",,35.6,-77.35
+Columbia,Missouri,United States,North America,,,,,"219,486",#VALUE!,"219,486",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"41,041",,38.95,-92.333
+Johnstown,Pennsylvania,United States,North America,,,,,"218,541",#VALUE!,"218,541",#VALUE!,#REF!,#REF!,326253000,,,,,,,40.333,-78.9
+Mansfield,Ohio,United States,North America,,,,,"218,414",#VALUE!,"218,414",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"41,871",,40.75,-82.5
+Claremont,New Hampshire,United States,North America,,,,,"217,390",#VALUE!,"217,390",#VALUE!,#REF!,#REF!,326253000,,,,,,,43.36,-72.3333
+Bowling Green,Kentucky,United States,North America,,,,,"214,831",#VALUE!,"214,831",#VALUE!,#REF!,#REF!,326253000,,,,,,,37,-86.5
+Burlington,Vermont,United States,North America,,,,,"213,701",#VALUE!,"213,701",#VALUE!,#REF!,#REF!,326253000,,1,1,,,,44.45,-73.2
+Prescott,Arizona,United States,North America,,,,,"212,637",#VALUE!,"212,637",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"40,305",,34.5,-112.5
+Houma,Louisiana,United States,North America,,,,,"208,922",#VALUE!,"208,922",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"46,689",,29.5,-90.7
+Bloomington,Indiana,United States,North America,,,,,"208,477",#VALUE!,"208,477",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"41,062",,39.1,-86.5
+Eau Claire,Wisconsin,United States,North America,,,,,"207,671",#VALUE!,"207,671",#VALUE!,#REF!,#REF!,326253000,,2,-1,,,,44.85,-91.5
+Pueblo,Colorado,United States,North America,,,,,"207,640",#VALUE!,"207,640",#VALUE!,#REF!,#REF!,326253000,,2,1,,"50,752",,38.2,-104.6
+Joplin,Missouri,United States,North America,,,,,"206,563",#VALUE!,"206,563",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"41,041",,37.1,-94.5
+Florence,South Carolina,United States,North America,,,,,"206,087",#VALUE!,"206,087",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,34.2,-79.75
+Bellingham,Washington,United States,North America,,,,,"205,262",#VALUE!,"205,262",#VALUE!,#REF!,#REF!,326253000,,1,1,,"45,135",,48.75,-122.474975
+Lake Charles,Louisiana,United States,North America,,,,,"201,195",#VALUE!,"201,195",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"46,689",,30.2,-93.2
+Yuma,Arizona,United States,North America,,,,,"200,022",#VALUE!,"200,022",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"40,305",,32.7,-114.6
+New Bern,North Carolina,United States,North America,,,,,"195,751",#VALUE!,"195,751",#VALUE!,#REF!,#REF!,326253000,,,,,,,35.1,-77
+Hilton Head,South Carolina,United States,North America,,,,,"193,882",#VALUE!,"193,882",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,32.16,-80.75
+Fairmont,West Virginia,United States,North America,,,,,"190,842",#VALUE!,"190,842",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,39.5,-80.15
+Elmira,New York,United States,North America,,,,,"187,974",#VALUE!,"187,974",#VALUE!,#REF!,#REF!,326253000,,,,,,,42.1,-76.8
+Panama City,Florida,United States,North America,,,,,"187,621",#VALUE!,"187,621",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"39,563",,30.16,-85.65
+Jacksonville,North Carolina,United States,North America,,,,,"183,263",#VALUE!,"183,263",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"42,190",,34.75,-77.46
+Sioux City,Iowa,United States,North America,,,,,"183,052",#VALUE!,"183,052",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"48,073",,42.5,-96.4
+Bend,Oregon,United States,North America,,,,,"183,006",#VALUE!,"183,006",#VALUE!,#REF!,#REF!,326253000,,1,1,,"43,622",,44.05,-121.3
+Blacksburg,Virginia,United States,North America,,,,,"178,933",#VALUE!,"178,933",#VALUE!,#REF!,#REF!,326253000,,2,-1,,,,37.2,-80.4
+El Centro,California,United States,North America,,,,,"176,948",#VALUE!,"176,948",#VALUE!,#REF!,#REF!,326253000,,1,1,,"51,374",,32.8,-115.6
+Terre Haute,Indiana,United States,North America,,,,,"172,493",#VALUE!,"172,493",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"41,062",,39.469,-87.389
+Waterloo,Iowa,United States,North America,,,,,"168,747",#VALUE!,"168,747",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"48,073",,42.49,-92.346
+Jonesboro,Arkansas,United States,North America,,,,,"167,205",#VALUE!,"167,205",#VALUE!,#REF!,#REF!,326253000,,-1,1,,"36,011",,35.85,-90.7
+Abilene,Texas,United States,North America,,,,,"166,963",#VALUE!,"166,963",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,32.45,-99.75
+Rapid City,South Dakota,United States,North America,,,,,"163,135",#VALUE!,"163,135",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,44.076,-103.228
+Billings,Montana,United States,North America,,,,,"162,848",#VALUE!,"162,848",#VALUE!,#REF!,#REF!,326253000,,,,,,,45.8,-108.55
+Jackson,Michigan,United States,North America,,,,,"160,309",#VALUE!,"160,309",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"37,708",,42.25,-84.4
+Albany,Georgia,United States,North America,,,,,"157,399",#VALUE!,"157,399",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"41,223",,,
+Williamsport,Pennsylvania,United States,North America,,,,,"156,685",#VALUE!,"156,685",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"45,170",,,
+St. George,Utah,United States,North America,,,,,"155,600",#VALUE!,"155,600",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,,
+Alexandria,Louisiana,United States,North America,,,,,"154,441",#VALUE!,"154,441",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"46,689",,,
+Parkersburg,West Virginia,United States,North America,,,,,"154,023",#VALUE!,"154,023",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,,
+Bangor,Maine,United States,North America,,,,,"153,746",#VALUE!,"153,746",#VALUE!,#REF!,#REF!,326253000,,1,1,,"40,060",,,
+Ithaca,New York,United States,North America,,,,,"152,028",#VALUE!,"152,028",#VALUE!,#REF!,#REF!,326253000,,1,1,,"59,414",,,
+Wichita Falls,Texas,United States,North America,,,,,"150,829",#VALUE!,"150,829",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,,
+Jefferson City,Missouri,United States,North America,,,,,"150,151",#VALUE!,"150,151",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"41,041",,,
+Texarkana,Texas,United States,North America,,,,,"149,701",#VALUE!,"149,701",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Hattiesburg,Mississippi,United States,North America,,,,,"148,839",#VALUE!,"148,839",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Pottsville,Pennsylvania,United States,North America,,,,,"148,289",#VALUE!,"148,289",#VALUE!,#REF!,#REF!,326253000,,2,-1,,"45,170",,,
+Wheeling,West Virginia,United States,North America,,,,,"147,950",#VALUE!,"147,950",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,,
+Florence,Alabama,United States,North America,,,,,"147,317",#VALUE!,"147,317",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"36,311",,,
+Grand Junction,Colorado,United States,North America,,,,,"147,000",#VALUE!,"147,000",#VALUE!,#REF!,#REF!,326253000,,2,1,,"50,752",,,
+Traverse City,Michigan,United States,North America,,,,,"144,411",#VALUE!,"144,411",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Valdosta,Georgia,United States,North America,,,,,"143,317",#VALUE!,"143,317",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Tupelo,Mississippi,United States,North America,,,,,"139,723",#VALUE!,"139,723",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Homosassa Springs,Florida,United States,North America,,,,,"139,377",#VALUE!,"139,377",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Flagstaff,Arizona,United States,North America,,,,,"137,682",#VALUE!,"137,682",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"40,305",,,
+Cape Girardeau,Missouri,United States,North America,,,,,"136,832",#VALUE!,"136,832",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+La Crosse,Wisconsin,United States,North America,,,,,"136,749",#VALUE!,"136,749",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Paducah,Kentucky,United States,North America,,,,,"135,438",#VALUE!,"135,438",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Eureka,California,United States,North America,,,,,"134,827",#VALUE!,"134,827",#VALUE!,#REF!,#REF!,326253000,,1,1,,"51,374",,,
+Manhattan,Kansas,United States,North America,,,,,"134,804",#VALUE!,"134,804",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Jamestown,New York,United States,North America,,,,,"132,053",#VALUE!,"132,053",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Logan,Utah,United States,North America,,,,,"131,364",#VALUE!,"131,364",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,,
+Lawton,Oklahoma,United States,North America,,,,,"131,183",#VALUE!,"131,183",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"42,331",,,
+Findlay,Ohio,United States,North America,,,,,"131,006",#VALUE!,"131,006",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Hot Springs,Arkansas,United States,North America,,,,,"130,690",#VALUE!,"130,690",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Jackson,Tennessee,United States,North America,,,,,"130,450",#VALUE!,"130,450",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,,
+Bismarck,North Dakota,United States,North America,,,,,"129,517",#VALUE!,"129,517",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,,
+Pittsfield,Massachusetts,United States,North America,,,,,"128,715",#VALUE!,"128,715",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Farmington,New Mexico,United States,North America,,,,,"128,529",#VALUE!,"128,529",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Sierra Vista,Arizona,United States,North America,,,,,"127,448",#VALUE!,"127,448",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+London,Kentucky,United States,North America,,,,,"127,316",#VALUE!,"127,316",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Carbondale,Illinois,United States,North America,,,,,"126,685",#VALUE!,"126,685",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Edwards,Colorado,United States,North America,,,,,"126,090",#VALUE!,"126,090",#VALUE!,#REF!,#REF!,326253000,,2,1,,"50,752",,,
+Altoona,Pennsylvania,United States,North America,,,,,"125,955",#VALUE!,"125,955",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Goldsboro,North Carolina,United States,North America,,,,,"124,456",#VALUE!,"124,456",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Mankato,Minnesota,United States,North America,,,,,"123,770",#VALUE!,"123,770",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Beckley,West Virginia,United States,North America,,,,,"123,373",#VALUE!,"123,373",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Augusta,Maine,United States,North America,,,,,"121,112",#VALUE!,"121,112",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Rome,Georgia,United States,North America,,,,,"121,002",#VALUE!,"121,002",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Victoria,Texas,United States,North America,,,,,"120,427",#VALUE!,"120,427",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Watertown,New York,United States,North America,,,,,"119,103",#VALUE!,"119,103",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Kokomo,Indiana,United States,North America,,,,,"118,936",#VALUE!,"118,936",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Owensboro,Kentucky,United States,North America,,,,,"116,506",#VALUE!,"116,506",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Quincy,Illinois,United States,North America,,,,,"116,393",#VALUE!,"116,393",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Wenatchee,Washington,United States,North America,,,,,"116,178",#VALUE!,"116,178",#VALUE!,#REF!,#REF!,326253000,,1,1,,"45,135",,,
+Missoula,Montana,United States,North America,,,,,"116,130",#VALUE!,"116,130",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Anniston,Alabama,United States,North America,,,,,"115,916",#VALUE!,"115,916",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Wooster,Ohio,United States,North America,,,,,"115,537",#VALUE!,"115,537",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Sheboygan,Wisconsin,United States,North America,,,,,"115,290",#VALUE!,"115,290",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+San Angelo,Texas,United States,North America,,,,,"114,854",#VALUE!,"114,854",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Brunswick,Georgia,United States,North America,,,,,"114,806",#VALUE!,"114,806",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Mount Pleasant,Michigan,United States,North America,,,,,"112,680",#VALUE!,"112,680",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Ogdensburg,New York,United States,North America,,,,,"111,400",#VALUE!,"111,400",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Decatur,Illinois,United States,North America,,,,,"108,350",#VALUE!,"108,350",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Sumter,South Carolina,United States,North America,,,,,"107,919",#VALUE!,"107,919",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Cookeville,Tennessee,United States,North America,,,,,"107,761",#VALUE!,"107,761",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Show Low,Arizona,United States,North America,,,,,"107,094",#VALUE!,"107,094",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Roseburg,Oregon,United States,North America,,,,,"106,972",#VALUE!,"106,972",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Meridian,Mississippi,United States,North America,,,,,"106,201",#VALUE!,"106,201",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Bluefield,West Virginia,United States,North America,,,,,"105,237",#VALUE!,"105,237",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Danville,Illinois,United States,North America,,,,,"104,827",#VALUE!,"104,827",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Danville,Virginia,United States,North America,,,,,"104,827",#VALUE!,"104,827",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Twin Falls,Idaho,United States,North America,,,,,"103,732",#VALUE!,"103,732",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Gadsen,Alabama,United States,North America,,,,,"103,531",#VALUE!,"103,531",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Fond du Lac,Wisconsin,United States,North America,,,,,"101,843",#VALUE!,"101,843",#VALUE!,#REF!,#REF!,326253000,,2,-1,,,,,
+Grand Forks,North Dakota,United States,North America,,,,,"101,842",#VALUE!,"101,842",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Tullahoma,Tennessee,United States,North America,,,,,"101,344",#VALUE!,"101,344",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Cumberland,Maryland,United States,North America,,,,,"100,530",#VALUE!,"100,530",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Sebring,Florida,United States,North America,,,,,"98,236",#VALUE!,"98,236",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Bozeman,Montana,United States,North America,,,,,"97,308",#VALUE!,"97,308",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Cheyenne,Wyoming,United States,North America,,,,,"96,389",#VALUE!,"96,389",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,,,,
+Dubuque,Iowa,United States,North America,,,,,"96,370",#VALUE!,"96,370",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Clarksburg,West Virginia,United States,North America,,,,,"94,221",#VALUE!,"94,221",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Moses Lake,Washington,United States,North America,,,,,"93,147",#VALUE!,"93,147",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Brainerd,Minnesota,United States,North America,,,,,"91,824",#VALUE!,"91,824",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Kalispell,Montana,United States,North America,,,,,"91,633",#VALUE!,"91,633",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Dixon,Illinois,United States,North America,,,,,"91,611",#VALUE!,"91,611",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Richmond,Indiana,United States,North America,,,,,"91,139",#VALUE!,"91,139",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Pinehurst,North Carolina,United States,North America,,,,,"90,302",#VALUE!,"90,302",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+DeRidder,Louisiana,United States,North America,,,,,"88,330",#VALUE!,"88,330",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Hermiston,Oregon,United States,North America,,,,,"87,892",#VALUE!,"87,892",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Ukiah,California,United States,North America,,,,,"87,869",#VALUE!,"87,869",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Lufkin,Texas,United States,North America,,,,,"87,597",#VALUE!,"87,597",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Russellville,Arkansas,United States,North America,,,,,"85,152",#VALUE!,"85,152",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Laurel,Mississippi,United States,North America,,,,,"84,891",#VALUE!,"84,891",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Grand Island,Nebraska,United States,North America,,,,,"84,755",#VALUE!,"84,755",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"48,627",,,
+Pocatello,Idaho,United States,North America,,,,,"83,347",#VALUE!,"83,347",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Great Falls,Montana,United States,North America,,,,,"82,344",#VALUE!,"82,344",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Plattsburgh,New York,United States,North America,,,,,"81,654",#VALUE!,"81,654",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Casper,Wyoming,United States,North America,,,,,"81,624",#VALUE!,"81,624",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Manitowoc,Wisconsin,United States,North America,,,,,"80,671",#VALUE!,"80,671",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Stillwater,Oklahoma,United States,North America,,,,,"80,264",#VALUE!,"80,264",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"42,331",,,
+Warsaw,Indiana,United States,North America,,,,,"78,564",#VALUE!,"78,564",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Keene,New Hampshire,United States,North America,,,,,"76,851",#VALUE!,"76,851",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Helena,Montana,United States,North America,,,,,"76,277",#VALUE!,"76,277",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Minot,North Dakota,United States,North America,,,,,"73,146",#VALUE!,"73,146",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Gallup,New Mexico,United States,North America,,,,,"73,016",#VALUE!,"73,016",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Aberdeen,Washington,United States,North America,,,,,"72,797",#VALUE!,"72,797",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Port Angeles,Washington,United States,North America,,,,,"71,404",#VALUE!,"71,404",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Aberdeen,South Dakota,United States,North America,,,,,"70,818",#VALUE!,"70,818",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Clovis,New Mexico,United States,North America,,,,,"70,505",#VALUE!,"70,505",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Klamath Falls,Oregon,United States,North America,,,,,"65,455",#VALUE!,"65,455",#VALUE!,#REF!,#REF!,326253000,,1,1,,"43,622",,,
+Clearlake,California,United States,North America,,,,,"64,184",#VALUE!,"64,184",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Enid,Oklahoma,United States,North America,,,,,"63,091",#VALUE!,"63,091",#VALUE!,#REF!,#REF!,326253000,,-1,-1,,"42,331",,,
+Lewiston,Idaho,United States,North America,,,,,"62,196",#VALUE!,"62,196",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Rutland,Vermont,United States,North America,,,,,"60,086",#VALUE!,"60,086",#VALUE!,#REF!,#REF!,326253000,,1,1,,,,,
+Durango,Colorado,United States,North America,,,,,"53,989",#VALUE!,"53,989",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Gillette,Wyoming,United States,North America,,,,,"48,320",#VALUE!,"48,320",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Pullman,Washington,United States,North America,,,,,"44,776",#VALUE!,"44,776",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Martin,Tennessee,United States,North America,,,,,"34,793",#VALUE!,"34,793",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Elko,Nevada,United States,North America,,,,,"18,000",#VALUE!,"18,000",#VALUE!,#REF!,#REF!,326253000,,,,,,,,
+Montevideo,,Uruguay,South America,,,,,"2,059,988",,,,,,,,,,,,,-34.9,-56.15
+Tashkent,,Uzbekistan,Asia,,,,,"1,978,028",,"2,130,317,283",51.16%,,,,,,,,,,41.25,69.25
+Caracas,,Venezuela,South America,,,,,"5,322,310",,,,,,,,,,,,,10.5,-66.9
+Maracaibo,,Venezuela,South America,,,,,"2,576,836",,,,,,,,,,,,,10.66666,-71.7
+Valencia,,Venezuela,South America,,,,,"1,544,004",,,,,,,,,,,,,10.15,-68
+Barquisimeto,,Venezuela,South America,,,,,"1,308,163",,,,,,,,,,,,,10.05,-69.3
+Maracay,,Venezuela,South America,,,,,"1,189,314",,,,,,,,,,,,,10.25,-67.6
+Ho Chi Minh City,,Vietnam,Asia,,,,,"8,244,400",,"2,144,235,938",51.49%,,,93700000,,,,,,,10.75,106.6666
+Ha Noi,,Vietnam,Asia,,,,,"7,379,300",,"2,152,480,338",51.69%,,,93700000,,,,,,,21,105.85
+Hai Phong,,Vietnam,Asia,,,,,"1,946,000",,"2,159,859,638",51.87%,,,93700000,,,,,,,20.85,106.7
+Can tho,,Vietnam,Asia,,,,,"1,238,300",,"2,161,805,638",51.91%,,,93700000,,,,,,,10,105.8
+Bien Hoa,,Vietnam,Asia,,,,,"1,104,495",,"2,163,043,938",51.94%,,,93700000,,,,,,,10.95,106.8
+Da Nang,,Vietnam,Asia,,,,,"1,007,700",,"2,164,148,433",51.97%,,,93700000,,,,,,,16.06,108.25
+Sana'a,,Yemen,Asia,,,,,"1,937,451",,"2,165,156,133",51.99%,,,,,,,,,,15.3333,44.2
+Al Hudaydah,,Yemen,Asia,,,,,"617,871",,"2,167,093,584",52.04%,,,,,,,,,,14.8,42.95
+Lusaka,,Zambia,Africa,,,,,"2,179,000",,,,,,,,,,,,,-15,28
+Harare,,Zimbabwe,Africa,,,,,"1,501,000",,,,,,,,,,,,,-18,31

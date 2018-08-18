@@ -1,0 +1,517 @@
+Name,Province,Country,Continent,Population rank (core city),Population rank (Primary Statistical Area),Distance to closest larger Chinese Metropolitan Area (KM),Power,Population,Population MetroPower,Rolling population total,Rolling % of Population Total,GDP per capita of Province,Distance from a foreign country (KM),Score,"If part of a larger city's transportation, city name",Closest City Name,Closest City Rank,Largest in Province?,Latitude,Longitude
+Guangzhou,Guangdong,China,Asia,,1,40000,40000,44294245,1771769800000,#REF!,#REF!,,,,,,,Yes,23.18333333,113.5
+Shanghai,Shanghai,China,Asia,,2,1230,615,35965403,44237445690,44294245,1.06%,,,,,Guangzhou,1,Yes,31,122
+Chongqing,Chongqing,China,Asia,,3,1000,333.33,30165500,30165500000,80259648,1.93%,,,,,Guangzhou,1,Yes,29.5,106.4
+Seoul,,South Korea,Asia,,,,,25514000,,110425148,2.65%,,,,,,,,37.6,126.9
+Karachi,Sindh,Pakistan,Asia,,,,,24300000,,135939148,3.26%,,,,,,,,24.9,67
+Beijing,Beijing,China,Asia,,6,1100,183.33,21500000,23650000000,135939148,3.26%,,,,,Shanghai,2,Yes,40,116.5
+Hangzhou,Zhejiang,China,Asia,,7,200,28.57,21102000,4220400000,181739148,4.36%,,,,,Shanghai,2,Yes,30.25,120.25
+Wuhan,Hubei,China,Asia,,8,560,70,19780644,11077160640,202841148,4.87%,,,,,Hangzhou,5,Yes,30.5,114.3333
+Dhaka,Dhaka,Bangladesh,Asia,,,,,18898000,,222621792,5.35%,,,,,,,,23.8,90.4
+Mumbai,Maharashtra,India,Asia,,,,,18394912,,241519792,5.80%,,,,,,,,19,72.8
+Chengdu,Sichuan,China,Asia,,11,270,24.55,18000000,4860000000,259914704,6.24%,,,,,Chongqing,3,Yes,30.66667,104
+Delhi,Delhi,India,Asia,,,,,16349831,,277914704,6.67%,,,,,,,,28.6,77.2
+Tianjin,Tianjin,China,Asia,,13,130,10,16000000,2080000000,294264535,7.07%,,,,,Beijing,4,Yes,39,117
+Shenzhen,Guangdong,China,Asia,,14,100,7.14,14668426,1466842600,310264535,7.45%,,,,,Guangzhou,,,22.5,114
+Bangkok,,Thailand,Asia,,,,,14565547,,324932961,7.80%,,,,,,,,13.75,100.5
+İstanbul,,Turkey,Asia/Europe,,,,,14377018,,339498508,8.15%,,,,,,,,41,28.95
+Kolkata,West Bengal,India,Asia,,,,,14057991,,353875526,8.50%,,,,,,,,22.55,88.4
+Xi'an,Shaanxi,China,Asia,,18,560,31.11,13569700,7599032000,367933517,8.84%,,,,,Chongqing,,Yes,34.25,108.75
+Jinan,Shandong,China,Asia,,19,275,14.47,13000000,3575000000,381503217,9.16%,,,,,Tianjin,,Yes,36.5,117.1
+Nanjing,Jiangsu,China,Asia,,20,270,13.5,12652000,3416040000,394503217,9.47%,,,,,Shanghai,,Yes,32,119
+Shenyang,Liaoning,China,Asia,,21,600,28.57,12263612,7358167200,407155217,9.78%,,,,,Tianjin,,Yes,41.75,123.5
+London,,United Kingdom,Europe,,,,,12200000,,419418829,10.07%,,,,,,,,51.5,0
+Harbin,Heilongjiang,China,Asia,,23,530,23.04,12000000,6360000000,394503217,9.47%,,,,,Shenyang,,Yes,45.9,126.5
+Paris,,France,Europe,,,,,11800000,,443618829,10.65%,,,,,,,,48.9,2.25
+Shantou,Guangdong,China,Asia,,25,340,13.6,11630447,3954351980,455418829,10.94%,,,,,Shenzhen,,,23.3333,116.75
+Moscow,Moscow,Russia,Europe,,,,,11503501,,467049276,11.22%,,,,,,,,55.75,37.6
+Ruhr,NordRhein Westfalen,Germany,Europe,,,,,11300000,,478552777,11.49%,,,,,,,,51.5,7.4
+Lahore,Punjab,Pakistan,Asia,,,,,10052000,,489852777,11.76%,,,,,,,,31.5,74.3
+Ganzhou,Jiangxi,China,Asia,,29,375,12.93,9606300,3602362500,499904777,12.00%,,,,,Guangzhou,,Yes,25.8,114.9
+Wenzhou,Zhejiang,China,Asia,,30,270,9,9122102,2462967540,509511077,12.24%,,,,,Hangzhou,,,28,120.6666
+Qingdao,Shandong,China,Asia,,31,300,9.68,9046200,2713860000,518633179,12.45%,,,,,Jinan,,,36,120.5
+Chennai,Tamil Nadu,India,Asia,,,,,8653521,,527679379,12.67%,,,,,,,,13.1,80.25
+Bangalore,Karnataka,India,Asia,,,,,8520435,,536332900,12.88%,,,,,,,,13,77.6
+Ho Chi Minh City,,Vietnam,Asia,,,,,8244400,,544853335,13.08%,,,,,,,,10.75,106.6666
+Tehran,Tehran,Iran,Asia,,,,,8154051,,553097735,13.28%,,,,,,,,35.7,51.4
+Quanzhou,Fujian,China,Asia,,36,330,9.17,8128533,2682415890,561251786,13.48%,,,,,Shantou,,Yes,24.9,118.75
+Hyderabad,Telangana,India,Asia,,,,,7677018,,569380319,13.67%,,,,,,,,17.6,78.8
+Ha Noi,,Vietnam,Asia,,,,,7379300,,577057337,13.86%,,,,,,,,21,105.85
+Hong Kong,Hong Kong,China,Asia,,39,48,1.23,7374900,353995200,584436637,14.03%,,,,,Shenzhen,,Yes,22.33333,114
+Changsha,Hunan,China,Asia,,40,560,14,7311500,4094440000,591811537,14.21%,,,,,Guangzhou,,Yes,28.25,113
+Kuala Lumpur,,Malaysia,Asia,,,,,7200000,,599123037,14.39%,,,,,,,,3.1,101.7
+Madrid,,Spain,Europe,,,,,6600000,,606323037,14.56%,,,,,,,,40.33333,-3.85
+Berlin,Berlin,Germany,Europe,,,,,6563194,,612923037,14.72%,,,,,,,,52.5,13.3333
+Riyadh,,Saudi Arabia,Asia,,,,,6506700,,619486231,14.88%,,,,,,,,24.6,46.7
+Ahmedabad,Gujarat,India,Asia,,,,,6357693,,625992931,15.03%,,,,,,,,23,73
+Singapore,,Singapore,Asia,,,,,5607300,,632350624,15.19%,,,,,,,,1.3,103.8
+Barcelona,,Spain,Europe,,,,,5355000,,637957924,15.32%,,,,,,,,41.25,2.1
+Milano,,Italy,Europe,,,,,5257000,,643312924,15.45%,,,,,,,,45.4,9.2
+Yangon (Rangoon),Yangon Region,Burma,Asia,,,,,5209541,,648569924,15.57%,,,,,,,,16.9,96.2
+Ankara,,Turkey,Asia,,,,,5152072,,653779465,15.70%,,,,,,,,39.9,32.85
+Pune,Maharashtra,India,Asia,,,,,5057709,,658931537,15.82%,,,,,,,,18.5,73.8
+Saint Petersburg,Saint Petersburg,Russia,Europe,,,,,4879566,,663989246,15.94%,,,,,,,,59.95,30.3
+Zhengzhou,Henan,China,Asia,,53,370,6.98,4867388,1800933560,668868812,16.06%,,,,,Jinan,,,34.75,113.6666
+Islamabad,Islamabad,Pakistan,Asia,,,,,4700000,,673736200,16.18%,,,,,,,,33.75,73.1
+Surat,Gujarat,India,Asia,,,,,4591246,,678436200,16.29%,,,,,,,,21.15,72.8
+Fuzhou,Fujian,China,Asia,,56,200,3.57,4468076,893615200,683027446,16.40%,,,,,Quanzhou,,,26.1,119.2
+İzmir,,Turkey,Asia,,,,,4113072,,687495522,16.51%,,,,,,,,38.7,27.25
+Nanchang,Jiangxi,China,Asia,,58,300,5.17,4107962,1232388600,691608594,16.61%,,,,,Changsha,,,28.666,115.9
+Dalian,Liaoning,China,Asia,,59,390,6.61,4087733,1594215870,695716556,16.71%,,,,,Shenyang,,,38.9,121.5
+Faisalabad,Punjab,Pakistan,Asia,,,,,4075000,,699804289,16.81%,,,,,,,,31.5,73.1
+Taiyuan,Shanxi,China,Asia,,61,437,7.16,4062173,1775169601,703879289,16.90%,,,,,Zhengzhou,,Yes,37.9,112.5
+Chittagong,Chittagong,Bangladesh,Asia,,,,,4009423,,707941462,17.00%,,,,,,,,22.333,91.8
+Amman,,Jordan,Asia,,,,,4007526,,711950885,17.10%,,,,,,,,31.95,35.95
+Shijiazhuang,Hebei,China,Asia,,64,260,4.06,3995290,1038775400,715958411,17.19%,,,,,Tianjin,,Yes,38.1,114.5
+Jeddah,,Saudi Arabia,Asia,,,,,3976400,,719953701,17.29%,,,,,,,,21.5,39.15
+Roma,,Italy,Europe,,,,,3906000,,723930101,17.38%,,,,,,,,41.9,12.5
+Tel Aviv,,Israel,Asia,,,,,3785000,,727836101,17.48%,,,,,,,,32.06,34.8
+Napoli,,Italy,Europe,,,,,3706000,,731621101,17.57%,,,,,,,,40.85,14.25
+Kunming,Yunnan,China,Asia,,69,700,10.14,3583429,2508400300,735327101,17.66%,,,,,Yunnan,,Yes,24.9,102.8
+Busan,none,South Korea,Asia,,,,,3548640,,738910530,17.74%,,,,,,,,35.15,129.0666
+Wuxi,Jiangsu,China,Asia,,71,120,1.69,3542319,425078280,742459170,17.83%,,,,,Shanghai,,,31.5,120.3333
+Xiamen,Fujian,China,Asia,,72,100,1.39,3531347,353134700,746001489,17.91%,,,,,Quanzhou,,,24.5,118
+Changchun,Jilin,China,Asia,,73,240,3.29,3530115,847227600,749532836,18.00%,,,,,Harbin,,Yes,43.9,125.25
+Ningbo,Zhejiang,China,Asia,,74,150,2.03,3491597,523739550,753062951,18.08%,,,,,Hangzhou,,,29.9,121.5
+Hyderabad,Sindh,Pakistan,Asia,,,,,3490000,,#REF!,#REF!,,,,,,,,25.4,68.35
+Zibo,Shandong,China,Asia,,76,100,1.32,3484800,348480000,760044548,18.25%,,,,,Jinan,,,36.8,118
+Athens,,Greece,Europe,,,,,3484000,,763529348,18.34%,,,,,,,,37.9,23.6
+Hefei,Anhui,China,Asia,,78,150,1.92,3352076,502811400,767013348,18.42%,,,,,Nanjing,,Yes,31.8,117.25
+Changzhou,Jiangsu,China,Asia,,79,130,1.65,3290548,427771240,770365424,18.50%,,,,,Nanjing,,,31.8,120
+Kabul,,Afghanistan,Asia,,,,,3289000,,773655972,18.58%,,,,,,,,34.5,69.15
+Taizhou,Zhejiang,China,Asia,,81,130,1.6,3269300,425009000,776944972,18.66%,,,,,Wenzhou,,,28.666667,121.45
+Pyongyang,,North Korea,Asia,,,,,3255288,,780214272,18.74%,,,,,,,,39,125.75
+Tangshan,Hebei,China,Asia,,83,120,1.45,3187171,382460520,783469560,18.81%,,,,,Tianjin,,,39.6,118.25
+Nantong,Jiangsu,China,Asia,,84,100,1.19,3180924,318092400,786656731,18.89%,,,,,Changzhou,,,31.8,120
+Nanning,Guangxi,China,Asia,,85,500,5.88,3177450,1588725000,780214272,18.74%,,,,,Guangzhou,,Yes,22.8,108.3333
+Multan,Punjab,Pakistan,Asia,,,,,3100000,,793015105,19.04%,,,,,,,,30.1,71.5
+Jaipur,Rajasthan,India,Asia,,,,,3046163,,796115105,19.12%,,,,,,,,26.9,75.8
+Guiyang,Guizhou,China,Asia,,88,320,3.64,3037159,971890880,789837655,18.97%,,,,,Chongqing,,Yes,26.6,106.6
+Urumqi,Xinjiang,China,Asia,,89,2550,28.65,2988715,7621223250,802198427,19.26%,,,,,Xi'an,,Yes,43.8,87.55
+Kanpur,Uttar Pradesh,India,Asia,,,,,2920496,,805187142,19.34%,,,,,,,,26.45,80.33
+Lucknow,Uttar Pradesh,India,Asia,,,,,2902920,,808107638,19.41%,,,,,,,,26.8,80.9
+Incheon,none,South Korea,Asia,,,,,2808286,,811010558,19.48%,,,,,,,,37.5,126.6
+Bursa,,Turkey,Asia,,,,,2787539,,813818844,19.54%,,,,,,,,40.2,29.05
+Mashhad,Razavi Khorasan,Iran,Asia,,,,,2749374,,816606383,19.61%,,,,,,,,36.3,59.6
+Gujranwala,Punjab,Pakistan,Asia,,,,,2700000,,819355757,19.68%,,,,,,,,32.15,74.15
+Lisbon,,Portugal,Europe,,,,,2666000,,822055757,19.74%,,,,,,,,38.8,-9.1
+Dubai,,United Arab Emirates,Asia,,,,,2665978,,824721757,19.80%,,,,,,,,25.25,55.3
+Rotterdam-The Hague,,Netherlands,Europe,,,,,2660000,,827387735,19.87%,,,,,,,,52.1,4.4
+Manchester,,United Kingdom,Europe,,,,,2639000,,830047735,19.93%,,,,,,,,53.5,-2.25
+Huai'an,Jiangsu,China,Asia,,100,,0,2633420,0,832686735,20.00%,,,,,,,,33.5,119
+Xuzhou,Jiangsu,China,Asia,,101,,0,2623066,0,835320155,20.06%,,,,,,,,34.15,117.25
+Linyi,Shandong,China,Asia,,102,,0,2600200,0,837943221,20.12%,,,,,,,,35.1,118.34
+Birmingham,,United Kingdom,Europe,,,,,2512000,,840543421,20.18%,,,,,,,,52.5,-1.9
+Daegu,none,South Korea,Asia,,,,,2508563,,843055421,20.25%,,,,,,,,35.9,128.6
+Nagpur,Maharashtra,India,Asia,,,,,2497870,,845563984,20.31%,,,,,,,,21.15,79.09
+Lanzhou,Gansu,China,Asia,,106,,0,2492325,0,845563984,20.31%,,,,,,,Yes,36.1,103.85
+Georgetown,,Malaysia,Asia,,,,,2412616,,852966795,20.48%,,,,,,,,5.4,100.3
+Kuwait city,,Kuwait,Asia,,,,,2400000,,852966795,20.48%,,,,,,,,29.4,47.95
+Yangzhou,Jiangsu,China,Asia,,109,,0,2399079,0,855366795,20.54%,,,,,,,,32.33,119.45
+Ghaziabad,Uttar Pradesh,India,Asia,,,,,2375820,,857765874,20.60%,,,,,,,,28.67,77.42
+Anshan,Liaoning,China,Asia,,111,,0,2242436,0,860141694,20.66%,,,,,,,,41.1,123
+Baku,,Azerbaijan,Asia,,,,,2225800,,862384130,20.71%,,,,,,,,40.4,49.9
+Antalya,,Turkey,Asia,,,,,2222562,,864609930,20.76%,,,,,,,,35.9,30.7
+Beirut,,Lebanon,Asia,,,,,2200000,,866832492,20.82%,,,,,,,,33.9,35.5
+Katowice,,Poland,Europe,,,,,2190000,,869032492,20.87%,,,,,,,,50.3,19
+Indore,Madhya Pradesh,India,Asia,,,,,2170295,,871222492,20.92%,,,,,,,,22.7,75.86
+Adana,,Turkey,Asia,,,,,2165595,,873392787,20.97%,,,,,,,,37,35.3
+Coimbatore,Tamil Nadu,India,Asia,,,,,2136916,,875558382,21.03%,,,,,,,,11,77
+Aleppo,,Syria,Asia,,,,,2132100,,877695298,21.08%,,,,,,,,36.2,37.15
+Kochi,Kerala,India,Asia,,,,,2119724,,879827398,21.13%,,,,,,,,9.97,76.28
+Huaibei,Anhui,China,Asia,,121,,0,2114276,0,881947122,21.18%,,,,,,,,34,116.75
+Konya,,Turkey,Asia,,,,,2108808,,884061398,21.23%,,,,,,,,37.85,32.5
+Köln-Bonn,NordRhein Westfalen,Germany,Europe,,,,,2104000,,886170206,21.28%,,,,,,,,50.9,6.95
+Al-Ahsa,,Saudi Arabia,Asia,,,,,2100000,,888274206,21.33%,,,,,,,,25.4,49.6
+Brussels,,Belgium,Europe,,,,,2089000,,890374206,21.38%,,,,,,,,50.8,4.4
+Hamburg,Hamburg,Germany,Europe,,,,,2087000,,892463206,21.43%,,,,,,,,53.5,10.05
+Patna,Bihar,India,Asia,,,,,2049156,,894550206,21.48%,,,,,,,,25.6,85.1
+Haikou,Hainan,China,Asia,,128,,0,2046189,0,896599362,21.53%,,,,,,,Yes,20,110.15
+Yiwu,Zhejiang,China,Asia,,129,120,0.93,2038400,244608000,898645551,21.58%,,,,,,,,29.25,120
+Baotou,Inner Mongolia,China,Asia,,130,,0,2034996,0,900683951,21.63%,,,,,,,Yes,40.6,109.85
+Kozhikode,Kerala,India,Asia,,,,,2028399,,902718947,21.68%,,,,,,,,11.25,75.78
+Liuzhou,Guangxi,China,Asia,,132,,0,1998950,0,904747346,21.73%,,,,,,,,24.3333,109.4
+Anyang,Henan,China,Asia,,133,,0,1995760,0,906746296,21.77%,,,,,,,Yes,36.1,114.4
+München,Bayern,Germany,Europe,,,,,1981000,,908742056,21.82%,,,,,,,,48,11.5
+Hohhot,Inner Mongolia,China,Asia,,135,,0,1980774,0,910723056,21.87%,,,,,,,,40.8,111.75
+Tashkent,,Uzbekistan,Asia,,,,,1978028,,912703830,21.92%,,,,,,,,41.25,69.25
+Jilin City,Jilin,China,Asia,,137,,0,1975803,0,914681858,21.97%,,,,,,,,43.85,126.5
+Putian,Fujian,China,Asia,,138,,0,1953801,0,916657661,22.01%,,,,,,,,25.4,119
+Hai Phong,,Vietnam,Asia,,,,,1946000,,918611462,22.06%,,,,,,,,20.85,106.7
+Huainan,Anhui,China,Asia,,140,,0,1938212,0,920557462,22.11%,,,,,,,,32.6,117
+Sana'a,,Yemen,Asia,,,,,1937451,,922495674,22.15%,,,,,,,,15.3333,44.2
+Mecca,,Saudi Arabia,Asia,,,,,1919900,,924433125,22.20%,,,,,,,,21.4,39.8
+Frankfurt,Hesse,Germany,Europe,,,,,1915000,,926353025,22.25%,,,,,,,,50.1,8.7
+Leeds,,United Kingdom,Europe,,,,,1893000,,928268025,22.29%,,,,,,,,53.8,-1.6
+Gaziantep,,Turkey,Asia,,,,,1889466,,930161025,22.34%,,,,,,,,37.0666,37.4
+Bhopal,Madhya Pradesh,India,Asia,,,,,1886100,,932050491,22.38%,,,,,,,,23.25,77.4
+Xiangtan,Hunan,China,Asia,,147,50,0.34,1875300,93765000,933936591,22.43%,,,,,Changsha,,,27.85,113
+Yantai,Shandong,China,Asia,,148,,0,1870600,0,935811891,22.47%,,,,,,,,37.5,121.5
+Nanchong,Sichuan,China,Asia,,149,,0,1868875,0,937682491,22.52%,,,,,,,,30.8,106.1
+Thrissur,Kerala,India,Asia,,,,,1861269,,939551366,22.56%,,,,,,,,10.52,76.21
+Bucharest,,Romania,Europe,,,,,1860000,,941412635,22.61%,,,,,,,,44.5,26.1
+Luoyang,Henan,China,Asia,,152,,0,1856877,0,943272635,22.65%,,,,,,,,34.6,112.5
+Şanlıurfa,,Turkey,Asia,,,,,1845667,,945129512,22.70%,,,,,,,,37.15,38.8
+Vadodara,Gujarat,India,Asia,,,,,1822221,,946975179,22.74%,,,,,,,,22.3,73.2
+Nanyang,Henan,China,Asia,,155,,0,1811732,0,948797400,22.78%,,,,,,,,33,112.5
+Johor Bahru,,Malaysia,Asia,,,,,1800000,,952409132,22.87%,,,,,,,,1.5,103.75
+Baoding,Hebei,China,Asia,,,,,1789550,,952409132,22.87%,,,,,,,,40.3333,109.85
+Peshawar,KPK,Pakistan,Asia,,,,,1785000,,954198682,22.91%,,,,,,,,34,71.55
+Fuyang,Anhui,China,Asia,,,,,1768947,,955983682,22.96%,,,,,,,,32.9,115.8
+Wien,,Austria,Europe,,,,,1763000,,957752629,23.00%,,,,,,,,48.2,16.45
+Agra,Uttar Pradesh,India,Asia,,,,,1760285,,959515629,23.04%,,,,,,,,27.18,78.02
+Isfahan,Isfahan,Iran,Asia,,,,,1756126,,961275914,23.08%,,,,,,,,32.6,51.65
+Tai'an,Shandong,China,Asia,,,,,1735500,,963032040,23.13%,,,,,,,,36.2,117.1
+Visakhapatnam,Andhra Pradesh,India,Asia,,,,,1728128,,964767540,23.17%,,,,,,,,17.7,83.2
+Kocaeli[Note 2],,Turkey,Asia,,,,,1722795,,966495668,23.21%,,,,,,,,40.75,29.9
+Mersin[Note 1],,Turkey,Asia,,,,,1722255,,968218463,23.25%,,,,,,,,36.8,34.6
+Warsaw,,Poland,Europe,,,,,1720000,,969940718,23.29%,,,,,,,,52.2,21.1
+Budapest,,Hungary,Europe,,,,,1710000,,971660718,23.33%,,,,,,,,47.45,19
+Almaty,,Kazakhstan,Asia,,,,,1703481,,973370718,23.37%,,,,,,,,43.26,76.9
+Malappuram,Kerala,India,Asia,,,,,1699060,,975074199,23.42%,,,,,,,,11.041,76.083
+Thiruvananthapuram,Kerala,India,Asia,,,,,1679754,,976773259,23.46%,,,,,,,,8.5,76.95
+Suzhou,Anhui,China,Asia,,,,,1647642,,978453013,23.50%,,,,,,,,31.25,120.6
+Lu'an,Anhui,China,Asia,,,,,1644344,,980100655,23.54%,,,,,,,,31.75,116.5
+Kannur,Kerala,India,Asia,,,,,1640986,,981744999,23.58%,,,,,,,,11.8689,73.3555
+Diyarbakır,,Turkey,Asia,,,,,1635048,,983385985,23.61%,,,,,,,,37.91,40.24
+Stockholm,,Sweden,Europe,,,,,1630000,,985021033,23.65%,,,,,,,,59.2,18
+Datong,Shanxi,China,Asia,,,,,1629035,,986651033,23.69%,,,,,,,,40.06,113.3
+Amsterdam,,Netherlands,Europe,,,,,1624000,,988280068,23.73%,,,,,,,,52.3333,4.9
+Ludhiana,Punjab,India,Asia,,,,,1618879,,989904068,23.77%,,,,,,,,30.91,75.85
+Yancheng,Jiangsu,China,Asia,,,,,1615717,,991522947,23.81%,,,,,,,,33.33333,120.15
+Karaj,Alborz,Iran,Asia,,,,,1614626,,993138664,23.85%,,,,,,,,35.9,51
+Zhanjiang,Guangdong,China,Asia,,,,,1612300,,994753290,23.89%,,,,,,,,21.25,110.33333
+Tengzhou,Shandong,China,Asia,,,,,1603700,,996365590,23.93%,,,,,,,,35.1,117.15
+Huangshi,Hubei,China,Asia,,,,,1601687,,997969290,23.97%,,,,,,,,30.2,115
+Jiangyin,Jiangsu,China,Asia,,,,,1594829,,999570977,24.00%,,,,,,,,32,120.25
+Lyon,,France,Europe,,,,,1583000,,1001165806,24.04%,,,,,,,,45.75,4.9
+Nashik,Maharashtra,India,Asia,,,,,1561809,,1002748806,24.08%,,,,,,,,20,73.78
+Valencia,,Spain,Europe,,,,,1561000,,1004310615,24.12%,,,,,,,,39.5,-0.3333
+Muscat,,Oman,Asia,,,,,1560000,,1005871615,24.15%,,,,,,,,23.6,58.6
+Qiqihar,Heilongjiang,China,Asia,,,,,1559517,,1007431615,24.19%,,,,,,,,47.33333,123.9
+Sargodha,Punjab,Pakistan,Asia,,,,,1550000,,1008991132,24.23%,,,,,,,,32.1,72.75
+Sevilla,,Spain,Europe,,,,,1533230,,1010541132,24.27%,,,,,,,,37.4,6.1
+Weifang,Shandong,China,Asia,,,,,1521600,,1012074362,24.30%,,,,,,,,36.7,119.15
+Torino,,Italy,Europe,,,,,1521000,,1013595962,24.34%,,,,,,,,45.1,7.6
+Hatay,,Turkey,Asia,,,,,1519836,,1015116962,24.38%,,,,,,,,36.4,36.15
+Daejeon,none,South Korea,Asia,,,,,1518651,,1016636798,24.41%,,,,,,,,36.5,127.5
+Yinchuan,Ningxia,China,Asia,,197,,0,1513151,0,1018155449,24.45%,,,,,,,Yes,38.5,106.16
+Changshu,Jiangsu,China,Asia,,,,,1510103,,1019668600,24.49%,,,,,,,,31.6666666,120.75
+Phnom Penh,,Cambodia,Asia,,,,,1501725,,1021178703,24.52%,,,,,,,,11.55,104.9
+Khulna,Khulna,Bangladesh,Asia,,,,,1500000,,1022680428,24.56%,,,,,,,,22.8,89.55
+Abu Dhabi,,United Arab Emirates,Asia,,,,,1500000,,1024180428,24.59%,,,,,,,,24.5,54.4
+Tbilisi,,Georgia,Asia,,,,,1485293,,1025680428,24.63%,,,,,,,,41.7,44.8
+Tabriz,East Azerbaijan,Iran,Asia,,,,,1484988,,1027165721,24.67%,,,,,,,,38.06,46.3
+Vijayawada,Andhra Pradesh,India,Asia,,,,,1476931,,1028650709,24.70%,,,,,,,,16.5193,80.6305
+Porto,,Portugal,Europe,,,,,1474000,,1030127640,24.74%,,,,,,,,41.16,-8.6
+Novosibirsk,Novosibirsk Oblast,Russia,Asia,,,,,1473754,,1031601640,24.77%,,,,,,,,55.05,82.9
+Dengzhou,Henan,China,Asia,,,,,1468061,,1033075394,24.81%,,,,,,,,32.7,112.1
+Gwangju,none,South Korea,Asia,,,,,1466516,,1034543455,24.84%,,,,,,,,35.16,126.9
+Madurai,Tamil Nadu,India,Asia,,,,,1465625,,1036009971,24.88%,,,,,,,,9.9,78.1
+Cixi,Zhejiang,China,Asia,,,,,1462383,,1037475596,24.91%,,,,,,,,30.16,121.25
+Shiraz,Fars,Iran,Asia,,,,,1460665,,1038937979,24.95%,,,,,,,,29.6,52.55
+Changde,Hunan,China,Asia,,,,,1458536,,1040398644,24.98%,,,,,,,,29,111.7
+Pizhou,Jiangsu,China,Asia,,,,,1458036,,1041857180,25.02%,,,,,,,,34.33333,118
+Baoji,Shaanxi,China,Asia,,,,,1437802,,1043315216,25.05%,,,,,,,,34.3333,107.25
+Suqian,Jiangsu,China,Asia,,,,,1437686,,1044753018,25.09%,,,,,,,,34,118.25
+Varanasi,Uttar Pradesh,India,Asia,,,,,1432280,,1046190704,25.12%,,,,,,,,25.28,82.96
+Meerut,Uttar Pradesh,India,Asia,,,,,1420902,,1047622984,25.16%,,,,,,,,28.99,77.7
+Daqing,Heilongjiang,China,Asia,,,,,1415268,,1049043886,25.19%,,,,,,,,46.6,125.1
+Damascus,,Syria,Asia,,,,,1414913,,1050459154,25.23%,,,,,,,,33.5,36.3
+Faridabad,Haryana,India,Asia,,,,,1414050,,1051874067,25.26%,,,,,,,,28.4211,77.3078
+Bozhou,Anhui,China,Asia,,,,,1409436,,1053288117,25.29%,,,,,,,,33.85,115.75
+Handan,Hebei,China,Asia,,,,,1403439,,1054697553,25.33%,,,,,,,,36.6,114.5
+Marseilles,,France,Europe,,,,,1397000,,1056100992,25.36%,,,,,,,,43.3,5.4
+Panjin,Liaoning,China,Asia,,,,,1392493,,1057497992,25.39%,,,,,,,,41.1,122.06
+Rajkot,Gujarat,India,Asia,,,,,1390640,,1058890485,25.43%,,,,,,,,22.3,70.7833
+Stuttgart,Baden-Württemburg,Germany,Europe,,,,,1379000,,1060281125,25.46%,,,,,,,,48.7,9.2
+Ulaanbaatar,,Mongolia,Asia,,,,,1372000,,1061660125,25.49%,,,,,,,,47.9,106.9
+Manisa,Manisa,Turkey,Asia,,,,,1367905,,1063032125,25.53%,,,,,,,,38.6,27.4
+Wenling,Zhejiang,China,Asia,,,,,1366800,,1064400030,25.56%,,,,,,,,28.4,121.4
+Ma'anshan,Anhui,China,Asia,,,,,1366302,,1065766830,25.59%,,,,,,,,31.66666,118.5
+Zigong,Sichuan,China,Asia,,,,,1362062,,1067133132,25.63%,,,,,,,,29.333333,104.75
+Mianyang,Sichuan,China,Asia,,,,,1355331,,1068495194,25.66%,,,,,,,,31.5,104.666666
+Yingkou,Liaoning,China,Asia,,,,,1351519,,1069850525,25.69%,,,,,,,,40.66666,122.25
+Doha,,Qatar,Asia,,,,,1351000,,1071202044,25.72%,,,,,,,,25.3,51.55
+Yichang,Hubei,China,Asia,,,,,1350150,,1072553044,25.76%,,,,,,,,30.7,111.25
+Yekaterinburg,Sverdlovsk,Russia,Europe,,,,,1349772,,1073903194,25.79%,,,,,,,,56.85,60.6
+Heze,Shandong,China,Asia,,,,,1346700,,1075252966,25.82%,,,,,,,,35.2,115.5
+Jamshedpur,Jharkhand,India,Asia,,,,,1339438,,1076599666,25.85%,,,,,,,,22.8,86.2
+Chifeng,Inner Mongolia,China,Asia,,,,,1333526,,1077939104,25.89%,,,,,,,,42.25,118.9
+Guilin,Guangxi,China,Asia,,,,,1326470,,,,,,,,,,,25.25,110.16
+Kayseri,,Turkey,Asia,,,,,1322376,,1080599100,25.95%,,,,,,,,38.75,35.5
+Sofia,,Bulgaria,Europe,,,,,1316557,,1081921476,25.98%,,,,,,,,42.7,23.3
+Prague,,Czech Republic,Europe,,,,,1310000,,1083238033,26.01%,,,,,,,,50.1,14.45
+Xiangyang,Hubei,China,Asia,,,,,1294732,,983385985,23.61%,,,,,,,,32,112.1
+Haicheng,Liaoning,China,Asia,,,,,1293877,,986651033,23.69%,,,,,,,,40.9,122.6666
+Medina,,Saudi Arabia,Asia,,,,,1271800,,1087136642,26.11%,,,,,,,,24.25,39.6
+Samsun,,Turkey,Asia,,,,,1269989,,1088408442,26.14%,,,,,,,,41.25,36.33333
+Jabalpur,Madhya Pradesh,India,Asia,,,,,1268848,,1089678431,26.17%,,,,,,,,23.16,79.95
+Rugao,Jiangsu,China,Asia,,,,,1267066,,994753290,23.89%,,,,,,,,32.333333,120.55
+Xuchang,Henan,China,Asia,,,,,1265454,,997969290,23.97%,,,,,,,,34,113.9
+Srinagar,Jammu and Kashmir,India,Asia,,,,,1264202,,1093479799,26.26%,,,,,,,,34.1,74.8
+Neijiang,Sichuan,China,Asia,,,,,1251095,,1002748806,24.08%,,,,,,,,29.55,105.05
+Nizhny Novgorod,Nizhny Novgorod,Russia,Europe,,,,,1250619,,1095995096,26.32%,,,,,,,,56.33,44
+Zhangjiagang,Jiangsu,China,Asia,,,,,1248414,,1007431615,24.19%,,,,,,,,31.9,120.55
+Asansol,West Bengal,India,Asia,,,,,1243414,,1098494129,26.38%,,,,,,,,23.68,86.99
+Can tho,,Vietnam,Asia,,,,,1238300,,1099737543,26.41%,,,,,,,,10,105.8
+Yixing,Jiangsu,China,Asia,,,,,1235476,,1013595962,24.34%,,,,,,,,31.3333333,119.8
+Fuqing,Fujian,China,Asia,,,,,1234838,,,,,,,,,,,25.4,119.4
+Zhaoqing,Guangdong,China,Asia,,,,,1232701,,,,,,,,,,,23,112.5
+Copenhagen,,Denmark,Europe,,,,,1231000,,1104678858,26.53%,,,,,,,,55.75,12.45
+Xinyang,Henan,China,Asia,,,,,1229959,,1021178703,24.52%,,,,,,,,32.1,114.1
+Liaocheng,Shandong,China,Asia,,,,,1229800,,1024180428,24.59%,,,,,,,,36.45,116
+Basra,Basra,Iraq,Asia,,,,,1225793,,1108369617,26.62%,,,,,,,,30.5,47.8
+Mandalay,Mandalay Region,Burma,Asia,,,,,1225546,,1109595410,26.65%,,,,,,,,21.95,96.1
+Vasai-Virar,Maharashtra,India,Asia,,,,,1222390,,1110820956,26.68%,,,,,,,,19.47,72.8
+Maoming,Guangdong,China,Asia,,,,,1217715,,,,,,,,,,,21.66666,110.9
+Allahabad,Uttar Pradesh,India,Asia,,,,,1212395,,1113261061,26.73%,,,,,,,,25.45,81.85
+Baghdad,Baghdad,Iraq,Asia,,,,,1211934,,1114473456,26.76%,,,,,,,,33.33333,44.4
+Helsinki,,Finland,Europe,,,,,1203000,,1115685390,26.79%,,,,,,,,60.25,25.1
+Jiaxing,Zhejiang,China,Asia,,,,,1201900,,1037475596,24.91%,,,,,,,,30.75,120.75
+Zhenjiang,Jiangsu,China,Asia,,,,,1200400,,1040398644,24.98%,,,,,,,,32.16,119.45
+Xining,Qinghai,China,Asia,,,,#DIV/0!,1198304,0,1119290690,26.88%,,,,,,,Yes,36.6,101.76
+Tianshui,Gansu,China,Asia,,,,,1197174,,,,,,,,,,,34.6,105.4
+Dhanbad,Jharkhand,India,Asia,,,,,1196214,,1121686168,26.94%,,,,,,,,23.8,86.45
+Aurangabad,Maharashtra,India,Asia,,,,,1193167,,1122882382,26.96%,,,,,,,,19.88,75.32
+Balıkesir,,Turkey,Asia,,,,,1189057,,1124075549,26.99%,,,,,,,,39.6,27.9
+Amritsar,Punjab,India,Asia,,,,,1183549,,1125264606,27.02%,,,,,,,,31.64,74.86
+Glasgow,,United Kingdom,Europe,,,,,1182000,,1126448155,27.05%,,,,,,,,55.85,-4.3333
+Huazhou,Guangdong,China,Asia,,,,,1178873,,,,,,,,,,,21.6666666,110.6
+Qujing,Yunnan,China,Asia,,,,,1171805,,1056100992,25.36%,,,,,,,,25.5,103.8
+Dingzhou,,,,,,,,1165182,,,,,,,,,,,38.5,115
+Samara,,Russia,Europe,,,,,1164685,,1131146015,27.16%,,,,,,,,53.2,50.1
+Wuhu,Anhui,China,Asia,,,,,1162664,,,,,,,,,,,31.33333333,118.4
+Naypyidaw (Nay Pyi Taw),Naypyidaw Union Territory,Burma,Asia,,,,,1160242,,1133473364,27.22%,,,,,,,,19.75,96.1
+Dublin,,Ireland,Europe,,,,,1158000,,1134633606,27.25%,,,,,,,,53.3333,6.33333
+Zhuji,Zhejiang,China,Asia,,,,,1157900,,1065766830,25.59%,,,,,,,,29.75,120.25
+Xingtai,,,,,,,,1155199,,,,,,,,,,,37.06,114.5
+Omsk,Omsk Oblast,Russia,Asia,,,,,1154116,,1138104705,27.33%,,,,,,,,55,73.4
+Jingzhou,Hubei,China,Asia,,,,,1154086,,1071202044,25.72%,,,,,,,,30.3333333,112.25
+Kazan,,Russia,Europe,,,,,1143535,,1140412907,27.39%,,,,,,,,55.8,49.1
+Quetta,Balochistan,Pakistan,Asia,,,,,1140000,,1141556442,27.41%,,,,,,,,30.15,67
+Shouguang,Shandong,China,Asia,,,,,1139400,,1076599666,25.85%,,,,,,,,36.8,118.75
+Jodhpur,Rajasthan,India,Asia,,,,,1138300,,1143835842,27.47%,,,,,,,,26.28,73.02
+Ulsan,none,South Korea,Asia,,,,,1136948,,1144974142,27.50%,,,,,,,,35.55,129.33
+Yuzhou,Henan,China,Asia,,,,,1131819,,1081921476,25.98%,,,,,,,,28.4,111.8
+Chelyabinsk,,Russia,Asia,,,,,1130132,,1147242909,27.55%,,,,,,,,55.15,61.4
+Bazhong,Sichuan,China,Asia,,,,,1126790,,#REF!,#REF!,,,,,,,,31.9,106.75
+Jerusalem,,Israel,Asia,,,,,1124300,,1149499831,27.60%,,,,,,,,31.8,35.2
+Raipur,Chhattisgarh,India,Asia,,,,,1123558,,1150624131,27.63%,,,,,,,,21.25,81.63
+Ranchi,Jharkhand,India,Asia,,,,,1120374,,1151747689,27.66%,,,,,,,,23.36,85.33
+Gwalior,Madhya Pradesh,India,Asia,,,,,1117740,,1152868063,27.68%,,,,,,,,26.22,78.178
+Zoucheng,Shandong,China,Asia,,,,,1116700,,1093479799,26.26%,,,,,,,,35.4,117
+Jining,Shandong,China,Asia,,,,,1115300,,1095995096,26.32%,,,,,,,,35.5,116.6
+Ahvaz,Khuzestan,Iran,Asia,,,,,1112021,,1156217803,27.77%,,,,,,,,31.2,48.66666
+Kollam,Kerala,India,Asia,,,,,1110668,,1157329824,27.79%,,,,,,,,8.88,76.6
+Ta'if,,Saudi Arabia,Asia,,,,,1109800,,1158440492,27.82%,,,,,,,,21.45,40.3333
+Bien Hoa,,Vietnam,Asia,,,,,1104495,,1159550292,27.85%,,,,,,,,10.95,106.8
+Jinzhou,Liaoning,China,Asia,,,,,1091799,,1103446157,26.50%,,,,,,,,41.1,121.1
+Changwon,South Gyeongsang,South Korea,Asia,,,,,1091733,,1161746586,27.90%,,,,,,,,35.25,128.65
+Van,,Turkey,Asia,,,,,1089542,,1162838319,27.92%,,,,,,,,38.5,43.4
+Rostov-on-Don,,Russia,Europe,,,,,1089261,,1163927861,27.95%,,,,,,,,47.25,39.7
+Kahramanmaraş,,Turkey,Asia,,,,,1089038,,1165017122,27.98%,,,,,,,,37.5,36.9
+Guigang,Guangxi,China,Asia,,,,,1086327,,,,,,,,,,,23.1,109.6
+Zhucheng,Shandong,China,Asia,,,,,1086200,,1112043346,26.70%,,,,,,,,36,119.4
+Jinhua,Zhejiang,China,Asia,,,,,1077300,,1114473456,26.76%,,,,,,,,29.06,119.6
+Hengyang,Hunan,China,Asia,,,,,1075516,,1116888390,26.82%,,,,,,,,26.9,112.6
+Qom,Qom,Iran,Asia,,,,,1074036,,1170431503,28.11%,,,,,,,,34.6,50.9
+Taixing,Jiangsu,China,Asia,,,,,1073921,,1120488994,26.91%,,,,,,,,32.17,120.05
+Durg-Bhilainagar,Chhattisgarh,India,Asia,,,,,1064222,,1172579460,28.16%,,,,,,,,21.21,81.38
+Zhangqiu,Shandong,China,Asia,,,,,1064200,,1124075549,26.99%,,,,,,,,36.666666,117.5
+Ufa,,Russia,Europe,,,,,1062319,,1174707882,28.21%,,,,,,,,54.75,56
+Yerevan,,Armenia,Asia,,,,,1060138,,1175770201,28.23%,,,,,,,,40.2,44.5
+Chandigarh,Chandigarh,India,Asia,,,,,1055450,,1176830339,28.26%,,,,,,,,30.75,76.78
+Zhuzhou,Hunan,China,Asia,,,,,1055373,,1129980833,27.14%,,,,,,,,27.86,113.15
+Dushanbe,,Tajikistan,Asia,,,,,1051200,,1178941162,28.31%,,,,,,,,38.5,68.75
+Haifa,,Israel,Asia,,,,,1050000,,1179992362,28.34%,,,,,,,,32.8,35
+Lianyungang,Jiangsu,China,Asia,,,,,1049831,,1134633606,27.25%,,,,,,,,34.6,119.2
+Aydın,,Turkey,Asia,,,,,1041579,,1182092193,28.39%,,,,,,,,37.85,27.85
+Ezhou,Hubei,China,Asia,,,,,1035500,,1138104705,27.33%,,,,,,,,30.4,114.9
+Pingdingshan,Henan,China,Asia,,,,,1033975,,1140412907,27.39%,,,,,,,,33.75,113.2
+Ashgabat,,Turkmenistan,Asia,,,,,1031992,,1185203247,28.46%,,,,,,,,37.95,58.4
+Qinhuangdao,Hebei,China,Asia,,,,,1029670,,,,,,,,,,,39.95,119.6
+Linhai,Zhejiang,China,Asia,,,,,1028800,,1144974142,27.50%,,,,,,,,28.9,121.15
+Tiruchirappalli,Tamil Nadu,India,Asia,,,,,1022518,,1188293709,28.54%,,,,,,,,10.8,78.7
+Volgograd,,Russia,Europe,,,,,1021215,,1189316227,28.56%,,,,,,,,48.7,44.5
+Lille,,France,Europe,,,,,1016000,,1190337442,28.58%,,,,,,,,50.6,3.05
+Benxi,Liaoning,China,Asia,,,,,1011377,,1150624131,27.63%,,,,,,,,41.5,123.666666
+Wuwei,Gansu,China,Asia,,,,,1010295,,,,,,,,,,,37.9,102.6
+Da Nang,,Vietnam,Asia,,,,,1007700,,1193375114,28.66%,,,,,,,,16.06,108.25
+Hezhou,Guangxi,China,Asia,,,,,1005500,,,,,,,,,,,24.4,111.6
+Zaoyang,Hubei,China,Asia,,,,,1004741,,1156217803,27.77%,,,,,,,,32.1,112.9
+Xiangcheng,Henan,China,Asia,,,,,1003626,,1158440492,27.82%,,,,,,,,33.5,114.9
+Kathmandu,Bagmati Zone,Nepal,Asia,,,,,1003285,,1197396681,28.75%,,,,,,,,27.7,85.3
+Kota,Rajasthan,India,Asia,,,,,1001694,,1198399966,28.78%,,,,,,,,25,76.15
+Mosul,,Iraq,Asia,,,,,1000000,,1199401660,28.80%,,,,,,,,36.34,43.13
+Dongying,Shandong,China,Asia,,,,,999000,,1163927861,27.95%,,,,,,,,37.45,118.6666667
+Yueyang,Hunan,China,Asia,,,,,991465,,1166106160,28.00%,,,,,,,,29.33333333,113.1
+Perm,,Russia,Europe,,,,,991162,,1202392125,28.87%,,,,,,,,58,56.3
+Antwerpen,,Belgium,Europe,,,,,990000,,1203383287,28.90%,,,,,,,,51.25,4.4
+Laiwu,Shandong,China,Asia,,,,,989500,,1170431503,28.11%,,,,,,,,36.2,117.6666667
+Denizli,,Turkey,Asia,,,,,978700,,1205362787,28.95%,,,,,,,,37.75,29.1
+Dammam,,Saudi Arabia,Asia,,,,,975800,,1206341487,28.97%,,,,,,,,26.4,50.1
+Krasnoyarsk,,Russia,Asia,,,,,973826,,1207317287,28.99%,,,,,,,,56,93.1
+Qidong,Jiangsu,China,Asia,,,,,972525,,1175770201,28.23%,,,,,,,,31.8,121.65
+Nice,,France,Europe,,,,,962000,,1209263638,29.04%,,,,,,,,43.75,7.25
+Danyang,Jiangsu,China,Asia,,,,,960418,,1178941162,28.31%,,,,,,,,32,119.6
+Malaga,,Spain,Europe,,,,,953251,,1211186056,29.09%,,,,,,,,36.7,-4.4
+Feicheng,Shandong,China,Asia,,,,,946600,,1182092193,28.39%,,,,,,,,,
+Linfen,Shanxi,China,Asia,,,,,944050,,1184169272,28.44%,,,,,,,,,
+Lodz,,Poland,Europe,,,,,939000,,1214029957,29.15%,,,,,,,,51.75,19.4
+Kirkuk,Kirkuk,Iraq,Asia,,,,,938336,,1214968957,29.18%,,,,,,,,35.45,44.2
+Bishkek,,Kyrgyzstan,Asia,,,,,937400,,1215907293,29.20%,,,,,,,,42.85,74.6
+Xinyi,Jiangsu,China,Asia,,,,,920610,,1189316227,28.56%,,,,,,,,,
+Weihai,Shandong,China,Asia,,,,,908200,,1191353442,28.61%,,,,,,,,,
+Xinxiang,Henan,China,Asia,,,,,902731,,1193375114,28.66%,,,,,,,,35.3,113.9
+Zaozhuang,Shandong,China,Asia,,,,,899700,,1195388314,28.71%,,,,,,,,,
+Kaifeng,Henan,China,Asia,,,,,896057,,1197396681,28.75%,,,,,,,,34.75,114.3
+Voronezh,,Russia,Europe,,,,,889680,,1221371991,29.33%,,,,,,,,51.66666,39.2
+Toulouse,,France,Europe,,,,,880000,,1222261671,29.35%,,,,,,,,43.6,1.4
+Jiaozuo,Henan,China,Asia,,,,,865356,,1201400660,28.85%,,,,,,,,,
+Rizhao,Shandong,China,Asia,,,,,865032,,1203383287,28.90%,,,,,,,,,
+Liverpool,,United Kingdom,Europe,,,,,864000,,1224872059,29.41%,,,,,,,,53.4,-3
+South Hampshire,,United Kingdom,Europe,,,,,856000,,1225736059,29.43%,,,,,,,,50.8,-1.2
+Genova,,Italy,Europe,,,,,855000,,1226592059,29.46%,,,,,,,,44.4,8.95
+Kermanshah,Kermanshah,Iran,Asia,,,,,851405,,1227447059,29.48%,,,,,,,,34.3,47.05
+Bordeaux,,France,Europe,,,,,845000,,1228298464,29.50%,,,,,,,,44.85,-0.5
+Zhoushan,Zhejiang,China,Asia,,,,,843000,,1210225638,29.06%,,,,,,,,,
+Thessaloniki,,Greece,Europe,,,,,840000,,1229986464,29.54%,,,,,,,,40.666,22.92
+Saratov,,Russia,Europe,,,,,837900,,1230826464,29.56%,,,,,,,,51.5,46
+Yibin,Sichuan,China,Asia,,,,,836383,,1214029957,29.15%,,,,,,,,,
+Florence,,Italy,Europe,,,,,821000,,1232500747,29.60%,,,,,,,,43.8,11.25
+Kashgar,,China,Asia,,,,,819095,,1216844693,29.22%,,,,,,,,,
+Dandong,Liaoning,China,Asia,,,,,798364,,1218673503,29.27%,,,,,,,,,
+Zagreb,,Croatia,Europe,,,,,793000,,1234939206,29.66%,,,,,,,,45.8,15.9
+Panzhihua,Sichuan,China,Asia,,,,,787177,,1221371991,29.33%,,,,,,,,,
+Newcastle upon Tyne,,United Kingdom,Europe,,,,,780000,,1236519383,29.69%,,,,,,,,55,-1.5
+Huludao,Liaoning,China,Asia,,,,,777682,,1224007027,29.39%,,,,,,,,,
+Gdansk,,Poland,Europe,,,,,775000,,1238077065,29.73%,,,,,,,,54.4,18.6
+Hamhung,,North Korea,Asia,,,,,768551,,1238852065,29.75%,,,,,,,,39.9,127.5
+Vientiane,,Laos,Asia,,,,,760000,,1239620616,29.77%,,,,,,,,17.95,102.6
+Krakow,,Poland,Europe,,,,,760000,,1240380616,29.79%,,,,,,,,50.1,19.9
+Shaoyang,Hunan,China,Asia,,,,,753194,,1229143464,29.52%,,,,,,,,27.25,111.3
+Bilbao,,Spain,Europe,,,,,750000,,1241893810,29.82%,,,,,,,,43.25,-3
+Riga,,Latvia,Europe,,,,,750000,,1242643810,29.84%,,,,,,,,57,24.1
+Najaf,Najaf,Iraq,Asia,,,,,746180,,1243393810,29.86%,,,,,,,,32,44.33
+Krasnodar,,Russia,Europe,,,,,744995,,1244139990,29.88%,,,,,,,,45,38.95
+Palermo,,Italy,Europe,,,,,731000,,1244884985,29.89%,,,,,,,,38.1,13.25
+Nottingham,,United Kingdom,Europe,,,,,730000,,1245615985,29.91%,,,,,,,,52.95,-1.25
+Tolyatti,,Russia,Europe,,,,,719632,,1246345985,29.93%,,,,,,,,53.5,49.5
+Sharjah,,United Arab Emirates,Asia,,,,,719100,,1247065617,29.95%,,,,,,,,25.35,55.4
+Binzhou,Shandong,China,Asia,,,,,709700,,1237299383,29.71%,,,,,,,,,
+Fuxin,Liaoning,China,Asia,,,,,686848,,1238852065,29.75%,,,,,,,,,
+Dezhou,Shandong,China,Asia,,,,,679600,,1240380616,29.79%,,,,,,,,,
+Orumieh,West Azerbaijan,Iran,Asia,,,,,667499,,1249860865,30.01%,,,,,,,,37.5,45.06
+Tieling,Liaoning,China,Asia,,,,,666755,,1242643810,29.84%,,,,,,,,,
+Cheongju,North Chungcheong,South Korea,Asia,,,,,662852,,1251195119,30.05%,,,,,,,,36.6,127.5
+Buraidah,,Saudi Arabia,Asia,,,,,658600,,1251857971,30.06%,,,,,,,,26.33333,43.95
+Puyang,Henan,China,Asia,,,,,655631,,1245615985,29.91%,,,,,,,,,
+Homs,,Syria,Asia,,,,,652609,,1253172202,30.09%,,,,,,,,34.75,36.7
+Sulaymaniyah,Sulaymaniyah,Iraq,Asia,,,,,651173,,1253824811,30.11%,,,,,,,,35.55,45.45
+Macau/Macao,Macao,China,Asia,,411,,0,650900,0,1254475984,30.12%,,,,,,,Yes,22.16,113.5
+Al Ain,,United Arab Emirates,Asia,,,,,650000,,1255126884,30.14%,,,,,,,,24.2,55.75
+Jeonju,North Jeolla,South Korea,Asia,,,,,647504,,1255776884,30.16%,,,,,,,,35.8,127.15
+Rasht,Gilan,Iran,Asia,,,,,639951,,1256424388,30.17%,,,,,,,,37.25,49.55
+Khobar,,Saudi Arabia,Asia,,,,,626000,,1257064339,30.19%,,,,,,,,26.3,50.2
+Al Hudaydah,,Yemen,Asia,,,,,617871,,1257690339,30.20%,,,,,,,,14.8,42.95
+Jingjiang,Jiangsu,China,Asia,,,,,617277,,1252516571,30.08%,,,,,,,,,
+Barnaul,Altai Krai,Russia,Asia,,,,,612401,,1258925487,30.23%,,,,,,,,53.5,83.75
+Tabuk,,Saudi Arabia,Asia,,,,,609000,,1259537888,30.25%,,,,,,,,28.4,36.55
+Jiujiang,Jiangxi,China,Asia,,,,,592381,,1255126884,30.14%,,,,,,,,,
+Vladivostok,Primorsky Krai,Russia,Asia,,,,,592034,,1260739269,30.28%,,,,,,,,43.1,131.9
+Irkutsk,Irkutsk Oblast,Russia,Asia,,,,,587891,,1261331303,30.29%,,,,,,,,52.25,104.25
+Khabarovsk,Khabarovsk Krai,Russia,Asia,,,,,577441,,1261919194,30.30%,,,,,,,,48.45,135.1
+Cheonan,South Chungcheong,South Korea,Asia,,,,,574148,,1262496635,30.32%,,,,,,,,36.816667,127.1666667
+Zahedan,Sistan and Baluchestan,Iran,Asia,,,,,560725,,1263070783,30.33%,,,,,,,,29.5,60.85
+Al Hillah,Babil,Iraq,Asia,,,,,559834,,1263631508,30.34%,,,,,,,,32.5,44.5
+Lhasa,Tibet,China,Asia,,,,#DIV/0!,559423,0,1264191342,30.36%,,,,,,,Yes,29.65,91.15
+Kemerovo,Kemerovo Oblast,Russia,Asia,,,,,549159,,1264750765,30.37%,,,,,,,,55.3,86.06
+Amarah,,Iraq,Asia,,,,,541034,,1265299924,30.38%,,,,,,,,31.85,47.15
+Nasiriyah,,Iraq,Asia,,,,,537544,,1265840958,30.40%,,,,,,,,31.05,46.25
+Aksu,Xinjiang,China,Asia,,,,,535657,,#REF!,#REF!,,,,,,,,,
+Kerman,Kerman,Iran,Asia,,,,,534441,,1266914159,30.42%,,,,,,,,30.3,57.1
+Arak,Markazi,Iran,Asia,,,,,526182,,1267448600,30.44%,,,,,,,,34.1,49.7
+Hamedan,Hamadan,Iran,Asia,,,,,525794,,1267974782,30.45%,,,,,,,,34.8,48.5
+Tomsk,Tomsk Oblast,Russia,Asia,,,,,524669,,1268500576,30.46%,,,,,,,,56.5,85
+Pohang,North Gyeongsang,South Korea,Asia,,,,,517322,,1269025245,30.47%,,,,,,,,36,129.33333
+Karbala,,Iraq,Asia,,,,,514356,,1269542567,30.49%,,,,,,,,32.6,44.06
+Gimhae,South Gyeongsang,South Korea,Asia,,,,,507726,,1270056923,30.50%,,,,,,,,35.25,128.9
+Zhoukou,Henan,China,Asia,,,,,505139,,1267974782,30.45%,,,,,,,,33.6,114.6666667
+Kandahar,,Afghanistan,Asia,,,,,491500,,1271069788,30.52%,,,,,,,,31.6,65.7
+Bago,Bago Region,Burma,Asia,,,,,491434,,1271561288,30.54%,,,,,,,,17.3333,96.5
+Malacca City,Malacca,Malaysia,Asia,,,,,484885,,1272537607,30.56%,,,,,,,,2.2,102.25
+Lishui,Zhejiang,China,Asia,,,,,451400,,1270564649,30.51%,,,,,,,,,
+Kut,,Iraq,Asia,,,,,436673,,1272989007,30.57%,,,,,,,,32.5,45.8
+Yazd,Yazd,Iran,Asia,,,,,432194,,1273425680,30.58%,,,,,,,,31.9,54.4
+Kuantan,Pahang,Malaysia,Asia,,,,,427515,,1274285389,30.60%,,,,,,,,3.8,103.33333
+Al Diwaniyah,,Iraq,Asia,,,,,421571,,1274285389,30.60%,,,,,,,,32,44.9
+Ramadi,,Iraq,Asia,,,,,419053,,1274706960,30.61%,,,,,,,,33.4,43.3
+Gumi,North Gyeongsang,South Korea,Asia,,,,,413893,,1275126013,30.62%,,,,,,,,36.119469,128.344381
+Latakia,,Syria,Asia,,,,,383786,,1275539906,30.63%,,,,,,,,35.5,35.8
+Taunggyi,Shan State,Burma,Asia,,,,,381639,,1275923692,30.64%,,,,,,,,20.8,97.05
+Monywa,Sagaing Region,Burma,Asia,,,,,372095,,1276305331,30.65%,,,,,,,,22.1,95.1
+Jinju,South Gyeongsang,South Korea,Asia,,,,,336310,,1276677426,30.66%,,,,,,,,35.2,128.1
+Chita,Zabaykalsky Krai,Russia,Asia,,,,,324444,,1277013736,30.67%,,,,,,,,52.05,113.45
+Wonju,Gangwon,South Korea,Asia,,,,,321146,,1277338180,30.67%,,,,,,,,37.3,127.9
+Fallujah,,Iraq,Asia,,,,,321106,,1277659326,30.68%,,,,,,,,33.33,43.8
+Hama,,Syria,Asia,,,,,312994,,1277980432,30.69%,,,,,,,,35.15,36.75
+Meiktila,Mandalay Region,Burma,Asia,,,,,309663,,1278293426,30.70%,,,,,,,,,
+Iksan,North Jeolla,South Korea,Asia,,,,,308458,,1278603089,30.70%,,,,,,,,35.9,129.95
+Yeosu,South Jeolla,South Korea,Asia,,,,,292627,,1278911547,30.71%,,,,,,,,34.75,127.75
+Mawlamyine,Mon State,Burma,Asia,,,,,289388,,1279204174,30.72%,,,,,,,,,
+Pathein,Ayeyarwady Region,Burma,Asia,,,,,287071,,1279493562,30.73%,,,,,,,,,
+Mergui,Tanintharyi Region,Burma,Asia,,,,,284489,,1279780633,30.73%,,,,,,,,,
+Gunsan,North Jeolla,South Korea,Asia,,,,,276538,,1280065122,30.74%,,,,,,,,36,126.75
+Asan,South Chungcheong,South Korea,Asia,,,,,275350,,1280341660,30.75%,,,,,,,,36.8,127
+Chuncheon,Gangwon,South Korea,Asia,,,,,273130,,1280617010,30.75%,,,,,,,,,
+Suncheon,South Jeolla,South Korea,Asia,,,,,272274,,1280890140,30.76%,,,,,,,,,
+Yakutsk,Sakha,Russia,Asia,,,,,269601,,1281162414,30.77%,,,,,,,,62,129.7
+Yangsan,South Gyeongsang,South Korea,Asia,,,,,267108,,1281432015,30.77%,,,,,,,,,
+Gyeongju,North Gyeongsang,South Korea,Asia,,,,,265028,,1281699123,30.78%,,,,,,,,,
+Komsomolsk-on-Amur,,Russia,Asia,,,,,263906,,1281964151,30.78%,,,,,,,,50.5,136.95
+Karamay,Xinjiang,China,Asia,,,,,261445,,1281699123,30.78%,,,,,,,,,
+Pyay,Bago Region,Burma,Asia,,,,,251643,,1282489502,30.80%,,,,,,,,,
+Mokpo,South Jeolla,South Korea,Asia,,,,,244256,,1282741145,30.80%,,,,,,,,,
+Gyeongsan,North Gyeongsang,South Korea,Asia,,,,,243746,,1282985401,30.81%,,,,,,,,,
+Geoje,South Gyeongsang,South Korea,Asia,,,,,232891,,1283229147,30.82%,,,,,,,,,
+Tripoli,,Lebanon,Asia,,,,,227857,,1283462038,30.82%,,,,,,,,34.4,35.9
+Gangneung,Gangwon,South Korea,Asia,,,,,217494,,1283689895,30.83%,,,,,,,,,
+Blagoveshchensk,Amur Oblast,Russia,Asia,,,,,214309,,1283907389,30.83%,,,,,,,,50.25,127.5
+Chungju,North Chungcheong,South Korea,Asia,,,,,208266,,1284121698,30.84%,,,,,,,,36.95,127.95
+Altay,Xinjiang,China,Asia,,,,,190064,,1284121698,30.84%,,,,,,,,,
+Tikrit,,Iraq,Asia,,,,,182464,,1284520028,30.85%,,,,,,,,34.6,43.7
+Petropavlovsk-Kamchtasky,Kamchatka,Russia,Asia,,,,,181728,,1284702492,30.85%,,,,,,,,53,158.6
+Andong,North Gyeongsang,South Korea,Asia,,,,,168009,,1284884220,30.86%,,,,,,,,,
+Seosan,South Chungcheong,South Korea,Asia,,,,,161610,,1285052229,30.86%,,,,,,,,,
+Ussuriysk,,Russia,Asia,,,,,158004,,1285213839,30.86%,,,,,,,,43.8,132
+Lijiang,Yunnan,China,Asia,,,,,155540,,1285371843,30.87%,,,,,,,,,
+Dangjin,South Chungcheong,South Korea,Asia,,,,,151013,,1285527383,30.87%,,,,,,,,,
+Gwangyang,South Jeolla,South Korea,Asia,,,,,150565,,1285678396,30.87%,,,,,,,,,
+Nakhodka,,Russia,Asia,,,,,148826,,1285828961,30.88%,,,,,,,,42.85,132.9
+Sittwe,Rakhine State,Burma,Asia,,,,,147899,,1285977787,30.88%,,,,,,,,,
+Tongyeong,South Gyeongsang,South Korea,Asia,,,,,140140,,1286125686,30.88%,,,,,,,,,
+Jecheon,North Chungcheong,South Korea,Asia,,,,,137317,,1286265826,30.89%,,,,,,,,37.1,128.25
+Gimcheon,North Gyeongsang,South Korea,Asia,,,,,135421,,1286403143,30.89%,,,,,,,,,
+Nonsan,South Chungcheong,South Korea,Asia,,,,,127056,,1286538564,30.89%,,,,,,,,,
+Gongju,South Chungcheong,South Korea,Asia,,,,,124359,,1286665620,30.90%,,,,,,,,,
+Sejong,none,South Korea,Asia,,,,,122263,,1286789979,30.90%,,,,,,,,,
+Jeongeup,North Jeolla,South Korea,Asia,,,,,120114,,1286912242,30.90%,,,,,,,,,
+Sacheon,South Gyeongsang,South Korea,Asia,,,,,114654,,1287032356,30.91%,,,,,,,,,
+Yeongju,North Gyeongsang,South Korea,Asia,,,,,114446,,1287147010,30.91%,,,,,,,,,
+Miryang,South Gyeongsang,South Korea,Asia,,,,,109087,,1287261456,30.91%,,,,,,,,,
+Boryeong,South Chungcheong,South Korea,Asia,,,,,106106,,1287370543,30.91%,,,,,,,,,
+Sangju,North Gyeongsang,South Korea,Asia,,,,,104652,,1287476649,30.92%,,,,,,,,,
+Yeongcheon,North Gyeongsang,South Korea,Asia,,,,,103174,,1287581301,30.92%,,,,,,,,,
+Artyom,,Russia,Asia,,,,,102603,,1287684475,30.92%,,,,,,,,43.3333,132.15
+Magadan,Magadan,Russia,Asia,,,,,95982,,1287787078,30.92%,,,,,,,,59.5,150.8
+Donghae,Gangwon,South Korea,Asia,,,,,94617,,1287883060,30.93%,,,,,,,,,
+Gimje,North Jeolla,South Korea,Asia,,,,,92911,,1287977677,30.93%,,,,,,,,,
+Sokcho,Gangwon,South Korea,Asia,,,,,88723,,1288070588,30.93%,,,,,,,,,
+Naju,South Jeolla,South Korea,Asia,,,,,88094,,1288159311,30.93%,,,,,,,,,
+Namwon,North Jeolla,South Korea,Asia,,,,,87367,,1288247405,30.94%,,,,,,,,,
+Mungyeong,North Gyeongsang,South Korea,Asia,,,,,76045,,1288334772,30.94%,,,,,,,,,
+Birobidzhan,,Russia,Asia,,,,,75413,,1288410817,30.94%,,,,,,,,48.8,132.9
+Samcheok,Gangwon,South Korea,Asia,,,,,71825,,1288486230,30.94%,,,,,,,,,
+Taebaek,Gangwon,South Korea,Asia,,,,,49837,,1288558055,30.94%,,,,,,,,,
+Gyeryong,South Chungcheong,South Korea,Asia,,,,,42427,,1288607892,30.94%,,,,,,,,,

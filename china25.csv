@@ -1,0 +1,26 @@
+Name,Province,Population rank (core city),Population rank (Primary Statistical Area),Distance to closest larger Chinese Metropolitan Area (KM),Power,Population MetropolitanArea,Population MetroPower,Rolling population total,GDP per capita of Province,Distance from a foreign country (KM),Score,"If part of a larger city's transportation, city name",Closest City Name,Closest City Rank,Largest in Province?,Longitude,Latitude
+Guangzhou,Guangdong,,1,40000,40000,44294245,1771769800000,44294245,,,,,,,Yes,23.18333333,113.5
+Shanghai,Shanghai,,2,1230,615,35965403,44237445690,80259648,,,,,Guangzhou,1,Yes,31,122
+Chongqing,Chongqing,,3,1000,333.33,30165500,30165500000,110425148,,,,,Guangzhou,1,Yes,29.5,106.4
+Beijing,Beijing,,4,1100,275,21500000,23650000000,131925148,,,,,Shanghai,2,Yes,40,116.5
+Hangzhou,Zhejiang,,5,200,40,21102000,4220400000,153027148,,,,,Shanghai,2,Yes,30.25,120.25
+Wuhan,Hubei,,6,560,93.33,19780644,11077160640,172807792,,,,,Hangzhou,5,Yes,30.5,114.3333
+Chengdu,Sichuan,,7,270,38.57,18000000,4860000000,190807792,,,,,Chongqing,3,Yes,30.66667,104
+Tianjin,Tianjin,,8,130,16.25,16000000,2080000000,206807792,,,,,Beijing,4,Yes,39,117
+Shenzhen,Guangdong,,9,100,11.11,14668426,1466842600,221476218,,,,,Guangzhou,,,22.5,114
+Xi'an,Shaanxi,,10,560,56,13569700,7599032000,235045918,,,,,Chongqing,,Yes,34.25,108.75
+Jinan,Shandong,,11,275,25,13000000,3575000000,248045918,,,,,Tianjin,,Yes,36.5,117.1
+Nanjing,Jiangsu,,12,270,22.5,12652000,3416040000,260697918,,,,,Shanghai,,Yes,32,119
+Shenyang,Liaoning,,13,600,46.15,12263612,7358167200,272961530,,,,,Tianjin,,Yes,41.75,123.5
+Harbin,Heilongjiang,,14,530,37.86,12000000,6360000000,284961530,,,,,Shenyang,,Yes,45.9,126.5
+Shantou,Guangdong,,15,340,22.67,11630447,3954351980,296591977,,,,,Shenzhen,,,23.3333,116.75
+Wenzhou,Zhejiang,,16,270,16.88,9122102,2462967540,305714079,,,,,Hangzhou,,,28,120.6666
+Qingdao,Shandong,,17,300,17.65,9046200,2713860000,314760279,,,,,Jinan,,,36,120.5
+Quanzhou,Fujian,,18,330,18.33,8128533,2682415890,322888812,,,,,Shantou,,Yes,24.9,118.75
+Hong Kong,Hong Kong,,19,48,2.53,7374900,353995200,330263712,,,,,Shenzhen,,Yes,22.33333,114
+Changsha,Hunan,,20,560,28,7311500,4094440000,337575212,,,,,Guangzhou,,Yes,28.25,113
+Zhengzhou,Henan,,21,370,17.62,4867388,1800933560,342442600,,,,,Jinan,,,34.75,113.6666
+Fuzhou,Fujian,,22,200,9.09, ,893615200,346910676,,,,,Quanzhou,,,26.1,119.2
+Nanchang,Jiangxi,,23,300,13.04,4107962,1232388600,351018638,,,,,Changsha,,,28.666,115.9
+Dalian,Liaoning,,24,390,16.25,4087733,1594215870,355106371,,,,,Shenyang,,,38.9,121.5
+Taiyuan,Shanxi,,25,437,17.48,4062173,1775169601,359168544,,,,,Zhengzhou,,Yes,37.9,112.5

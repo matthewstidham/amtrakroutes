@@ -1,0 +1,27 @@
+Name,State,Country,Population rank (core city),Population rank (Primary Statistical Area),Power,Population MetropolitanArea,Population MetroPower,Rolling population total,% of Population,GDP per capita of Province,Distance from a foreign country (KM),Score,"If part of a larger city's transportation, city name",Closest City Name,Closest City Rank,Largest in Province?,Longitude,Latitude
+São Paulo,São Paulo,,,,,21242939,,,,,,,,,,,-23.3,-46.5
+Rio de Janeiro,Rio de Janeiro,,,,,12330186,,,,,,,,,,,-23,-43.25
+Belo Horizonte,Minas Gerais,,,,,5873841,,,,,,,,,,,-19.85,-43.9
+Distrito Federal e Entorno (Brasilia),Distrito Federal / Goiás / Minas Gerais,,,,,4284676,,,,,,,,,,,-15.7,-47.75
+Porto Alegre,Rio Grande do Sul,,,,,4276475,,,,,,,,,,,-30,-51.25
+Fortaleza,Ceará,,,,,4019213,,,,,,,,,,,-3.75,-38.5
+Salvador,Bahia,,,,,3984583,,,,,,,,,,,-13,-38.5
+Recife,Pernambuco,,,,,3940456,,,,,,,,,,,-8,-34.85
+Curitiba,Paraná,,,,,3537894,,,,,,,,,,,-25.45,-49.25
+Campinas,São Paulo,,,,,3131528,,,,,,,,,,,-22.9,-47.05
+Manaus,Amazonas,,,,,2568817,,,,,,,,,,,-3.1,-60
+Vale do Paraíba e Litoral Norte,São Paulo,,,,,2475879,,,,,,,,,,,-22.5,-44.15
+Goiânia,Goiás,,,,,2458504,,,,,,,,,,,-16.7,-49.25
+Belém,Pará,,,,,2422481,,,,,,,,,,,-1.5,-48.5
+Vitória,Espírito Santo,,,,,1935483,,,,,,,,,,,-20.25,-40.25
+Sorocaba,São Paulo,,,,,1908425,,,,,,,,,,,-23.5,-47.45
+Baixada Santista,São Paulo,,,,,1813033,,,,,,,,,,,-23.9,-46.4
+São Luís,Maranhão,,,,,1605305,,,,,,,,,,,-2.5,-44.25
+Natal,Rio Grande do Norte,,,,,1537211,,,,,,,,,,,-5.75,-35.2
+Piracicaba,São Paulo,,,,,1452691,,,,,,,,,,,-22.75,-47.6
+Norte/Nordeste Catarinense,Santa Catarina,,,,,1363854,,,,,,,,,,,-26.25,-49.35
+Maceió,Alagoas,,,,,1314254,,,,,,,,,,,-9.65,-44.1
+João Pessoa,Paraíba,,,,,1268360,,,,,,,,,,,-7.1,-34.85
+Teresina,Piauí / Maranhão,,,,,1199941,,,,,,,,,,,-5.1,-42.8
+Florianópolis,Santa Catarina,,,,,1152115,,,,,,,,,,,-27.59,-48.55
+Londrina,Paraná,,,,,1085479,,,,,,,,,,,-23.3,-51.15

@@ -1,0 +1,344 @@
+Name,State/Estado/Province,Country,Distance to closest larger city (KM),60 cities Region 190 km,60 cities Region 380 km,60 cities Region 475 km,100 cities Region 190 km,Population Rank,Rank Power,Population Primary Statistical Area,Population PSAPower,Rolling population total,Rolling Population Percent,"Politics 1 for Democrat, -1 for Republican, 2 for swing",Governor party D+ R-,Highest-ranked university ranking (US News) (200=0),GDP per capita of State,Closest National Park (KM),Distance from a foreign country (KM),Score,"If part of a larger city's transportation, city name",Closest City Name,Closest City Rank,Region,Current AMTRAK service?,Score Rank,Population PSA Rank,Number of Routes,Number of trains,Missing railroad?,Note,Longitude,Latitude
+New York,New York,United States,20000,Northeast,Northeast-New England,Eastern US,Eastern US,1,20000,23362099,467241980000,23362099,6.49%,1,1,4,59414,557,433,805,,,,Northeast,yes,1,1,7,,,,40.7,74
+Los Angeles,California,United States,4000,Southern California,Southern California,Southwest,California,2,2000,18238998,72955992000,41601097,11.56%,1,1,24,51374,215,195,705,,New York,1,Southwest,yes,2,2,5,,,,34,118.25
+Chicago,Illinois,United States,1200,,,Eastern US,Eastern US,3,400,9899902,11879882400,51500999,14.31%,1,1,4,50058,510,577,712,,New York,1,Midwest,yes,3,3,14,,,,42,87.75
+Washington/Baltimore,DC,United States,370,Mid-Atlantic,Northeast-New England,Eastern US,Eastern US,4,93,9331587,3452687190,60832586,16.90%,1,1,21,156367,100,464,1759,,New York,1,Mid-Atlantic,yes,7,9,5,,,,39,77
+San Jose/San Francisco,California,United States,500,Northern California,,Southwest,California,5,100,8370967,4185483500,69203553,19.22%,1,1,200,51374,200,690,529,,Los Angeles,2,Southwest,yes,6,8,2,,,,37.75,122.5
+Boston,Massachusetts,United States,340,Northeast,Northeast-New England,Eastern US,Eastern US,6,57,7991371,2717066140,77194924,21.44%,1,1,51,57332,300,300,738,,New York,1,Northeast,yes,11,11,5,,,,42.5,71
+Philadelphia,Pennsylvania,United States,150,Mid-Atlantic,Northeast-New England,Eastern US,Eastern US,7,21,7129428,1069414200,84324352,23.42%,2,1,8,45170,,,#DIV/0!,,Baltimore/Washington,4,Northeast,yes,17,18,7,,,,40,75
+Dallas (Fort Worth),Texas,United States,1300,,,Eastern US,Texas,8,163,6700991,8711288300,91025343,25.28%,-1,-1,58,47027,388,560,598,,Los Angeles,2,South,yes,4,4,7,,,,32.75,96.75
+Miami,Florida,United States,1000,Florida,,Eastern US,Eastern US,9,111,6375434,6375434000,97400777,27.06%,2,-1,44,39563,1,90,667,,Atlanta,10,South,yes,5,5,2,,,,25.75,80.25
+Houston,Texas,United States,370,,,Eastern US,Texas,10,37,6177035,2285502950,103577812,28.77%,-1,-1,17,47027,,,#DIV/0!,,Dallas,7,South,yes,13,13,4,,,,29.75,95.5
+Atlanta,Georgia,United States,900,,,Eastern US,Eastern US,11,82,6092295,5483065500,109670107,30.46%,-1,-1,20,41223,190,920,578,,Baltimore/Washington,4,South,yes,9,6,6,,,,33.75,84.5
+Toronto,Ontario,Canada,760,,,Eastern US,Eastern US,12,63,5928040,4505310400,115598147,32.11%,,,,,,,,,New York,,Canada,,,,,,,,43.6,79.4
+Detroit,Michigan,United States,370,MIchigan,Northeast-New England,Eastern US,Eastern US,13,28,5311449,1965236130,120909596,33.59%,1,1,200,37708,,,#DIV/0!,,Chicago,3,Midwest,yes,15,14,2,,,,42.5,83
+Seattle,Washington,United States,1131,,,Northwest,Northwest,14,81,4399332,4975644492,125308928,34.81%,1,1,46,45135,60,100,622,,Los Angeles,2,Northwest,yes,8,7,6,,,,47.5,122.25
+Phoenix,Arizona,United States,550,Arizona,,Southwest,Southwest,15,37,4329534,2381243700,129638462,36.01%,-1,-1,139,40305,,,#DIV/0!,,Los Angeles,2,Southwest,yes,12,12,2,,,,33.5,112
+Montreal,Quebec,Canada,495,,,Eastern US,Eastern US,16,31,4098927,2028968865,133737389,37.15%,,,,,,,,,Boston,,Canada,,,,,,,,45.5,73.34
+Minneapolis,Minnesota,United States,500,,,,,17,29,3759978,1879989000,137497367,38.19%,1,1,68,49972,,,#DIV/0!,,Chicago,3,Midwest,yes,14,15,6,,,,45,93.25
+Cleveland,Ohio,United States,300,,Northeast-New England,Eastern US,Eastern US,18,17,3497711,1049313300,140995078,39.17%,2,-1,37,41871,,,#DIV/0!,,Detroit,12,Midwest,yes,19,19,4,,,,41.5,81.75
+Denver,Colorado,United States,1000,,,Southwest,Colorado,19,53,3214218,3214218000,144209296,40.06%,1,1,83,50752,50,920,642,,Dallas,7,Southwest,yes,10,10,3,,,,39.75,105
+San Diego,California,United States,180,,,Southwest,California,20,9,3177063,571871340,147386359,40.94%,1,1,38,51374,,,#DIV/0!,,Los Angeles,2,Southwest,yes,29,29,3,,,,32.75,117
+Portland,Oregon,United States,220,,,Northwest,Northwest,21,10,2992924,658443280,150379283,41.77%,1,1,200,43622,,,#DIV/0!,,Seattle,,Northwest,yes,25,27,5,,,,45.5,122.75
+Orlando,Florida,United States,320,,,Eastern US,Eastern US,22,15,2920603,934592960,153299886,42.58%,2,-1,174,39563,,,#DIV/0!,,Miami,11,South,yes,20,20,9,,,,28.5,81.25
+St. Louis,Missouri,United States,430,,,Eastern US,,23,19,2900605,1247260150,156200491,43.39%,-1,-1,14,41041,,,#DIV/0!,,Chicago,3,Midwest,yes,18,17,4,,,,38.5,90.25
+Tampa,Florida,United States,120,,,Eastern US,Eastern US,24,5,2842878,341145360,159043369,44.18%,2,-1,170,39563,,,#DIV/0!,,Orlando,,South,yes,41,43,1,4,,,28,82.5
+Pittsburgh,Pennsylvania,United States,180,,,Eastern US,Eastern US,25,7,2661369,479046420,161704738,44.92%,2,-1,23,45170,,,#DIV/0!,,Cleveland,,Northeast,yes,31,31,2,,,,40.5,80
+Vancouver,British Columbia,Canada,230,,,Northwest,Northwest,26,9,2463431,566589130,164168169,45.60%,,,,,,,,,Seattle,,Northwest,,,,,,,,49.25,123.1
+Sacramento,California,United States,140,,,Southwest,California,27,5,2462722,344781080,166630891,46.29%,1,1,200,51374,,,#DIV/0!,,San Jose,,Southwest,yes,40,42,3,,,,38.5,121.5
+Charlotte,North Carolina,United States,370,,,Eastern US,Eastern US,28,13,2454619,908209030,169085510,46.97%,-1,-1,199,42190,,,#DIV/0!,,Atlanta,10,South,yes,21,21,3,,,,35.25,81
+Kansas City,Missouri,United States,380,,,Eastern US,Plains,29,13,2376631,903119780,171462141,47.63%,-1,-1,179,41041,,,#DIV/0!,,St. Louis,,Midwest,yes,22,22,5,,,,39,94.5
+Salt Lake City,Utah,United States,600,,,,,30,20,2350274,1410164400,173812415,48.28%,-1,-1,125,39563,,,#DIV/0!,,Denver,,Southwest,yes,16,16,4,,,,40.75,112
+Columbus,Ohio,United States,150,,,Eastern US,Eastern US,31,5,2348495,352274250,176160910,48.93%,2,-1,56,41871,,,#DIV/0!,,Cincinnati,,Midwest,,42,40,1,,,,40,83
+Indianapolis,Indiana,United States,150,,,Eastern US,Eastern US,32,5,2310360,346554000,178471270,49.58%,-1,-1,200,41062,,,#DIV/0!,,Chicago,3,Midwest,yes,43,41,2,,,,39.75,86.25
+Las Vegas,Nevada,United States,360,,,Southwest,Southwest,33,11,2247056,808940160,180718326,50.20%,2,-1,200,46818,,,#DIV/0!,,Los Angeles,,Southwest,,24,24,3,,,,36.25,115
+San Antonio,Texas,United States,311,,,Eastern US,Texas,34,9,2234003,694774933,182952329,50.82%,-1,-1,200,47027,,,#DIV/0!,,Houston,,South,yes,27,26,3,,,,29.25,98.5
+Cincinnati,Ohio,United States,370,,,Eastern US,Eastern US,35,11,2188001,809560370,185140330,51.43%,2,-1,139,41871,,,#DIV/0!,,Cleveland,,Midwest,yes,26,23,3,,,,39,84.5
+Milwaukee,Wisconsin,United States,130,,,Eastern US,Eastern US,36,4,2037542,264880460,187177872,51.99%,1,1,83,,,,#DIV/0!,,Chicago,,Midwest,yes,50,49,2,,,,43,88
+Raleigh,North Carolina,United States,210,,,Eastern US,Eastern US,37,6,1998808,419749680,189176680,52.55%,-1,-1,106,42190,,,#DIV/0!,,Charlotte,,South,yes,36,35,3,,,,35.75,78.5
+Nashville,Tennessee,United States,350,,,Eastern US,Eastern US,38,9,1845235,645832250,191021915,53.06%,-1,-1,17,,,,#DIV/0!,,Atlanta,,South,,28,28,5,,,,36.15,86.75
+Austin,Texas,United States,120,,,Eastern US,Texas,39,3,1834303,220116360,192856218,53.57%,-1,-1,46,,,,#DIV/0!,,San Antonio,,South,yes,56,53,1,,,,30.25,97.75
+Virginia Beach,Virginia,United States,250,,,Eastern US,Eastern US,40,6,1803080,450770000,194659298,54.07%,2,-1,200,,,,#DIV/0!,,Baltimore/Washington,,South,yes,33,32,1,,,,36.85,76
+Greensboro,North Carolina,United States,120,,,Eastern US,Eastern US,41,3,1611243,193349160,196270541,54.52%,-1,-1,189,42190,,,#DIV/0!,,Charlotte,,South,yes,57,56,2,,,,36,79.8
+Jacksonville,Florida,United States,200,,,Eastern US,Eastern US,42,5,1502515,300503000,197773056,54.94%,2,-1,200,39563,,,#DIV/0!,,Orlando,,South,yes,44,44,6,,,,30.3,81.6
+Hartford,Connecticut,United States,150,,,Eastern US,Eastern US,43,3,1488570,223285500,199261626,55.35%,1,1,200,65177,,,#DIV/0!,,New York,,Northeast,,52,50,4,,,,41.75,72.7
+Louisville,Kentucky,United States,150,,,Eastern US,Eastern US,44,3,1478637,221795550,200740263,55.76%,-1,-1,160,36942,,,#DIV/0!,,Cincinnati,,South,,53,51,2,,,,38.25,85.75
+New Orleans,Louisiana,United States,520,,,Eastern US,Louisiana/Arkansas,45,12,1452502,755301040,202192765,56.16%,-1,-1,51,46689,,,#DIV/0!,,Dallas,,South,yes,23,25,4,,,,30,90
+Grand Rapids,Michigan,United States,200,,,Eastern US,Eastern US,46,4,1395128,279025600,203587893,56.55%,2,-1,200,37708,,,#DIV/0!,,Detroit,,Midwest,yes,46,47,1,,,,43,85.5
+Calgary,Alberta,Canada,972,,,Alberta,Alberta,47,21,1392609,1353615948,204980502,56.94%,,,,,,,,,Vancouver,,Northwest,,,,,,,,51.05,114.06
+Greenville,South Carolina,United States,150,,,Eastern US,Eastern US,48,3,1384996,207749400,206365498,57.32%,-1,-1,199,,,,#DIV/0!,,Charlotte,,South,,55,54,2,,,,34.9,82.5
+Memphis,Tennessee,United States,310,,,Eastern US,Louisiana/Arkansas,49,6,1369548,424559880,207735046,57.70%,-1,-1,200,,,,#DIV/0!,,Nashville,,South,yes,32,33,3,,,,35,90
+Oklahoma City,Oklahoma,United States,310,,,Eastern US,Eastern US,50,6,1367325,423870750,209102371,58.08%,-1,-1,200,42331,,,#DIV/0!,,Dallas,,South,yes,34,34,3,,,,35.5,97.5
+Ottawa,Quebec,Canada,199,,,Eastern US,Eastern US,51,4,1323783,263432817,210426154,58.45%,,,,,,,,,Montreal,,Canada,,,,,,,,45.4,75.7
+Edmonton,Alberta,Canada,299,,,Alberta,Alberta,52,6,1321426,395106374,211747580,58.82%,,,,,,,,,Calgary,,Northwest,,,,,,,,53.54,113.5
+Birmingham,Alabama,United States,220,,,Eastern US,Eastern US,53,4,1309818,288159960,213057398,59.18%,-1,-1,151,36311,,,#DIV/0!,,Atlanta,,South,yes,45,45,3,,,,33.5,86.8
+Richmond,Virginia,United States,150,,,Eastern US,Eastern US,54,3,1231980,184797000,214289378,59.52%,2,-1,170,,,,#DIV/0!,,Virginia Beach,,South,yes,58,57,2,,,,37.5,77.5
+Harrisburg,Pennsylvania,United States,150,,,Eastern US,Eastern US,55,3,1228559,184283850,215517937,59.87%,2,-1,,45170,,,#DIV/0!,,Philadelphia,,Northeast,,59,58,1,,,,40.25,77
+Buffalo,New York,United States,300,,,Eastern US,Eastern US,56,5,1213668,364100400,216731605,60.20%,1,1,106,59414,,,#DIV/0!,,Cleveland,,Northeast,yes,39,37,1,,,,43,78.9
+Rochester,New York,United States,100,,,Eastern US,Eastern US,57,2,1177566,117756600,217909171,60.53%,1,1,,59414,,,#DIV/0!,,Buffalo,,Northeast,yes,78,70,1,,,,43,77.5
+Albany,New York,United States,130,,,Eastern US,Eastern US,58,2,1170483,152162790,219079654,60.86%,1,1,131,59414,,,#DIV/0!,,Hartford,,Northeast,,66,62,2,,,,42.5,73.75
+Albuquerque,New Mexico,United States,420,,,Southwest,Southwest,59,7,1162777,488366340,220242431,61.18%,1,-1,179,36020,,,#DIV/0!,,Denver,,Southwest,yes,30,30,2,,,,35,106.5
+Tulsa,Oklahoma,United States,150,,,Eastern US,Eastern US,60,3,1122259,168338850,221364690,61.49%,-1,-1,83,42331,,,#DIV/0!,,Oklahoma City,,South,,62,61,3,,,,36,96
+Fresno,California,United States,250,,,,California,61,4,1100113,275028250,222464803,61.80%,1,1,200,51374,,,#DIV/0!,,Sacramento,,Southwest,yes,48,48,1,,,,36.75,119.75
+Knoxville,Tennessee,United States,260,,,,Eastern US,62,4,1091370,283756200,223556173,62.10%,-1,-1,101,,,,#DIV/0!,,Nashville,,South,,47,46,2,,,,36,84
+Dayton,Ohio,United States,80,,,,Eastern US,63,1,1079417,86353360,224635590,62.40%,2,-1,,41871,,,#DIV/0!,,Cincinnati,,Midwest,,100,78,5,,,,39.75,84
+El Paso,Texas,United States,350,,,,,64,5,1045180,365813000,225680770,62.69%,-1,-1,200,,,,#DIV/0!,,Albuquerque,,South,yes,38,36,4,,,,31.75,106.5
+Tucson,Arizona,United States,170,,,,,65,3,1039697,176748490,226720467,62.98%,-1,-1,120,40305,,,#DIV/0!,,Phoenix,,Southwest,yes,61,60,1,,,,32.75,110.5
+Cape Coral,Florida,United States,100,,,,Eastern US,66,2,977720,97772000,227698187,63.25%,2,-1,,39563,,,#DIV/0!,,Sarasota,,South,,88,74,1,,,,26.5,82
+Chattanooga,Tennessee,United States,160,,,,Eastern US,67,2,936142,149782720,228634329,63.51%,-1,-1,,,,,#DIV/0!,,Atlanta,,South,,65,63,4,,,,35,85.25
+Omaha,Nebraska,United States,240,,,,Plains,68,4,922051,221292240,229556380,63.77%,-1,-1,200,48627,,,#DIV/0!,,Kansas City,,Plains,yes,51,52,3,,,,41.25,96
+Sarasota,Florida,United States,50,,,,Eastern US,69,1,917203,45860150,230473583,64.02%,2,-1,,39563,,,#DIV/0!,,Tampa,,South,,146,82,1,,,,27.3,82.5
+Columbia,South Carolina,United States,140,,,,Eastern US,70,2,913797,127931580,231387380,64.27%,-1,-1,,,,,#DIV/0!,,Charlotte,,South,,73,68,1,,,,34,81
+Little Rock,Arkansas,United States,200,,,,Louisiana/Arkansas,71,3,893610,178722000,232280990,64.52%,-1,1,200,36011,,,#DIV/0!,,Memphis,,South,yes,60,59,2,,,,34.75,92.25
+McAllen,Texas,United States,410,,,,,72,6,868167,355948470,233149157,64.76%,-1,-1,200,,,,#DIV/0!,,San Antonio,,South,,37,39,1,,,,26.25,98.25
+Bakersfield,California,United States,160,,,,California,73,2,856158,136985280,234005315,65.00%,1,1,200,51374,,,#DIV/0!,,Los Angeles,,Southwest,yes,71,65,1,,,,35.333,119
+Madison,Wisconsin,United States,120,,,,Eastern US,74,2,843793,101255160,234849108,65.24%,2,-1,,,,,#DIV/0!,,Chicago,,Midwest,,84,72,2,,,,43,89.5
+Baton Rouge,Louisiana,United States,120,,,,Louisiana/Arkansas,75,2,815298,97835760,235664406,65.46%,-1,-1,,46689,,,#DIV/0!,,New Orleans,,South,yes,86,73,1,,,,30.75,91
+Quebec City,Quebec,Canada,254,,,,Eastern US,76,3,800296,203275184,236464702,65.68%,,,,,,,,,Quebec,,Canada,,,,,,,,46.8,71.2
+Modesto,California,United States,40,,,,California,77,1,784031,31361240,237248733,65.90%,1,1,,51374,,,#DIV/0!,,Stockton,,Southwest,,182,86,1,,,,37.5,121
+Winnipeg,Manitoba,Canada,456,,,,,78,6,778489,354990984,238027222,66.12%,,,,,,,,,Minneapolis,,Midwest,,,,,,,,49.9,97.13
+Hamilton,Ontario,Canada,287,,,,Eastern US,79,4,747545,214545415,238774767,66.33%,,,,,,,,,Toronto,,Canada,,,,,,,,43.25,79.85
+Des Moines,Iowa,United States,200,,,,Plains,80,3,742936,148587200,239517703,66.53%,2,-1,200,48073,,,#DIV/0!,,Minneapolis,,Midwest,,63,64,2,,,,41.5,93.5
+Syracuse,New York,United States,120,,,,Eastern US,81,1,740486,88858320,240258189,66.74%,1,1,,59414,,,#DIV/0!,,Rochester,,Northeast,yes,89,76,2,,,,43,76
+South Bend,Indiana,United States,110,,,,Eastern US,82,1,721296,79342560,240979485,66.94%,-1,-1,,41062,,,#DIV/0!,,Chicago,3,Midwest,,93,87,3,,,,41.75,86.25
+Boise,Idaho,United States,500,,,,,83,6,717388,358694000,241696873,67.14%,-1,-1,200,34754,,,#DIV/0!,,Portland,,Northwest,,35,38,1,,,,43.5,116
+Charleston,West Virginia,United States,200,,,,Eastern US,84,2,705264,141052800,242402137,67.33%,-1,-1,,,,,#DIV/0!,,Columbus,,Mid-Atlantic,,64,88,2,,,,38.5,81.5
+Lexington,Kentucky,United States,110,,,,Eastern US,85,1,703271,77359810,243105408,67.53%,-1,-1,,36942,,,#DIV/0!,,Louisville,,South,,97,79,2,,,,38,84.5
+Charleston,South Carolina,United States,280,,,,Eastern US,86,3,697439,195282920,243802847,67.72%,-1,-1,200,,,,#DIV/0!,,Columbia,,South,,54,55,1,,,,32.75,80
+Springfield,Massachusetts,United States,38,,,,Eastern US,87,0,697258,26495804,244500105,67.92%,1,1,,57332,,,#DIV/0!,,Boston,,Northeast,yes,197,85,1,,,,42.1,72.5
+Huntsville,Alabama,United States,130,,,,Eastern US,88,1,679743,88366590,245179848,68.11%,-1,-1,,36311,,,#DIV/0!,,Birmingham,,South,,90,77,1,,,,34.75,86.5
+Spokane,Washington,United States,360,,,,,89,4,674610,242859600,245854458,68.29%,1,1,,45135,,,#DIV/0!,,Seattle,,Northwest,yes,49,89,4,,,,47.6,117.5
+Wichita,Kansas,United States,200,,,,Texas,90,2,672393,134478600,246526851,68.48%,-1,-1,200,44758,,,#DIV/0!,,Kansas City,,Plains,,67,66,3,,,,37.75,97.3333
+Jackson,Mississippi,United States,200,,,,Louisiana/Arkansas,91,2,669133,133826600,247195984,68.67%,-1,-1,,33199,,,#DIV/0!,,Baton Rouge,,South,yes,69,67,3,,,,32.25,90.25
+Colorado Springs,Colorado,United States,100,,,,Colorado,92,1,668353,66835300,247864337,68.85%,2,1,,50752,,,#DIV/0!,,Denver,,Southwest,,111,80,1,,,,39,104.75
+Youngstown,Pennsylvania,United States,56,,,,Eastern US,93,1,664713,37223928,248529050,69.04%,2,-1,,45170,,,#DIV/0!,,Pittsburgh,,Northeast,,165,83,1,,,,40.25,79.3333
+Toledo,Ohio,United States,80,,,,Eastern US,94,1,650050,52004000,249179100,69.22%,2,-1,,41871,,,#DIV/0!,,Detroit,12,Midwest,yes,132,81,3,,,,41.6666,83.6
+Portland,Maine,United States,170,,,,Eastern US,95,2,625726,106373420,249804826,69.39%,1,1,,40060,,,#DIV/0!,,Boston,,Northeast,,79,71,1,,,,43.7,70.25
+Fort Wayne,Indiana,United States,150,,,,Eastern US,96,2,616785,92517750,250421611,69.56%,-1,-1,,41062,,,#DIV/0!,,Indianapolis,,Midwest,,87,75,1,,,,41,85
+Lakeland,Florida,United States,50,,,,Eastern US,97,1,616158,30807900,251037769,69.73%,2,-1,,39563,,,#DIV/0!,,Tampa,,South,,184,84,1,,,,28,82
+Lafayette,Louisiana,United States,88,,,,Louisiana/Arkansas,98,1,611774,53836112,251649543,69.90%,-1,-1,,46689,,,#DIV/0!,,Indianapolis,,South,,124,90,2,,,,30.25,92
+Mobile,Alabama,United States,210,,,,Eastern US,99,2,604726,126992460,252254269,70.07%,-1,-1,,36311,,,#DIV/0!,,New Orleans,,South,yes,72,69,3,,,,30.75,88
+Visalia,California,United States,60,,,,California,100,1,603341,36200460,252857610,70.24%,1,1,,51374,,,#DIV/0!,,Fresno,52,Southwest,,166,91,1,,,,36.3,119.25
+Reno,Nevada,United States,180,,,,,101,2,587004,105660720,253444614,70.40%,2,-1,,46818,,,#DIV/0!,,Sacramento,,Southwest,yes,80,92,1,,,,39.5,119.75
+Augusta,Georgia,United States,100,,,,,102,1,575898,57589800,254020512,70.56%,-1,-1,,41223,,,#DIV/0!,,Atlanta,10,South,,117,93,2,,,,33.5,82
+Scranton,Pennsylvania,United States,90,,,,,103,1,563629,50726610,254584141,70.72%,2,-1,,45170,,,#DIV/0!,,New York,,Northeast,,126,94,2,,,,41.5,75.6666
+Palm Bay,Florida,United States,90,,,,,104,1,547307,49257630,255131448,70.87%,2,-1,,39563,,,#DIV/0!,,Orlando,,South,,129,95,1,,,,28,80.6666
+Fayetteville,North Carolina,United States,90,,,,,105,1,546175,49155750,255677623,71.02%,-1,-1,,42190,,,#DIV/0!,,,,South,,134,96,3,,,,35,79
+Lansing,Michigan,United States,95,,,,,106,1,534964,50821580,256212587,71.17%,2,-1,,37708,,,#DIV/0!,,Grand Rapids,,Midwest,,125,97,1,,,,42.75,84.5
+Springfield,Missouri,United States,146,,,,,107,1,529141,77254586,256741728,71.32%,-1,-1,,41041,,,#DIV/0!,,Kansas City,,Midwest,,95,98,1,,,,42.2,72.5
+Lancaster,Pennsylvania,United States,36,,,,,108,0,526823,18965628,257268551,71.46%,2,-1,,45170,,,#DIV/0!,,,,Northeast,,218,99,1,,,,40,76.25
+Kalamazoo,Michigan,United States,100,,,,,109,1,525929,52592900,257794480,71.61%,2,-1,,37708,,,#DIV/0!,,Grand Rapids,,Midwest,,123,100,1,,,,42.25,85.6
+Kitchener-Cambridge-Waterloo,Ontario,Canada,63,,,,,110,1,523894,33005322,258318374,71.76%,,,,,,,,,Hamilton,,Canada,,,,,,,,43.45,80.48
+Savannah,Georgia,United States,150,,,,,111,1,516154,77423100,258834528,71.90%,-1,-1,,41223,,,#DIV/0!,,,,South,,96,101,5,,,,32,81
+Corpus Christi,Texas,United States,180,,,,,112,2,511319,92037420,259345847,72.04%,-1,-1,,,,,#DIV/0!,,,,South,,83,102,1,,,,27.75,97.5
+Johnson City,Tennessee,United States,145,,,,,113,1,509690,73905050,259855537,72.18%,-1,-1,,,,,#DIV/0!,,,,South,,103,103,1,,,,36.33333,82.33
+London,Ontario,Canada,110,,,,,114,1,494069,54347590,260349606,72.32%,,,,,,,,,Kitchener,,Canada,,,,,,,,42.9837,81.2497
+Columbus,Georgia,United States,150,,,,,115,1,491852,73777800,260841458,72.46%,-1,-1,,41223,,,#DIV/0!,,,,South,,98,104,1,,,,32.5,85
+Fayetteville,Arkansas,United States,160,,,,,116,1,482200,77152000,261323658,72.59%,-1,1,,36011,,,#DIV/0!,,,,South,,92,105,2,,,,36,94
+Davenport,Iowa,United States,140,,,,,117,1,474226,66391640,261797884,72.72%,2,-1,,48073,,,#DIV/0!,,Chicago,,Midwest,,107,106,1,,,,41.5,90.5
+Asheville,North Carolina,United States,80,,,,,118,1,465255,37220400,262263139,72.85%,-1,-1,,42190,,,#DIV/0!,,,,South,,155,107,1,,,,35.5,82.5
+Pensacola,Florida,United States,90,,,,,119,1,461227,41510430,262724366,72.98%,2,-1,,39563,,,#DIV/0!,,,,South,,140,108,1,,,,30.5,87.25
+Myrtle Beach,South Carolina,United States,110,,,,,120,1,454731,50020410,263179097,73.11%,-1,-1,,,,,#DIV/0!,,,,South,,121,109,,,indirect,,33.75,79
+Shreveport,Louisiana,United States,270,,,,,121,2,447193,120742110,263626290,73.23%,-1,-1,,46689,,,#DIV/0!,,Dallas,,South,,68,110,1,,,,32.5,93.75
+Rockford,Illinois,United States,90,,,,,122,1,445816,40123440,264072106,73.35%,1,1,,50058,,,#DIV/0!,,Chicago,3,Midwest,,143,111,1,,,,42.25,89
+Brownsville,Texas,United States,80,,,,,123,1,437615,35009200,264509721,73.47%,-1,-1,,,,,#DIV/0!,,,,South,,159,112,1,,,,26,97.5
+Santa Barbara,California,United States,140,,,,,124,1,431249,60374860,264940970,73.59%,1,1,,51374,,,#DIV/0!,,Los Angeles,,Southwest,,110,113,1,,,,34.5,119.75
+Salinas,California,United States,75,,,,,125,1,426762,32007150,265367732,73.71%,1,1,,51374,,,#DIV/0!,,San Jose,,Southwest,,167,114,1,,,,36.6666,121.6666
+Killeen,Texas,United States,100,,,,,126,1,420375,42037500,265788107,73.83%,-1,-1,,,,,#DIV/0!,,,,South,,137,115,1,,,,31,97.75
+Cedar Rapids,Iowa,United States,110,,,,,127,1,419992,46199120,266208099,73.95%,2,-1,,48073,,,#DIV/0!,,Davenport,,Midwest,,128,116,1,,,,42,91.6666
+Macon,Georgia,United States,120,,,,,128,1,418201,50184120,266626300,74.06%,-1,-1,,41223,,,#DIV/0!,,,,South,,119,117,2,2,,,32.8,83.66666
+Peoria,Illinois,United States,120,,,,,129,1,417098,50051760,267043398,74.18%,1,1,,50058,,,#DIV/0!,,Rockford,,Midwest,,99,118,3,,,,40.75,89.5
+Hickory,North Carolina,United States,80,,,,,130,1,408625,32690000,267452023,74.29%,-1,-1,,42190,,,#DIV/0!,,,,South,,164,119,1,,,,35.75,81.33333
+St. Catherine's,Ontario,Canada,50,,,,,131,0,406074,20303700,267858097,74.41%,,,,,,,,,Buffalo,,Canada,,,,,,,,43.2,79.24
+Beaumont,Texas,United States,130,,,,,132,1,404180,52543400,268262277,74.52%,-1,-1,,,,,#DIV/0!,,,,South,,116,120,1,,,,30,94
+Halifax,Nova Scotia,Canada,890,,,,,133,7,403390,359017100,268665667,74.63%,,,,,,,,,Portland ME,,,,,,,,,,44.515,63.506
+Tallahassee,Florida,United States,250,,,,,134,2,402880,100720000,269068547,74.74%,2,-1,,39563,,,#DIV/0!,,,,South,,77,121,1,1,,,30.5,84.25
+Appleton,Wisconsin,United States,140,,,,,135,1,397244,55614160,269465791,74.85%,2,-1,,,,,#DIV/0!,,Davenport,,Midwest,,114,122,1,,,,44.25,88.5
+Saginaw,Michigan,United States,100,,,,,136,1,389110,38911000,269854901,74.96%,2,-1,,37708,,,#DIV/0!,,,,Midwest,,144,123,1,,,,43.5,84
+Salisbury,Maryland,United States,30,,,,,137,0,381868,11456040,270236769,75.07%,1,1,,,,,#DIV/0!,,,,Mid-Atlantic,,232,124,1,,,,38.666,75.5
+Oshawa,Ontario,Canada,61,,,,,138,0,379848,23170728,270616617,75.17%,,,,,,,,,Toronto,,,,,,,,,,43.9,78.85
+Gulfport,Mississippi,United States,120,,,,,139,1,379582,45549840,270996199,75.28%,-1,-1,,33199,,,#DIV/0!,,,,South,,127,125,2,,,,30.5,89
+Montgomery,Alabama,United States,120,,,,,140,1,377149,45257880,271373348,75.38%,-1,-1,,36311,,,#DIV/0!,,,,South,,130,126,3,,,,32.3333,86.25
+Erie,Pennsylvania,United States,120,,,,,141,1,368244,44189280,271741592,75.48%,2,-1,,45170,,,#DIV/0!,,,,Northeast,,133,127,1,,,,42,80
+Victoria,British Columbia,Canada,,,,,,142,0,367770,0,272109362,75.59%,,,,,,,,,,,,,,,,,,,,
+Green Bay,Wisconsin,United States,40,,,,,143,0,357045,14281800,272466407,75.69%,2,-1,,,,,#DIV/0!,,,,Midwest,,225,128,1,,,,44.5,88
+Eugene,Oregon,United States,100,,,,,144,1,354542,35454200,272820949,75.78%,1,1,,43622,,,#DIV/0!,,Salem,,Northwest,,150,129,3,,,,44,123
+Gainesville,Florida,United States,60,,,,,145,0,336198,20171880,273157147,75.88%,2,-1,,39563,,,#DIV/0!,,,,South,,201,130,2,3,,,29.6666,89.3333
+Ocala,Florida,United States,100,,,,,146,1,335125,33512500,273492272,75.97%,2,-1,,39563,,,#DIV/0!,,,,South,,152,131,2,3,,,29.18,82.1
+Lincoln,Nebraska,United States,75,,,,,147,1,332148,24911100,273824420,76.06%,-1,-1,,48627,,,#DIV/0!,,Omaha,,Plains,,186,132,3,,,,40.8,96.6666
+Windsor,Ontario,Canada,4,,,,,148,0,329144,1316576,274153564,76.15%,,,,,,,,,Detroit,,,,,,,,,,42.29,83
+Lubbock,Texas,United States,558,,,,,149,4,320741,178973478,274474305,76.24%,-1,-1,,,,,#DIV/0!,,El Paso,,South,,70,133,1,,,,33.5,101.85
+Springfield,Illinois,United States,110,,,,,150,1,317206,34892660,274791511,76.33%,1,1,,50058,,,#DIV/0!,,,,Midwest,,142,134,4,,,,39.66666,89.6
+Evansville,Indiana,United States,180,,,,,151,1,313433,56417940,275104944,76.42%,-1,-1,,41062,,,#DIV/0!,,,,Midwest,,106,135,1,,,,38,87.5
+Fort Collins,Colorado,United States,90,,,,,152,1,310487,27943830,275415431,76.50%,2,1,,50752,,,#DIV/0!,,Denver,,Southwest,,168,136,1,,,,40.5,105
+Roanoke,Virginia,United States,130,,,,,153,1,310118,40315340,275725549,76.59%,2,-1,,,,,#DIV/0!,,,,South,,131,137,1,,,,37.25,79.9
+Rocky Mount,North Carolina,United States,60,,,,,154,0,308963,18537780,276034512,76.68%,-1,-1,,42190,,,#DIV/0!,,,,South,,207,138,1,,,,36,77.75
+Wausau,Wisconsin,United States,120,,,,,155,1,307984,36958080,276342496,76.76%,2,-1,,,,,#DIV/0!,,,,Midwest,,138,139,1,,,Station located in Stevens Point,45,89.5
+Utica,New York,United States,80,,,,,156,1,298064,23845120,276640560,76.84%,1,1,,59414,,,#DIV/0!,,,,Northeast,,183,140,1,,,,43,75.25
+Midland-Odessa,Texas,United States,200,,,,,157,1,295987,59197400,276936547,76.93%,-1,-1,,,,,#DIV/0!,,,,South,,101,141,1,,,,32,102
+Saskatoon,Saskatchewan,Canada,524,,,,,158,3,295095,154629780,277231642,77.01%,,,,,,,,,Edmonton,,,,,,,,,,52.14,106.68
+Medford,Oregon,United States,300,,,,,159,2,289342,86802600,277520984,77.09%,1,1,,43622,,,#DIV/0!,,Eugene,,Northwest,,76,142,1,,,,42.33,122.9
+Longview,Texas,United States,100,,,,,160,1,284129,28412900,277805113,77.17%,-1,-1,,,,,#DIV/0!,,,,South,,162,143,1,,,,32.5,94.75
+Fort Smith,Arkansas,United States,75,,,,,161,0,280521,21039075,278085634,77.25%,-1,1,,36011,,,#DIV/0!,,,,South,,193,144,1,,,,35.67,94.35
+Amarillo,Texas,United States,200,,,,,162,1,279500,55900000,278365134,77.32%,-1,-1,,,,,#DIV/0!,,,,South,,104,145,2,,,,35.18,101.83
+Duluth,Minnesota,United States,220,,,,,163,1,279452,61479440,278644586,77.40%,1,1,,49972,,,#DIV/0!,,Minneapolis,,Midwest,,94,146,1,,,,46.1,92.1
+San Luis Obispo,California,United States,150,,,,,164,1,274804,41220600,278919390,77.48%,1,1,,51374,,,#DIV/0!,,Salinas,,Southwest,,122,148,1,,,,35.2,120.666
+Clarksville,Tennessee,United States,70,,,,,164,0,274804,19236280,279194194,77.55%,-1,-1,,,,,#DIV/0!,,,,South,,198,147,1,,,,36.9,87.5
+Kennewick,Washington,United States,200,,,,,166,1,268243,53648600,279462437,77.63%,1,1,,45135,,,#DIV/0!,,Spokane,,Northwest,,105,149,4,,,,46.2,119.18
+Tyler,Texas,United States,60,,,,,167,0,266027,15961620,279728464,77.70%,-1,-1,,,,,#DIV/0!,,,,South,,212,150,1,,,,32.3333,95.3
+Bloomsburg,Pennsylvania,United States,90,,,,,168,1,264295,23786550,279992759,77.78%,,,,,,,,,,,Northeast,,244,151,1,,,,41,76.455
+Wilmington,North Carolina,United States,130,,,,,169,1,263429,34245770,280256188,77.85%,-1,-1,,42190,,,#DIV/0!,,,,South,,139,152,2,,,,34.2,77.9
+Laredo,Texas,United States,180,,,,,170,1,259172,46650960,280515360,77.92%,-1,-1,,,,,#DIV/0!,,,,South,,113,153,2,,,,27.9,99.5
+Waco,Texas,United States,80,,,,,171,0,256317,20505360,280771677,77.99%,-1,-1,,,,,#DIV/0!,,,,South,,194,154,1,,,,31.5,97.18
+Lynchburg,Virginia,United States,70,,,,,172,0,255342,17873940,281027019,78.06%,2,-1,,,,,#DIV/0!,,,,South,,202,155,2,,,,37.4,79.18
+Monroe,Louisiana,United States,160,,,,,173,1,252294,40367040,281279313,78.13%,-1,-1,,46689,,,#DIV/0!,,,,South,,120,156,1,,,,32.5,92.1
+Dothan,Alabama,United States,130,,,,,174,1,249316,32411080,281528629,78.20%,-1,-1,,36311,,,#DIV/0!,,,,South,,141,157,1,,,,31.2,85.4
+Rochester,Minnesota,United States,120,,,,,175,1,248979,29877480,281777608,78.27%,1,1,,49972,,,#DIV/0!,,Minneapolis,,Midwest,,153,158,1,,,,44,92.5
+Binghamton,New York,United States,60,,,,,176,0,248538,14912280,282026146,78.34%,1,1,,59414,,,#DIV/0!,,,,Northeast,,216,159,1,,,,42.1,75.9
+Crestview,Florida,United States,90,,,,,177,1,247665,22289850,282273811,78.41%,2,-1,,39563,,,#DIV/0!,,,,South,,187,160,1,,,,30.75,86.5
+Harrisonburg,Virginia,United States,170,,,,,178,1,247058,41999860,282520869,78.48%,,,,,,,,,,,South,,245,161,1,,,,38.4,78.9
+Yakima,Washington,United States,110,,,,,179,1,246977,27167470,282767846,78.55%,1,1,,45135,,,#DIV/0!,,Kennewick,,Northwest,,163,162,1,,,,46.55,120.5
+Redding,California,United States,100,,,,,180,1,241992,24199200,283009838,78.61%,1,1,,51374,,,#DIV/0!,,Chico,,Southwest,,173,163,2,,,,40.55,122.36
+Lafayette,Indiana,United States,100,,,,,181,1,239434,23943400,283249272,78.68%,-1,-1,,41062,,,#DIV/0!,,,,Midwest,,175,164,1,1,,,40.45,86.9
+Fargo,North Dakota,United States,350,,,,,182,2,239114,83689900,283488386,78.75%,-1,-1,,,,,#DIV/0!,,,,Plains,,75,165,3,,,,46.9,96.85
+Sioux Falls,South Dakota,United States,260,,,,,183,1,237251,61685260,283725637,78.81%,-1,-1,,,,,#DIV/0!,,,,Plains,,91,166,2,3,,,43.5,96.75
+State College,Pennsylvania,United States,100,,,,,184,1,236355,23635500,283961992,78.88%,2,-1,,45170,,,#DIV/0!,,,,Northeast,,177,167,1,1,,,40.8,77.84
+Topeka,Kansas,United States,90,,,,,185,0,234566,21110940,284196558,78.94%,-1,-1,,44758,,,#DIV/0!,,Kansas City,,Plains,,189,168,5,,,,39,95.667
+College Station,Texas,United States,120,,,,,186,1,234501,28140120,284431059,79.01%,-1,-1,,,,,#DIV/0!,,,,South,,161,169,2,2,,,30.5,96.3
+Champaign-Urbana,Illinois,United States,130,,,,,187,1,233788,30392440,284664847,79.07%,1,1,,50058,,,#DIV/0!,,,,Midwest,,151,170,1,,,,40,88.25
+Tuscaloosa,Alabama,United States,80,,,,,188,0,233389,18671120,284898236,79.14%,-1,-1,,36311,,,#DIV/0!,,,,South,,199,171,2,,,,33.20654,87.534
+Idaho Falls,Idaho,United States,300,,,,,189,2,231995,69598500,285130231,79.20%,-1,-1,,34754,,,#DIV/0!,,Boise,,Northwest,,85,172,1,,,,43.5,112
+Bloomington,Illinois,United States,60,,,,,190,0,227362,13641720,285357593,79.27%,1,1,,50058,,,#DIV/0!,,,,Midwest,,220,173,1,,,,40.5,89
+Charlottesville,Virginia,United States,60,,,,,191,0,222860,13371600,285580453,79.33%,2,-1,,,,,#DIV/0!,,,,South,,180,174,2,,,,38.0299,78.479
+Chico,California,United States,130,,,,,192,1,221539,28800070,285801992,79.39%,1,1,,51374,,,#DIV/0!,,,,Southwest,,157,175,2,,,,39.75,121.82
+Lima,Ohio,United States,100,,,,,193,1,220591,22059100,286022583,79.45%,2,-1,,41871,,,#DIV/0!,,,,Midwest,,185,176,2,,,,40.75,84.1
+Greenville,North Carolina,United States,130,,,,,194,1,220061,28607930,286242644,79.51%,-1,-1,,42190,,,#DIV/0!,,,,South,,158,177,2,,,,35.6,77.35
+Columbia,Missouri,United States,160,,,,,195,1,219486,35117760,286462130,79.57%,-1,-1,,41041,,,#DIV/0!,,,,Midwest,,135,178,1,,,Joint station with Jefferson City located in Jefferson City,38.95,92.333
+Johnstown,Pennsylvania,United States,90,,,,,196,0,218541,19668690,286680671,79.63%,,,,,,,,,,,Northeast,,246,179,2,,,,40.333,78.9
+Mansfield,Ohio,United States,100,,,,,197,1,218414,21841400,286899085,79.69%,2,-1,,41871,,,#DIV/0!,,,,Midwest,,188,180,1,,,,40.75,82.5
+Claremont,New Hampshire,United States,70,,,,,198,0,217390,15217300,287116475,79.75%,,,,,,,#DIV/0!,,,,Northeast,,214,181,,,,,43.36,72.3333
+Bowling Green,Kentucky,United States,98,,,,,199,0,214831,21053438,287331306,79.81%,,,,,,,,,,,South,,247,182,2,,,,37,86.5
+Burlington,Vermont,United States,200,,,,,200,1,213701,42740200,287545007,79.87%,1,1,,,,,#DIV/0!,,,,Northeast,,115,183,1,,,,44.45,73.2
+Prescott,Arizona,United States,120,,,,,201,1,212637,25516440,287757644,79.93%,-1,-1,,40305,,,#DIV/0!,,,,Southwest,,169,184,1,,,,34.5,112.5
+Houma,Louisiana,United States,80,,,,,202,0,208922,16713760,287966566,79.99%,-1,-1,,46689,,,#DIV/0!,,,,South,,208,185,,,,,29.5,90.7
+Bloomington,Indiana,United States,75,,,,,203,0,208477,15635775,288175043,80.05%,-1,-1,,41062,,,#DIV/0!,,,,Midwest,,211,186,1,,,,39.1,86.5
+Eau Claire,Wisconsin,United States,140,,,,,204,1,207671,29073940,288382714,80.11%,2,-1,,,,,#DIV/0!,,,,Midwest,,156,187,3,4,,,44.85,91.5
+Pueblo,Colorado,United States,70,,,,,205,0,207640,14534800,288590354,80.16%,2,1,,50752,,,#DIV/0!,,Colorado Springs,,Southwest,,217,188,1,,,,38.2,104.6
+Joplin,Missouri,United States,120,,,,,206,1,206563,24787560,288796917,80.22%,-1,-1,,41041,,,#DIV/0!,,,,Midwest,,170,189,2,,,,37.1,94.5
+Florence,South Carolina,United States,100,,,,,207,0,206087,20608700,289003004,80.28%,-1,-1,,,,,#DIV/0!,,,,South,,191,190,1,,,,34.2,79.75
+Bellingham,Washington,United States,150,,,,,208,1,205262,30789300,289208266,80.34%,1,1,,45135,,,#DIV/0!,,Seattle,,Northwest,,147,191,2,2,,,48.75,122.474975
+Lake Charles,Louisiana,United States,100,,,,,209,0,201195,20119500,289409461,80.39%,-1,-1,,46689,,,#DIV/0!,,,,South,,192,192,1,,,,30.2,93.2
+Yuma,Arizona,United States,200,,,,,210,1,200022,40004400,289609483,80.45%,-1,-1,,40305,,,#DIV/0!,,,,Southwest,,118,193,1,2,,,32.7,114.6
+New Bern,North Carolina,United States,170,,,,,211,1,195751,33277670,289805234,80.50%,,,,,,,,,Fayetteville,,South,,,,1,,,,35.1,77
+Hilton Head,South Carolina,United States,40,,,,,212,0,193882,7755280,289999116,80.56%,-1,-1,,,,,#DIV/0!,,,,South,,238,194,,,,,32.16,80.75
+Fairmont,West Virginia,United States,110,,,,,213,1,190842,20992620,290189958,80.61%,-1,-1,,,,,#DIV/0!,,,,Mid-Atlantic,,195,219,1,,,,39.5,80.15
+Elmira,New York,United States,80,,,,,214,0,187974,15037920,290377932,80.66%,,,,,,,,,Binghampton,,Northeast,,,,,,,,42.1,76.8
+Panama City,Florida,United States,120,,,,,215,1,187621,22514520,290565553,80.71%,2,-1,,39563,,,#DIV/0!,,,,South,,172,195,,,,Out of the way for east-west traffic,,
+Jacksonville,North Carolina,United States,60,,,,,216,0,183263,10995780,290748816,80.76%,-1,-1,,42190,,,#DIV/0!,,New Bern,,South,,210,196,,,,,,
+Sioux City,Iowa,United States,120,,,,,217,1,183052,21966240,290931868,80.81%,2,-1,,48073,,,#DIV/0!,,,,Midwest,,181,210,1,,,,,
+Bend,Oregon,United States,140,,,,,218,1,183006,25620840,291114874,80.87%,1,1,,43622,,,#DIV/0!,,Eugene,,Northwest,,160,197,1,,,,,
+Blacksburg,Virginia,United States,50,,,,,219,0,178933,8946650,291293807,80.91%,2,-1,,,,,#DIV/0!,,,,South,,226,205,1,,,,,
+El Centro,California,United States,88,,,,,220,0,176948,15571424,291470755,80.96%,1,1,,51374,,,#DIV/0!,,,,Southwest,,205,198,1,,,,,
+Terre Haute,Indiana,United States,110,,,,,221,0,172493,18974230,291643248,81.01%,-1,-1,,41062,,,#DIV/0!,,,,Midwest,,213,199,1,,,,,
+Waterloo,Iowa,United States,90,,,,,222,0,168747,15187230,291811995,81.06%,2,-1,,48073,,,#DIV/0!,,,,Midwest,,203,200,1,,,,,
+Jonesboro,Arkansas,United States,100,,,,,223,0,167205,16720500,291979200,81.11%,-1,1,,36011,,,#DIV/0!,,,,South,,196,201,2,,,,,
+Abilene,Texas,United States,240,,,,,224,1,166963,40071120,292146163,81.15%,-1,-1,,,,,#DIV/0!,,,,South,,112,202,2,,,,,
+Rapid City,South Dakota,United States,450,,,,,225,2,163135,73410750,292309298,81.20%,-1,-1,,,,,#DIV/0!,,,,Plains,,81,232,2,3,,,,
+Billings,Montana,United States,450,,,,,226,2,162848,73281600,292472146,81.24%,,,,,,,#DIV/0!,,,,Northwest,,74,207,3,4,,,,
+Jackson,Michigan,United States,60,,,,,227,0,160309,9618540,292632455,81.29%,2,-1,,37708,,,#DIV/0!,,,,Midwest,,228,209,1,,,,,
+Albany,Georgia,United States,130,,,,,228,1,157399,20461870,292789854,81.33%,-1,-1,,41223,,,#DIV/0!,,,,South,,171,211,1,,,,,
+Williamsport,Pennsylvania,United States,60,,,,,229,0,156685,9401100,292946539,81.37%,2,-1,,45170,,,#DIV/0!,,,,Northeast,,229,213,,,,,,
+St. George,Utah,United States,180,,,,,230,1,155600,28008000,293102139,81.42%,-1,-1,,,,,#DIV/0!,,,,Southwest,,145,228,1,,,,,
+Alexandria,Louisiana,United States,130,,,,,231,1,154441,20077330,293256580,81.46%,-1,-1,,46689,,,#DIV/0!,,,,South,,176,215,1,,,,,
+Parkersburg,West Virginia,United States,110,,,,,232,0,154023,16942530,293410603,81.50%,-1,-1,,,,,#DIV/0!,,,,Mid-Atlantic,,190,206,1,,,,,
+Bangor,Maine,United States,170,,,,,233,1,153746,26136820,293564349,81.55%,1,1,,40060,,,#DIV/0!,,,,Northeast,,148,217,1,,,,,
+Ithaca,New York,United States,70,,,,,234,0,152028,10641960,293716377,81.59%,1,1,,59414,,,#DIV/0!,,,,Northeast,,224,220,,,,,,
+Wichita Falls,Texas,United States,200,,,,,235,1,150829,30165800,293867206,81.63%,-1,-1,,,,,#DIV/0!,,,,South,,136,223,1,,,,,
+Jefferson City,Missouri,United States,50,,,,,236,0,150151,7507550,294017357,81.67%,-1,-1,,41041,,,#DIV/0!,,,,Midwest,,235,222,1,,,Joint station with Columbia,,
+Texarkana,Texas,United States,100,,,,,237,0,149701,14970100,294167058,81.71%,,,,,,,,,,,,,,,1,,,,,
+Hattiesburg,Mississippi,United States,100,,,,,238,0,148839,14883900,294315897,81.75%,,,,,,,,,Gulfport,,South,,,,2,,,,,
+Pottsville,Pennsylvania,United States,50,,,,,239,0,148289,7414450,294464186,81.80%,2,-1,,45170,,,#DIV/0!,,,,Northeast,,236,224,,,,,,
+Wheeling,West Virginia,United States,80,,,,,240,0,147950,11836000,294612136,81.84%,-1,-1,,,,,#DIV/0!,,,,Mid-Atlantic,,219,226,,,,,,
+Florence,Alabama,United States,170,,,,,241,1,147317,25043890,294759453,81.88%,-1,-1,,36311,,,#DIV/0!,,,,South,,154,225,1,,,,,
+Grand Junction,Colorado,United States,320,,,,,242,1,147000,47040000,294906453,81.92%,2,1,,50752,,,#DIV/0!,,Denver,,Southwest,,102,227,1,,,,,
+Traverse City,Michigan,United States,200,,,,,243,1,144411,28882200,295050864,81.96%,,,,,,,,,,,Midwest,,,,1,,,,,
+Valdosta,Georgia,United States,100,,,,,244,0,143317,14331700,295194181,82.00%,,,,,,,,,Tallahassee,,South,,,,1,,,,,
+Tupelo,Mississippi,United States,150,,,,,245,1,139723,20958450,295333904,82.04%,,,,,,,,,Memphis,,South,,,,1,,,,,
+Homosassa Springs,Florida,United States,90,,,,,246,0,139377,12543930,295473281,82.08%,,,,,,,,,Tampa,,South,,,,,,,,,
+Flagstaff,Arizona,United States,100,,,,,247,0,137682,13768200,295610963,82.11%,-1,-1,,40305,,,#DIV/0!,,,,Southwest,,206,231,1,,,,,
+Cape Girardeau,Missouri,United States,160,,,,,248,1,136832,21893120,295747795,82.15%,,,,,,,,,St. Louis,,Midwest,,,,2,2,,,,
+La Crosse,Wisconsin,United States,100,,,,,249,0,136749,13674900,295884544,82.19%,,,,,,,,,Rochester,,Midwest,,,,,,,,,
+Paducah,Kentucky,United States,80,,,,,250,0,135438,10835040,296019982,82.23%,,,,,,,,,,,South,,,,,,,,,
+Eureka,California,United States,300,,,,,251,1,134827,40448100,296154809,82.27%,1,1,,51374,,,#DIV/0!,,,,Southwest,,108,230,,,,,,
+Manhattan,Kansas,United States,80,,,,,252,0,134804,10784320,296289613,82.30%,,,,,,,,,Topeka,,Plains,,,,,,,,,
+Jamestown,New York,United States,70,,,,,253,0,132053,9243710,296421666,82.34%,,,,,,,,,Erie,,Northeast,,,,,,,,,
+Logan,Utah,United States,60,,,,,254,0,131364,7881840,296553030,82.38%,-1,-1,,,,,#DIV/0!,,,,Southwest,,231,233,,,,,,
+Lawton,Oklahoma,United States,80,,,,,255,0,131183,10494640,296684213,82.41%,-1,-1,,42331,,,#DIV/0!,,,,South,,221,234,,,,,,
+Findlay,Ohio,United States,70,,,,,256,0,131006,9170420,296815219,82.45%,,,,,,,,,Toledo,,Midwest,,,,,,,,,
+Hot Springs,Arkansas,United States,80,,,,,257,0,130690,10455200,296945909,82.48%,,,,,,,,,Little Rock,,South,,,,,,,,,
+Jackson,Tennessee,United States,120,,,,,258,0,130450,15654000,297076359,82.52%,-1,-1,,,,,#DIV/0!,,,,South,,178,203,2,,,,,
+Bismarck,North Dakota,United States,300,,,,,259,1,129517,38855100,297205876,82.56%,-1,-1,,,,,#DIV/0!,,,,Plains,,109,236,1,,,,,
+Pittsfield,Massachusetts,United States,50,,,,,260,0,128715,6435750,297334591,82.59%,,,,,,,,,Albany,,Northeast,,,,,,,,,
+Farmington,New Mexico,United States,230,,,,,261,1,128529,29561670,297463120,82.63%,,,,,,,,,Albuquerque,,Southwest,,,,,,no connection,,,
+Sierra Vista,Arizona,United States,100,,,,,262,0,127448,12744800,297590568,82.66%,,,,,,,,,Tucson,,Southwest,,,,,,,,,
+London,Kentucky,United States,110,,,,,263,0,127316,14004760,297717884,82.70%,,,,,,,,,,,South,,,,1,,,,,
+Carbondale,Illinois,United States,130,,,,,264,0,126685,16469050,297844569,82.73%,,,,,,,,,,,Midwest,,,,1,,,,,
+Edwards,Colorado,United States,150,,,,,265,1,126090,18913500,297970659,82.77%,2,1,,50752,,,#DIV/0!,,Denver,,Southwest,,174,246,1,,,,,
+Altoona,Pennsylvania,United States,50,,,,,266,0,125955,6297750,298096614,82.80%,,,,,,,,,Johnstown,,Northeast,,,,,,,,,
+Goldsboro,North Carolina,United States,65,,,,,267,0,124456,8089640,298221070,82.84%,,,,,,,,,,,South,,,,,,,,,
+Mankato,Minnesota,United States,100,,,,,268,0,123770,12377000,298344840,82.87%,,,,,,,,,,,Midwest,,,,,,,,,
+Beckley,West Virginia,United States,75,,,,,269,0,123373,9252975,298468213,82.91%,,,,,,,,,,,Mid-Atlantic,,,,1,,,,,
+Augusta,Maine,United States,85,,,,,270,0,121112,10294520,298589325,82.94%,,,,,,,,,,,Northeast,,,,,,,,,
+Rome,Georgia,United States,90,,,,,271,0,121002,10890180,298710327,82.98%,,,,,,,,,,,South,,,,,,,,,
+Victoria,Texas,United States,100,,,,,272,0,120427,12042700,298830754,83.01%,,,,,,,,,,,South,,,,,,,,,
+Watertown,New York,United States,100,,,,,273,0,119103,11910300,298949857,83.04%,,,,,,,,,,,Northeast,,,,,,,,,
+Kokomo,Indiana,United States,62,,,,,274,0,118936,7374032,299068793,83.07%,,,,,,,,,,,Midwest,,,,,,,,,
+Owensboro,Kentucky,United States,50,,,,,275,0,116506,5825300,299185299,83.11%,,,,,,,,,,,South,,,,,,,,,
+Quincy,Illinois,United States,150,,,,,276,1,116393,17458950,299301692,83.14%,,,,,,,,,Springfield,,Midwest,,,,1,,,,40,91.4
+Wenatchee,Washington,United States,90,,,,,277,0,116178,10456020,299417870,83.17%,1,1,,45135,,,#DIV/0!,,Yakima,,Northwest,,215,235,,,,,,
+Missoula,Montana,United States,450,,,,,278,2,116130,52258500,299534000,83.20%,,,,,,,#DIV/0!,,,,Northwest,,82,237,3,,,,,
+Anniston,Alabama,United States,92,,,,,279,0,115916,10664272,299649916,83.24%,,,,,,,,,,,South,,,,,,,,,
+Wooster,Ohio,United States,80,,,,,280,0,115537,9242960,299765453,83.27%,,,,,,,,,Cleveland,,Midwest,,,,,,,,,
+Sheboygan,Wisconsin,United States,80,,,,,281,0,115290,9223200,299880743,83.30%,,,,,,,,,Milwaukee,,Midwest,,,,,,,,,
+San Angelo,Texas,United States,160,,,,,282,1,114854,18376640,299995597,83.33%,,,,,,,,,,,South,,,,1,,,,,
+Brunswick,Georgia,United States,90,,,,,283,0,114806,10332540,300110403,83.36%,,,,,,,,,Jacksonville,,South,,,,,,,,,
+Mount Pleasant,Michigan,United States,70,,,,,284,0,112680,7887600,300223083,83.40%,,,,,,,,,Saginaw,,Midwest,,,,1,,,,,
+Ogdensburg,New York,United States,90,,,,,285,0,111400,10026000,300334483,83.43%,,,,,,,,,Watertown,,Northeast,,,,,,,,,
+Decatur,Illinois,United States,60,,,,,286,0,108350,6501000,300442833,83.46%,,,,,,,,,Springfield,,Midwest,,,,,,,,,
+Sumter,South Carolina,United States,70,,,,,287,0,107919,7554330,300550752,83.49%,,,,,,,,,Columbia,,South,,,,,,,,,
+Cookeville,Tennessee,United States,120,,,,,288,0,107761,12931320,300658513,83.52%,,,,,,,,,Nashville,,South,,,,3,,,,,
+Show Low,Arizona,United States,200,,,,,289,1,107094,21418800,300765607,83.55%,,,,,,,,,Phoenix,,Southwest,,,,,,yes,,,
+Roseburg,Oregon,United States,100,,,,,290,0,106972,10697200,300872579,83.58%,,,,,,,,,Eugene,,Northwest,,,,,,,,,
+Meridian,Mississippi,United States,140,,,,,291,0,106201,14868140,300978780,83.61%,,,,,,,,,Jackson,,South,,,,2,,,,,
+Bluefield,West Virginia,United States,70,,,,,292,0,105237,7366590,301084017,83.63%,,,,,,,,,Blacksburg,,Mid-Atlantic,,,,,,,,,
+Danville,Illinois,United States,130,,,,,293,0,104827,13627510,301188844,83.66%,,,,,,,,,Decatur,,,,,,,,,,,
+Danville,Virginia,United States,70,,,,,293,0,104827,7337890,301293671,83.69%,,,,,,,,,Greensboro,,South,,,,,,,,,
+Twin Falls,Idaho,United States,210,,,,,295,1,103732,21783720,301397403,83.72%,,,,,,,,,Boise,,Northwest,,,,1,,,,,
+Gadsen,Alabama,United States,80,,,,,296,0,103531,8282480,301500934,83.75%,,,,,,,,,Rome,,South,,,,,,,,,
+Fond du Lac,Wisconsin,United States,60,,,,,297,0,101843,6110580,301602777,83.78%,2,-1,,,,,#DIV/0!,,,,Midwest,,227,204,,,,,,
+Grand Forks,North Dakota,United States,120,,,,,298,0,101842,12221040,301704619,83.81%,,,,,,,,,Fargo,,Plains,,,,,,,,,
+Tullahoma,Tennessee,United States,80,,,,,299,0,101344,8107520,301805963,83.83%,,,,,,,,,Huntsville,,South,,,,,,,,,
+Cumberland,Maryland,United States,100,,,,,300,0,100530,10053000,301906493,83.86%,,,,,,,,,Morgantown,,Mid-Atlantic,,,,,,,,,
+Sebring,Florida,United States,80,,,,,301,0,98236,7858880,302004729,83.89%,,,,,,,,,Lakeland,,South,,,,,,,,,
+Bozeman,Montana,United States,228,,,,,302,1,97308,22186224,302102037,83.92%,,,,,,,,,,,,,,,,,,,,
+Cheyenne,Wyoming,United States,65,,,,,303,0,96389,6265285,302198426,83.94%,-1,-1,,,,,#DIV/0!,,Fort Collins,,Northwest,,230,238,,,,,,
+Dubuque,Iowa,United States,100,,,,,304,0,96370,9637000,302294796,83.97%,,,,,,,,,Cedar Rapids,,Midwest,,,,,,,,,
+Clarksburg,West Virginia,United States,,,,,,305,0,94221,0,302389017,84.00%,,,,,,,,,,,,,,,,,,,,
+Moses Lake,Washington,United States,100,,,,,306,0,93147,9314700,302482164,84.02%,,,,,,,,,Spokane,,Northwest,,,,,,,,,
+Brainerd,Minnesota,United States,,,,,,307,0,91824,0,302573988,84.05%,,,,,,,,,,,,,,,,,,,,
+Kalispell,Montana,United States,,,,,,308,0,91633,0,302665621,84.07%,,,,,,,,,,,,,,,,,,,,
+Dixon,Illinois,United States,,,,,,309,0,91611,0,302757232,84.10%,,,,,,,,,,,,,,,,,,,,
+Richmond,Indiana,United States,100,,,,,310,0,91139,9113900,302848371,84.12%,,,,,,,,,Dayton,,,,,,,,,,,
+Pinehurst,North Carolina,United States,,,,,,311,0,90302,0,302938673,84.15%,,,,,,,,,,,,,,,,,,,,
+DeRidder,Louisiana,United States,,,,,,312,0,88330,0,303027003,84.17%,,,,,,,,,,,,,,,,,,,,
+Hermiston,Oregon,United States,50,,,,,313,0,87892,4394600,303114895,84.20%,,,,,,,,,,,Northwest,,,,,,,,,
+Ukiah,California,United States,170,,,,,314,1,87869,14937730,303202764,84.22%,,,,,,,,,,,Southwest,,,,1,,,,,
+Lufkin,Texas,United States,,,,,,315,0,87597,0,303290361,84.25%,,,,,,,,,,,,,,,,,,,,
+Russellville,Arkansas,United States,,,,,,316,0,85152,0,303375513,84.27%,,,,,,,,,,,,,,,,,,,,
+Laurel,Mississippi,United States,,,,,,317,0,84891,0,303460404,84.29%,,,,,,,,,,,,,,,,,,,,
+Grand Island,Nebraska,United States,140,,,,,318,0,84755,11865700,303545159,84.32%,-1,-1,,48627,,,#DIV/0!,,Lincoln,,Plains,,179,241,1,,,,,
+Pocatello,Idaho,United States,80,,,,,319,0,83347,6667760,303628506,84.34%,,,,,,,,,Idaho Falls,,Northwest,,,,,,,,,
+Great Falls,Montana,United States,220,,,,,320,1,82344,18115680,303710850,84.36%,,,,,,,,,Missoula,,,,,,1,,,,,
+Plattsburgh,New York,United States,,,,,,321,0,81654,0,303792504,84.39%,,,,,,,,,,,,,,,,,,,,
+Casper,Wyoming,United States,230,,,,,322,1,81624,18773520,303874128,84.41%,,,,,,,,,,,Northwest,,,,1,,,,,
+Manitowoc,Wisconsin,United States,,,,,,323,0,80671,0,303954799,84.43%,,,,,,,,,,,,,,,,,,,,
+Stillwater,Oklahoma,United States,80,,,,,324,0,80264,6421120,304035063,84.45%,-1,-1,,42331,,,#DIV/0!,,,,South,,222,240,,,,,,
+Warsaw,Indiana,United States,,,,,,325,0,78564,0,304113627,84.48%,,,,,,,,,,,,,,,,,,,,
+Keene,New Hampshire,United States,,,,,,326,0,76851,0,304190478,84.50%,,,,,,,,,,,,,,,,,,,,
+Helena,Montana,United States,,,,,,327,0,76277,0,304266755,84.52%,,,,,,,,,,,,,,,,,,,,
+Minot,North Dakota,United States,,,,,,328,0,73146,0,304339901,84.54%,,,,,,,,,,,,,,,,,,,,
+Gallup,New Mexico,United States,,,,,,329,0,73016,0,304412917,84.56%,,,,,,,,,,,,,,,,,,,,
+Aberdeen,Washington,United States,80,,,,,330,0,72797,5823760,304485714,84.58%,,,,,,,,,,,,,,,,,,,,
+Port Angeles,Washington,United States,130,,,,,331,0,71404,9282520,304557118,84.60%,,,,,,,,,,,,,,,,,,,,
+Aberdeen,South Dakota,United States,210,,,,,332,1,70818,14871780,304627936,84.62%,,,,,,,,,Fargo,,Plains,,,,,,,,,
+Clovis,New Mexico,United States,,,,,,333,0,70505,0,304698441,84.64%,,,,,,,,,,,,,,,,,,,,
+Klamath Falls,Oregon,United States,190,,,,,334,1,65455,12436450,304763896,84.66%,1,1,,43622,,,#DIV/0!,,Medford,,Northwest,,149,243,1,,,,,
+Clearlake,California,United States,60,,,,,335,0,64184,3851040,304828080,84.67%,,,,,,,,,Ukiah,,Southwest,,,,,,,,,
+Enid,Oklahoma,United States,110,,,,,336,0,63091,6940010,304891171,84.69%,-1,-1,,42331,,,#DIV/0!,,,,South,,204,245,,,,,,
+Lewiston,Idaho,United States,140,,,,,337,0,62196,8707440,304953367,84.71%,,,,,,,,,Spokane,,Northwest,,,,,,,,,
+Rutland,Vermont,United States,100,,,,,338,0,60086,6008600,305013453,84.73%,1,1,,,,,#DIV/0!,,,,Northeast,,209,244,,,,,,
+Durango,Colorado,United States,70,,,,,339,0,53989,3779230,305067442,84.74%,,,,,,,,,,,,,,,,,,,,
+Gillette,Wyoming,United States,190,,,,,340,1,48320,9180800,305115762,84.75%,,,,,,,,,,,,,,,1,,,,,
+Pullman,Washington,United States,120,,,,,341,0,44776,5373120,305160538,84.77%,,,,,,,,,Spokane,,,,,,,,,,,
+Martin,Tennessee,United States,,,,,,342,0,34793,0,305195331,84.78%,,,,,,,,,,,,,,,,,,,,
+Elko,Nevada,United States,350,,,,,343,1,18000,6300000,305213331,84.78%,,,,,,,,,Salt Lake City,,Southwest,yes,,,1,2,,,,

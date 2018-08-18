@@ -1,0 +1,120 @@
+,Larger City,Second City,Population City 1,Population City 2,Population_x,Distance (km),Estimated Cost,Cost per person,Cost per person per km,Name_x,Population_y,Name_y,Population
+0,Mexico City,Guadalajara,,,24500000,540,"$10,800,000,000.00",$440.82,$0.82,Mexico City,20137152,Guadalajara,4434252
+1,Mexico City,Puebla,,,23000000,131,"$2,620,000,000.00",$113.91,$0.87,Mexico City,20137152,Puebla,2728790
+2,Mexico City,Toluca,,,22000000,80,"$1,600,000,000.00",$72.73,$0.91,Mexico City,20137152,Toluca,1936126
+3,Boston,Albany,7991371,,9000000,273,"$5,460,000,000.00",$606.67,$2.22,Boston,7991371,Albany,154925
+4,Boston,Albany,7991371,,9000000,273,"$5,460,000,000.00",$606.67,$2.22,Boston,7991371,Albany,1170483
+5,New York,Albany,23362099,,25000000,245,"$4,900,000,000.00",$196.00,$0.80,New York,23362099,Albany,154925
+6,New York,Albany,23362099,,25000000,245,"$4,900,000,000.00",$196.00,$0.80,New York,23362099,Albany,1170483
+7,Rochester,Albany,,,2900000,365,"$7,300,000,000.00","$2,517.24",$6.90,Rochester,248979,Albany,154925
+8,Rochester,Albany,,,2900000,365,"$7,300,000,000.00","$2,517.24",$6.90,Rochester,248979,Albany,1170483
+9,Rochester,Albany,,,2900000,365,"$7,300,000,000.00","$2,517.24",$6.90,Rochester,1177566,Albany,154925
+10,Rochester,Albany,,,2900000,365,"$7,300,000,000.00","$2,517.24",$6.90,Rochester,1177566,Albany,1170483
+11,Boston,Hartford,7991371,,10000000,165,"$3,300,000,000.00",$330.00,$2.00,Boston,7991371,Hartford,1488570
+12,New York,Hartford,23362099,,24000000,188,"$3,760,000,000.00",$156.67,$0.83,New York,23362099,Hartford,1488570
+13,New York,Buffalo,23362099,,23000000,612,"$12,240,000,000.00",$532.17,$0.87,New York,23362099,Buffalo,1213668
+14,Cleveland,Buffalo,,,4900000,305,"$6,100,000,000.00","$1,244.90",$4.08,Cleveland,3497711,Buffalo,1213668
+15,Cleveland,Buffalo,,,4900000,305,"$6,100,000,000.00","$1,244.90",$4.08,Cleveland,61264,Buffalo,1213668
+16,Toronto,Buffalo,,,7100000,160,"$3,200,000,000.00",$450.70,$2.82,Toronto,5928040,Buffalo,1213668
+17,New York,Philadelphia,23362099,,30000000,155,"$3,100,000,000.00",$103.33,$0.67,New York,23362099,Philadelphia,7129428
+18,Denver,Albuquerque,,,4300000,723,"$14,460,000,000.00","$3,362.79",$4.65,Denver,3214218,Albuquerque,1162777
+19,Denver,Kansas City,,,5700000,972,"$19,440,000,000.00","$3,410.53",$3.51,Denver,3214218,Kansas City,2376631
+20,St. Louis,Kansas City,,,5200000,398,"$7,960,000,000.00","$1,530.77",$3.85,St. Louis,2900605,Kansas City,2376631
+21,Denver,Salt Lake City,,,5700000,838,"$16,760,000,000.00","$2,940.35",$3.51,Denver,3214218,Salt Lake City,2350274
+22,Sacramento,Salt Lake City,,,4800000,1050,"$21,000,000,000.00","$4,375.00",$4.17,Sacramento,2462722,Salt Lake City,2350274
+23,Portland,Salt Lake City,,,5400000,1243,"$24,860,000,000.00","$4,603.70",$3.70,Portland,2992924,Salt Lake City,2350274
+24,Portland,Salt Lake City,,,5400000,1243,"$24,860,000,000.00","$4,603.70",$3.70,Portland,625726,Salt Lake City,2350274
+25,San Antonio,Austin,,,4000000,128,"$2,560,000,000.00",$640.00,$5.00,San Antonio,2234003,Austin,1834303
+26,San Antonio,McAllen,,,3000000,383,"$7,660,000,000.00","$2,553.33",$6.67,San Antonio,2234003,McAllen,868167
+27,Monterrey,McAllen,,,5000000,241,"$4,820,000,000.00",$964.00,$4.00,Monterrey,4106054,McAllen,868167
+28,Atlanta,Birmingham,6092295,,7400000,236,"$4,720,000,000.00",$637.84,$2.70,Atlanta,6092295,Birmingham,1309818
+29,Memphis,Birmingham,,,2700000,384,"$7,680,000,000.00","$2,844.44",$7.41,Memphis,1369548,Birmingham,1309818
+30,New Orleans,Birmingham,,,2700000,553,"$11,060,000,000.00","$4,096.30",$7.41,New Orleans,1452502,Birmingham,1309818
+31,Atlanta,Chattanooga,6092295,936142,7000000,189,"$3,780,000,000.00",$540.00,$2.86,Atlanta,6092295,Chattanooga,936142
+32,Nashville,Chattanooga,,,3200000,215,"$4,300,000,000.00","$1,343.75",$6.25,Nashville,1845235,Chattanooga,936142
+33,Atlanta,Greenville,6092295,,7400000,234,"$4,680,000,000.00",$632.43,$2.70,Atlanta,6092295,Greenville,1384996
+34,Atlanta,Greenville,6092295,,7400000,234,"$4,680,000,000.00",$632.43,$2.70,Atlanta,6092295,Greenville,220061
+35,Atlanta,Greenville,6092295,,7400000,234,"$4,680,000,000.00",$632.43,$2.70,Atlanta,6092295,Greenville,48958
+36,Charlotte,Greenville,2454619,,3900000,163,"$3,260,000,000.00",$835.90,$5.13,Charlotte,2454619,Greenville,1384996
+37,Charlotte,Greenville,2454619,,3900000,163,"$3,260,000,000.00",$835.90,$5.13,Charlotte,2454619,Greenville,220061
+38,Charlotte,Greenville,2454619,,3900000,163,"$3,260,000,000.00",$835.90,$5.13,Charlotte,2454619,Greenville,48958
+39,Atlanta,Jacksonville,6092295,,7600000,567,"$11,340,000,000.00","$1,492.11",$2.63,Atlanta,6092295,Jacksonville,1502515
+40,Atlanta,Jacksonville,6092295,,7600000,567,"$11,340,000,000.00","$1,492.11",$2.63,Atlanta,6092295,Jacksonville,187589
+41,Orlando,Jacksonville,,,4400000,227,"$4,540,000,000.00","$1,031.82",$4.55,Orlando,2920603,Jacksonville,1502515
+42,Orlando,Jacksonville,,,4400000,227,"$4,540,000,000.00","$1,031.82",$4.55,Orlando,2920603,Jacksonville,187589
+43,Memphis,Little Rock,,,2200000,221,"$4,420,000,000.00","$2,009.09",$9.09,Memphis,1369548,Little Rock,893610
+44,Oklahoma City,Little Rock,,,2200000,545,"$10,900,000,000.00","$4,954.55",$9.09,Oklahoma City,1367325,Little Rock,893610
+45,Cleveland,New York,,,24000000,469,"$9,380,000,000.00",$390.83,$0.83,Cleveland,3497711,New York,23362099
+46,Cleveland,New York,,,24000000,469,"$9,380,000,000.00",$390.83,$0.83,Cleveland,61264,New York,23362099
+47,Cleveland,Pittsburgh,,,6000000,214,"$4,280,000,000.00",$713.33,$3.33,Cleveland,3497711,Pittsburgh,2661369
+48,Cleveland,Pittsburgh,,,6000000,214,"$4,280,000,000.00",$713.33,$3.33,Cleveland,61264,Pittsburgh,2661369
+49,Toronto,Ottawa,,,7200000,449,"$8,980,000,000.00","$1,247.22",$2.78,Toronto,5928040,Ottawa,1323783
+50,Nashville,Knoxville,,,3000000,288,"$5,760,000,000.00","$1,920.00",$6.67,Nashville,1845235,Knoxville,1091370
+51,Charlotte,Knoxville,2454619,,3500000,371,"$7,420,000,000.00","$2,120.00",$5.71,Charlotte,2454619,Knoxville,1091370
+52,Nashville,Louisville,,,3500000,283,"$5,660,000,000.00","$1,617.14",$5.71,Nashville,1845235,Louisville,1478637
+53,Indianapolis,Louisville,,,3800000,184,"$3,680,000,000.00",$968.42,$5.26,Indianapolis,2310360,Louisville,1478637
+54,St. Louis,Louisville,,,4300000,418,"$8,360,000,000.00","$1,944.19",$4.65,St. Louis,2900605,Louisville,1478637
+55,Cincinnati,Louisville,,,3600000,160,"$3,200,000,000.00",$888.89,$5.56,Cincinnati,2188001,Louisville,1478637
+56,Nashville,Memphis,,,3400000,341,"$6,820,000,000.00","$2,005.88",$5.88,Nashville,1845235,Memphis,1369548
+57,Dayton,Cincinnati,,,3000000,87,"$1,740,000,000.00",$580.00,$6.67,Dayton,1079417,Cincinnati,2188001
+58,Indianapolis,Cincinnati,,,4100000,175,"$3,500,000,000.00",$853.66,$4.88,Indianapolis,2310360,Cincinnati,2188001
+59,Indianapolis,Dayton,,,3300000,187,"$3,740,000,000.00","$1,133.33",$6.06,Indianapolis,2310360,Dayton,1079417
+60,Chicago,Cleveland,9899902,,13000000,470,"$9,400,000,000.00",$723.08,$1.54,Chicago,9899902,Cleveland,3497711
+61,Chicago,Cleveland,9899902,,13000000,470,"$9,400,000,000.00",$723.08,$1.54,Chicago,9899902,Cleveland,61264
+62,Detroit,Cleveland,,,8800000,279,"$5,580,000,000.00",$634.09,$2.27,Detroit,5311449,Cleveland,3497711
+63,Detroit,Cleveland,,,8800000,279,"$5,580,000,000.00",$634.09,$2.27,Detroit,5311449,Cleveland,61264
+64,Chicago,Grand Rapids,9899902,,11000000,286,"$5,720,000,000.00",$520.00,$1.82,Chicago,9899902,Grand Rapids,1395128
+65,Detroit,Grand Rapids,,,6700000,253,"$5,060,000,000.00",$755.22,$2.99,Detroit,5311449,Grand Rapids,1395128
+66,Chicago,Indianapolis,9899902,,12000000,293,"$5,860,000,000.00",$488.33,$1.67,Chicago,9899902,Indianapolis,2310360
+67,St. Louis,Indianapolis,,,5200000,390,"$7,800,000,000.00","$1,500.00",$3.85,St. Louis,2900605,Indianapolis,2310360
+68,Chicago,Milwaukee,9899902,,12000000,149,"$2,980,000,000.00",$248.33,$1.67,Chicago,9899902,Milwaukee,2037542
+69,Minneapolis,Milwaukee,,,5800000,543,"$10,860,000,000.00","$1,872.41",$3.45,Minneapolis,3759978,Milwaukee,2037542
+70,Chicago,St. Louis,9899902,,13000000,478,"$9,560,000,000.00",$735.38,$1.54,Chicago,9899902,St. Louis,2900605
+71,Detroit,Toronto,,,11000000,360,"$7,200,000,000.00",$654.55,$1.82,Detroit,5311449,Toronto,5928040
+72,Greenville,Columbia,,,2000000,166,"$3,320,000,000.00","$1,660.00",$10.00,Greenville,1384996,Columbia,219486
+73,Greenville,Columbia,,,2000000,166,"$3,320,000,000.00","$1,660.00",$10.00,Greenville,1384996,Columbia,913797
+74,Greenville,Columbia,,,2000000,166,"$3,320,000,000.00","$1,660.00",$10.00,Greenville,220061,Columbia,219486
+75,Greenville,Columbia,,,2000000,166,"$3,320,000,000.00","$1,660.00",$10.00,Greenville,220061,Columbia,913797
+76,Greenville,Columbia,,,2000000,166,"$3,320,000,000.00","$1,660.00",$10.00,Greenville,48958,Columbia,219486
+77,Greenville,Columbia,,,2000000,166,"$3,320,000,000.00","$1,660.00",$10.00,Greenville,48958,Columbia,913797
+78,Pittsburgh,Harrisburg,,,3800000,328,"$6,560,000,000.00","$1,726.32",$5.26,Pittsburgh,2661369,Harrisburg,1228559
+79,Philadelphia,Harrisburg,7991371,,8300000,172,"$3,440,000,000.00",$414.46,$2.41,Philadelphia,7129428,Harrisburg,1228559
+80,Calgary,Edmonton,,,2700000,300,"$6,000,000,000.00","$2,222.22",$7.41,Calgary,1392609,Edmonton,1321426
+81,Albuquerque,El Paso,1162777,,2200000,431,"$8,620,000,000.00","$3,918.18",$9.09,Albuquerque,1162777,El Paso,1045180
+82,Tucson,El Paso,,,2000000,510,"$10,200,000,000.00","$5,100.00",$10.00,Tucson,1039697,El Paso,1045180
+83,Los Angeles,Fresno,18238998,,20000000,355,"$7,100,000,000.00",$355.00,$1.00,Los Angeles,18238998,Fresno,1100113
+84,Sacramento,Fresno,,,2500000,282,"$5,640,000,000.00","$2,256.00",$8.00,Sacramento,2462722,Fresno,1100113
+85,Los Angeles,Las Vegas,18238998,,21000000,435,"$8,700,000,000.00",$414.29,$0.95,Los Angeles,18238998,Las Vegas,2247056
+86,Salt Lake City,Las Vegas,,,4600000,676,"$13,520,000,000.00","$2,939.13",$4.35,Salt Lake City,2350274,Las Vegas,2247056
+87,Los Angeles,Phoenix,18238998,,23000000,600,"$12,000,000,000.00",$521.74,$0.87,Los Angeles,18238998,Phoenix,4329534
+88,Los Angeles,San Diego,18238998,,22000000,206,"$4,120,000,000.00",$187.27,$0.91,Los Angeles,18238998,San Diego,3177063
+89,Charlotte,Greensboro,2454619,,4000000,148,"$2,960,000,000.00",$740.00,$5.00,Charlotte,2454619,Greensboro,1611243
+90,Raleigh,Greensboro,,,3600000,123,"$2,460,000,000.00",$683.33,$5.56,Raleigh,1998808,Greensboro,1611243
+91,Raleigh,Richmond,,,2200000,274,"$5,480,000,000.00","$2,490.91",$9.09,Raleigh,1998808,Richmond,1231980
+92,Raleigh,Richmond,,,2200000,274,"$5,480,000,000.00","$2,490.91",$9.09,Raleigh,1998808,Richmond,91139
+93,Virginia Beach,Richmond,,,3000000,172,"$3,440,000,000.00","$1,146.67",$6.67,Virginia Beach,1803080,Richmond,1231980
+94,Virginia Beach,Richmond,,,3000000,172,"$3,440,000,000.00","$1,146.67",$6.67,Virginia Beach,1803080,Richmond,91139
+95,Austin,Houston,1834303,,9000000,260,"$5,200,000,000.00",$577.78,$2.22,Austin,1834303,Houston,6177035
+96,Orlando,Tampa,,,5700000,135,"$2,700,000,000.00",$473.68,$3.51,Orlando,2920603,Tampa,2842878
+97,Guadalajara,Leon,,,6000000,220,"$4,400,000,000.00",$733.33,$3.33,Guadalajara,4434252,Leon,389600
+98,Oklahoma City,Tulsa,,,2500000,171,"$3,420,000,000.00","$1,368.00",$8.00,Oklahoma City,1367325,Tulsa,1122259
+99,Kansas City,Tulsa,,,3400000,437,"$8,740,000,000.00","$2,570.59",$5.88,Kansas City,2376631,Tulsa,1122259
+100,Monterrey,Torreon,,,5300000,340,"$6,800,000,000.00","$1,283.02",$3.77,Monterrey,4106054,Torreon,1275993
+101,Minneapolis,Winnipeg,,,4700000,740,"$14,800,000,000.00","$3,148.94",$4.26,Minneapolis,3759978,Winnipeg,778489
+102,Seattle,Minneapolis,,,8100000,2669,"$53,380,000,000.00","$6,590.12",$2.47,Seattle,4399332,Minneapolis,3759978
+103,Seattle,Portland,,,7400000,280,"$5,600,000,000.00",$756.76,$2.70,Seattle,4399332,Portland,2992924
+104,Seattle,Portland,,,7400000,280,"$5,600,000,000.00",$756.76,$2.70,Seattle,4399332,Portland,625726
+105,Seattle,Vancouver,,,6600000,230,"$4,600,000,000.00",$696.97,$3.03,Seattle,4399332,Vancouver,2463431
+106,Ottawa,Montreal,,,5500000,200,"$4,000,000,000.00",$727.27,$3.64,Ottawa,1323783,Montreal,4098927
+107,Houston,New Orleans,,,7600000,559,"$11,180,000,000.00","$1,471.05",$2.63,Houston,6177035,New Orleans,1452502
+108,Jacksonville,New Orleans,,,3000000,879,"$17,580,000,000.00","$5,860.00",$6.67,Jacksonville,1502515,New Orleans,1452502
+109,Jacksonville,New Orleans,,,3000000,879,"$17,580,000,000.00","$5,860.00",$6.67,Jacksonville,187589,New Orleans,1452502
+110,Houston,San Antonio,,,8500000,318,"$6,360,000,000.00",$748.24,$2.35,Houston,6177035,San Antonio,2234003
+111,El Paso,San Antonio,,,3200000,887,"$17,740,000,000.00","$5,543.75",$6.25,El Paso,1045180,San Antonio,2234003
+112,Kansas City,Omaha,,,3200000,300,"$6,000,000,000.00","$1,875.00",$6.25,Kansas City,2376631,Omaha,922051
+113,Miami,Orlando,,,9200000,380,"$7,600,000,000.00",$826.09,$2.17,Miami,6375434,Orlando,2920603
+114,Buffalo,Rochester,1213668,,3000000,123,"$2,460,000,000.00",$820.00,$6.67,Buffalo,1213668,Rochester,248979
+115,Buffalo,Rochester,1213668,,3000000,123,"$2,460,000,000.00",$820.00,$6.67,Buffalo,1213668,Rochester,1177566
+116,Portland,Sacramento,,,5600000,933,"$18,660,000,000.00","$3,332.14",$3.57,Portland,2992924,Sacramento,2462722
+117,Portland,Sacramento,,,5600000,933,"$18,660,000,000.00","$3,332.14",$3.57,Portland,625726,Sacramento,2462722
+118,Phoenix,Tucson,,,5300000,187,"$3,740,000,000.00",$705.66,$3.77,Phoenix,4329534,Tucson,1039697

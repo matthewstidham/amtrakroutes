@@ -1,0 +1,54 @@
+Name,State,Population rank (core city),Population rank (Primary Statistical Area),Distance to closest larger Chinese Metropolitan Area (KM),Power,Population MetropolitanArea,Population MetroPower,Rolling population total,GDP per capita of Province,Distance from a foreign country (KM),Score,"If part of a larger city's transportation, city name",Closest City Name,Closest City Rank,Largest in Province?,Latitude,Longitude
+Thiruvananthapuram,Kerala,,,,,1679754,,126344932,,,,,,,,8.5,76.95
+Kollam,Kerala,,,,,1110668,,156501291,,,,,,,,8.88,76.6
+Madurai,Tamil Nadu,,,,,1465625,,134109162,,,,,,,,9.9,78.1
+Kochi,Kerala,,,,,2119724,,109830560,,,,,,,,9.97,76.28
+Thrissur,Kerala,,,,,1861269,,117655484,,,,,,,,10.52,76.21
+Tiruchirappalli,Tamil Nadu,,,,,1022518,,159643481,,,,,,,,10.8,78.7
+Coimbatore,Tamil Nadu,,,,,2136916,,107710836,,,,,,,,11,77
+Malappuram,Kerala,,,,,1699060,,124665178,,,,,,,,11.041,76.083
+Kozhikode,Kerala,,,,,2028399,,113908115,,,,,,,,11.25,75.78
+Kannur,Kerala,,,,,1640986,,127985918,,,,,,,,11.8689,73.3555
+Bangalore,Karnataka,,,,,8520435,,65976690,,,,,,,,13,77.6
+Chennai,Tamil Nadu,,,,,8653521,,57456255,,,,,,,,13.1,80.25
+Vijayawada,Andhra Pradesh,,,,,1476931,,132643537,,,,,,,,16.5193,80.6305
+Hyderabad,Telangana,,,,,7677018,,73653708,,,,,,,,17.6,78.8
+Visakhapatnam,Andhra Pradesh,,,,,1728128,,122966118,,,,,,,,17.7,83.2
+Pune,Maharashtra,,,,,5057709,,85069110,,,,,,,,18.5,73.8
+Mumbai,Maharashtra,,,,,18394912,,18394912,,,,,,,,19,72.8
+Vasai-Virar,Maharashtra,,,,,1222390,,146105326,,,,,,,,19.47,72.8
+Aurangabad,Maharashtra,,,,,1193167,,149707102,,,,,,,,19.88,75.32
+Nashik,Maharashtra,,,,,1561809,,131166606,,,,,,,,20,73.78
+Surat,Gujarat,,,,,4591246,,89660356,,,,,,,,21.15,72.8
+Nagpur,Maharashtra,,,,,2497870,,101027805,,,,,,,,21.15,79.09
+Durg-Bhilainagar,Chhattisgarh,,,,,1064222,,157565513,,,,,,,,21.21,81.38
+Raipur,Chhattisgarh,,,,,1123558,,153152509,,,,,,,,21.25,81.63
+Rajkot,Gujarat,,,,,1390640,,139767034,,,,,,,,22.3,70.7833
+Vadodara,Gujarat,,,,,1822221,,119477705,,,,,,,,22.3,73.2
+Kolkata,West Bengal,,,,,14057991,,48802734,,,,,,,,22.55,88.4
+Indore,Madhya Pradesh,,,,,2170295,,105573920,,,,,,,,22.7,75.86
+Jamshedpur,Jharkhand,,,,,1339438,,141106472,,,,,,,,22.8,86.2
+Ahmedabad,Gujarat,,,,,6357693,,80011401,,,,,,,,23,73
+Jabalpur,Madhya Pradesh,,,,,1268848,,142375320,,,,,,,,23.16,79.95
+Bhopal,Madhya Pradesh,,,,,1886100,,115794215,,,,,,,,23.25,77.4
+Ranchi,Jharkhand,,,,,1120374,,154272883,,,,,,,,23.36,85.33
+Asansol,West Bengal,,,,,1243414,,144882936,,,,,,,,23.68,86.99
+Dhanbad,Jharkhand,,,,,1196214,,148513935,,,,,,,,23.8,86.45
+Kota,Rajasthan,,,,,1001694,,160645175,,,,,,,,25,76.15
+Varanasi,Uttar Pradesh,,,,,1432280,,135541442,,,,,,,,25.28,82.96
+Allahabad,Uttar Pradesh,,,,,1212395,,147317721,,,,,,,,25.45,81.85
+Patna,Bihar,,,,,2049156,,111879716,,,,,,,,25.6,85.1
+Gwalior,Madhya Pradesh,,,,,1117740,,155390623,,,,,,,,26.22,78.178
+Jodhpur,Rajasthan,,,,,1138300,,152028951,,,,,,,,26.28,73.02
+Kanpur,Uttar Pradesh,,,,,2920496,,95627015,,,,,,,,26.45,80.33
+Lucknow,Uttar Pradesh,,,,,2902920,,98529935,,,,,,,,26.8,80.9
+Jaipur,Rajasthan,,,,,3046163,,92706519,,,,,,,,26.9,75.8
+Agra,Uttar Pradesh,,,,,1760285,,121237990,,,,,,,,27.18,78.02
+Faridabad,Haryana,,,,,1414050,,138376394,,,,,,,,28.4211,77.3078
+Delhi,Delhi,,,,,16349831,,34744743,,,,,,,,28.6,77.2
+Ghaziabad,Uttar Pradesh,,,,,2375820,,103403625,,,,,,,,28.67,77.42
+Meerut,Uttar Pradesh,,,,,1420902,,136962344,,,,,,,,28.99,77.7
+Chandigarh,Chandigarh,,,,,1055450,,158620963,,,,,,,,30.75,76.78
+Ludhiana,Punjab,,,,,1618879,,129604797,,,,,,,,30.91,75.85
+Amritsar,Punjab,,,,,1183549,,150890651,,,,,,,,31.64,74.86
+Srinagar,Jammu and Kashmir,,,,,1264202,,143639522,,,,,,,,34.1,74.8
